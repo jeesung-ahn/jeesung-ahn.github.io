@@ -22,11 +22,11 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(0,0,0)" id="about">About Me </h2>
 
-Hi there! Welcome to my website! My name is Jeesung Ahn, I am a 4th-year Ph.D. candidate in the [Department of Psychology](https://psychology.sas.upenn.edu) at the University of Pennsylvania, studying how to effectively persuade people to engage in healthier lifestyles. I am working with [Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](http://cni.upenn.edu/).
+Hi there! Welcome to my website! My name is Jeesung Ahn, I am a 4th-year Ph.D. candidate in the [Department of Psychology](https://psychology.sas.upenn.edu) at the University of Pennsylvania. I am working with [Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](http://cni.upenn.edu/).
 
-My current research mainly revolves around two topics: 
-• using the brain-as-predictor approach to evaluate the effectiveness of persuasive messages in promoting health behaviors (e.g., physical activity)
-• understanding how brain networks and social networks are associated with individual differences in healthy lifestyles and mental well-being (e.g., loneliness).
+My current research mainly revolves around two topics:
+- using the brain-as-predictor approach to evaluate the effectiveness of persuasive messages in promoting health behaviors (e.g., physical activity)
+- understanding how brain networks and social networks are associated with individual differences in healthy lifestyles and mental well-being (e.g., loneliness).
 
 Over the course of 7+ years leading psychology and neuroimaging research projects, I have primarily worked with human behavioral and brain data in the experimental psychology and social neuroscience domains. My research methods are multi-disciplinary and include experimental design (A/B testing), survey/behavioral/neuroimaging data collection, meta-analysis, content analysis, descriptive/parametric/multivariate statistics, general linear modeling, multilevel modeling, time-series analysis, computational network analysis, and machine-learning classification.
 
