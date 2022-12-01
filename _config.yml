@@ -51,6 +51,10 @@ menu:
     url:               /#research
   - title:             PUBLICATIONS
     url:               /#publications
+  - title:             CV
+    url:               /assets/files/CV_JeesungAhn.pdf
+  - title:             RESUMÉ
+    url:               /assets/files/Resumé_JeesungAhn.pdf
   - title:             CONTACT
     url:               /#contact-me
 #   - title:             Blog
