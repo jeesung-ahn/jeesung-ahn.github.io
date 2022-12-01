@@ -22,15 +22,15 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(0,0,0)" id="about">About Me </h2>
 
-Hi there! Welcome to my website! My name is Ling-Qi Zhang (张凌祺), I am a 5th year PhD student at the University of Pennsylvania working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) in the [Department of Psychology](https://psychology.sas.upenn.edu) and the [Computational Neuroscience Initiative](http://cni.upenn.edu/).
+Hi there! Welcome to my website! My name is Jeesung Ahn, I am a 4th-year Ph.D. candidate in the [Department of Psychology](https://psychology.sas.upenn.edu) at the University of Pennsylvania, studying how to effectively persuade people to engage in healthier lifestyles. I am working with [Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](http://cni.upenn.edu/).
 
-Previously, I did my undergraduate in Computer Science, at Southern University of Science and Technology which is newly established in 2011 at Shenzhen, China ([Here is a short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631)). Here is also a copy of my [CV](https://drive.google.com/file/d/16KW8jVQ18QkFzBzW4cYb4JFqSmoRVIru/view?usp=sharing).
+My current research mainly revolves around two topics: 
+• using the brain-as-predictor approach to evaluate the effectiveness of persuasive messages in promoting health behaviors (e.g., physical activity)
+• understanding how brain networks and social networks are associated with individual differences in healthy lifestyles and mental well-being (e.g., loneliness).
 
-I am interested in how the brain works from a computational perspective. Right now, my research focuses on how regularities in the generative structure of our visual world shape our sensory perception. This consists of mainly two aspects:
+Over the course of 7+ years leading psychology and neuroimaging research projects, I have primarily worked with human behavioral and brain data in the experimental psychology and social neuroscience domains. My research methods are multi-disciplinary and include experimental design (A/B testing), survey/behavioral/neuroimaging data collection, meta-analysis, content analysis, descriptive/parametric/multivariate statistics, general linear modeling, multilevel modeling, time-series analysis, computational network analysis, and machine-learning classification.
 
-1) Efficient coding, which studies how the brain should optimize its representation to maximize the amount of information transmission, under realistic biological constraints; And 2) Bayesian inference, which studies if and what prior regularities the brain makes use of to solve ambiguous inverse problems.
-
-I am particularly interested in studying these questions in the context of complex, naturalistic tasks, to understand the extent to which our brain is indeed "optimal" and its limitations when facing challenging inference problem.
+I am passionate about communicating and translating scientific insights into practical and actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about (e.g., consulting for a healthcare company, analyzing/visualizing data for an educational diversity and equity initiative, analyzing/visualizing climate-related data to inform climate activists).
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
