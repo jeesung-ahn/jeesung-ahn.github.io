@@ -145,10 +145,10 @@ I am passionate about communicating and translating scientific insights into pra
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
 
-425 S. University Ave  
-Philadelphia, PA 19104  
+Richards Medical Research Laboratories,
+3700 Hamilton Walk, 5F, Philadelphia, PA 19104 
 
-<p class="home-element"><strong>lingqiz [at] sas [dot] upenn [dot] edu</strong></p>
+<p class="home-element"><strong> jeesung [at] sas [dot] upenn [dot] edu</strong></p>
 
 <style type="text/css">
   .body-social > ul {
