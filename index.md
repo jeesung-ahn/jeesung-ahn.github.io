@@ -143,7 +143,7 @@ I am passionate about communicating and translating scientific insights into pra
 
 * **Jeesung Ahn**, Jonghyun Lee, Jin Hyuk Han, Min Seong Kang, Sanghoon Han, [Group analysis data representing the effects of frontopolar transcranial direct current stimulation on the default mode network](https://www.sciencedirect.com/science/article/pii/S2352340918310163), *Data in Brief*, 2018
 
-* **Jeesung Ahn†**, Hye-young Kim†, Jonghyun Park, Sanghoon Han, [Interactivity of Neural Representations for Perceiving Shared Social Memory], *Science of Emotion and Sensibility*, 2018
+* **Jeesung Ahn†**, Hye-young Kim†, Jonghyun Park, Sanghoon Han, [Interactivity of Neural Representations for Perceiving Shared Social Memory](https://koreascience.kr/article/JAKO201836262560035.pdf), *Science of Emotion and Sensibility*, 2018
 
 **(† deonotes co-first authorship)**
 
