@@ -22,7 +22,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(0,0,0)" id="about">About Me </h2>
 
-Hi there! Welcome to my website! My name is Jeesung Ahn, I am a 4th-year Ph.D. candidate in the [Department of Psychology at the University of Pennsylvania](https://psychology.sas.upenn.edu). I am working with [Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](http://cni.upenn.edu/).
+Hi there! Welcome to my website! My name is Jeesung Ahn, I am a 4th-year Ph.D. candidate in the [Department of Psychology at the University of Pennsylvania](https://psychology.sas.upenn.edu). I am working with [Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab).
 
 My current research mainly revolves around two topics: 
 - using the brain-as-predictor approach to evaluate the effectiveness of persuasive messages in promoting health behaviors (e.g., physical activity)
@@ -40,7 +40,7 @@ Over the course of 7+ years leading psychology and neuroimaging research project
 - meta-analysis of multi-dimensional datasets
 - qualitative content analysis.
 
-I am passionate about communicating and translating scientific insights into practical and actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about (e.g., consulting for a healthcare company, analyzing/visualizing data for an educational diversity and equity initiative, analyzing/visualizing climate-related data to inform climate activists).
+I am passionate about communicating and translating scientific insights into practical and actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about (e.g., consulting for a healthcare company with [Penn Biotech Group](https://pennbiotechgroup.org/), analyzing/visualizing data for an [educational diversity and equity initiative](https://web.sas.upenn.edu/dive/), analyzing/visualizing climate-related data to inform climate activists).
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
@@ -132,23 +132,10 @@ I am passionate about communicating and translating scientific insights into pra
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
 
-* AS Benjamin, **LQ Zhang**, C Qiu, AA Stocker, and KP Kording.
-[Efficient neural codes naturally emerge through gradient descent learning](https://www.biorxiv.org/content/10.1101/2022.05.11.491548v1). Nature Communications (in press), 2022.
+* Dale Zhou, Yoona Kang, Danielle Cosme, Mia Jovanova, Xiaosong He, Arun Mahadevan, **Jeesung Ahn**, Ovidia Stanoi, Julia Brynildsen, Nicole Cooper, Eli Cornblath, Linden Parkes, Peter Mucha, Kevin Ochsner, David Lydon-Staley, Emily Falk, Dani Bassett. Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present. Proceedings of the National Academy of Sciences (in press), 2022.
 
-* **LQ Zhang** and AA Stocker.
-[Prior expectations in visual speed perception predict encoding characteristics of neurons in area MT](https://www.jneurosci.org/content/42/14/2951). Journal of Neuroscience, 2022.
-
-* **LQ Zhang**, NP Cottaris, and DH Brainard.
-[An image reconstruction framework for characterizing initial visual encoding](https://elifesciences.org/articles/71132). eLife, 2022.
-
-* JP Noel†, **LQ Zhang†**, AA Stocker, and DE Angelaki.
-[Individuals with autism spectrum disorder have altered visual encoding capacity](https://doi.org/10.1371/journal.pbio.3001215). PLOS Biology, 2021.
-
-* AS Benjamin†, C Qiu†, **LQ Zhang†**, KP Kording, and AA Stocker. [Shared visual illusions between humans and artificial neural networks](https://ccneuro.org/2019/proceedings/0000585.pdf). 2019 Conference on Cognitive Computational Neuroscience.
-
-* MAK Peters†, **LQ Zhang†**, and L Shams. [The material-weight illusion is a Bayes-optimal percept under competing density priors](https://peerj.com/articles/5760/). PeerJ, 2018.
-
-* Z Fang, **LQ Zhang**, and K Chen. [A behavior mining based hybrid recommender system](https://ieeexplore.ieee.org/abstract/document/7509785/). 2016 IEEE International Conference Big Data Analysis (ICBDA).
+* Danielle Cosme, Yoona Kang, Jose Carreras Tartak, **Jeesung Ahn**, Faustine E Corbani, Nicole Cooper, Bruce Doré, Xiaosong He, Chelsea Helion, Mia Jovanova, Silicia Lomax, Arun S Mahadevan, Amanda L McGowan, Alexandra Paul, Rui Pei, Anthony Resnick, Ovidia Stanoi, Yi Zhang, Danielle S Bassett, Zachary M Boyd, David Martin Lydon-Staley, Peter Mucha, Kevin N Ochsner, Emily Falk.
+[Study protocol: Social Health Impact of Network Effects (SHINE) Study](https://psyarxiv.com/cj2nx/). PsyArXiv, 2022.
 
 **(† deonotes co-first authorship)**
 
