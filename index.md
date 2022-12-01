@@ -22,7 +22,7 @@ hide_description: yes
 
 <h2 class="h1" style="color: rgb(0,0,0)" id="about">About Me </h2>
 
-Hi there! Welcome to my website! My name is Jeesung Ahn, I am a 4th-year Ph.D. candidate in the [Department of Psychology at the University of Pennsylvania](https://psychology.sas.upenn.edu). I am working with [Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab).
+Hi there! My name is Jeesung Ahn, I am a 4th-year Ph.D. candidate in the [Department of Psychology at the University of Pennsylvania](https://psychology.sas.upenn.edu). I am working with [Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab).
 
 My current research mainly revolves around two topics: 
 - using the brain-as-predictor approach to evaluate the effectiveness of persuasive messages in promoting health behaviors (e.g., physical activity)
