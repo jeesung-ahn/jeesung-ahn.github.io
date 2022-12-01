@@ -1,10 +1,10 @@
 ---
-layout: page
+title: "Personal Website"
 name: index
-title: Personal Website
-description: >
+layout: page
+description: |
   Personal Website of Ling-Qi, PhD Candidate in Computational Neuroscience at Penn.
-hide_description: true
+hide_description: yes
 ---
 
 <style type="text/css">
@@ -132,10 +132,10 @@ I am passionate about communicating and translating scientific insights into pra
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
 
-* Dale Zhou, Yoona Kang, Danielle Cosme, Mia Jovanova, Xiaosong He, Arun Mahadevan, **Jeesung Ahn**, Ovidia Stanoi, Julia Brynildsen, Nicole Cooper, Eli Cornblath, Linden Parkes, Peter Mucha, Kevin Ochsner, David Lydon-Staley, Emily Falk, Dani Bassett. Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present. Proceedings of the National Academy of Sciences (in press), 2022.
+* Dale Zhou, Yoona Kang, Danielle Cosme, Mia Jovanova, Xiaosong He, Arun Mahadevan, **Jeesung Ahn**, Ovidia Stanoi, Julia Brynildsen, Nicole Cooper, Eli Cornblath, Linden Parkes, Peter Mucha, Kevin Ochsner, David Lydon-Staley, Emily Falk, Dani Bassett. Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present. *Proceedings of the National Academy of Sciences (in press)*, 2022.
 
 * Danielle Cosme, Yoona Kang, Jose Carreras Tartak, **Jeesung Ahn**, Faustine E Corbani, Nicole Cooper, Bruce Doré, Xiaosong He, Chelsea Helion, Mia Jovanova, Silicia Lomax, Arun S Mahadevan, Amanda L McGowan, Alexandra Paul, Rui Pei, Anthony Resnick, Ovidia Stanoi, Yi Zhang, Danielle S Bassett, Zachary M Boyd, David Martin Lydon-Staley, Peter Mucha, Kevin N Ochsner, Emily Falk.
-[Study protocol: Social Health Impact of Network Effects (SHINE) Study](https://psyarxiv.com/cj2nx/). PsyArXiv, 2022.
+[Study protocol: Social Health Impact of Network Effects (SHINE) Study](https://psyarxiv.com/cj2nx/). *PsyArXiv*, 2022.
 
 **(† deonotes co-first authorship)**
 
