@@ -1,9 +1,9 @@
 ---
-title: "Personal Website"
+title: "Jeesung Ahn"
 name: index
 layout: page
 description: |
-  Personal Website of Ling-Qi, PhD Candidate in Computational Neuroscience at Penn.
+  Personal Website of Jeesung Ahn, PhD Candidate in Psychology at Penn.
 hide_description: yes
 ---
 
