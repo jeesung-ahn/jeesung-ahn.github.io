@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://lingqiz.github.io/
+url:                   https://jeesung-ahn.github.io/
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,30 +19,30 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Ling-Qi Zhang
+title:                 Jeesung Ahn
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  PhD Candidate in Computational Neuroscience @ Penn
+  PhD Candidate in Communication Neuroscience Lab @ Penn
 
 # A shorter description for the sidebar.
-# tagline: PhD Candidate in Computational Neuroscience @ Penn
+# tagline: PhD Candidate in Communication Neuroscience Lab @ Penn
 
 # A list of keywords for your blog
-keywords:              [Ling-Qi, Zhang, Neuroscience, Psychology, Penn, UPenn]
+keywords:              [Jeesung, Ahn, Psychology, Neuroscience, Network Science, Persuasion, Health behaviors, Mental health, Loneliness, Penn, UPenn]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/lingqi.jpg
+logo:                  /assets/img/jeesung.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Ling-Qi Zhang
-  email:               <lingqiz@sas.upenn.edu>
+  name:                Jeesung Ahn
+  email:               <jeesung@sas.upenn.edu>
   # Used by `jekyll-seo-tag`:
-  twitter:             LingCheeseZ
+  twitter:             jeesungA
 
 # Add links to the sidebar.
 menu:
@@ -60,7 +60,7 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:              © 2021 Ling-Qi Zhang. All rights reserved.
+  - title:              © 2022 Jeesung Ahn. All rights reserved.
 #    url:               /legal
 #   - title:             Cookies Policy
 #     url:               /cookies-policy/

@@ -3,16 +3,16 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              Ling-Qi Zhang
-  email:             <lingqiz@sas.upenn.edu>
+  name:              Jeesung Ahn
+  email:             <jeesung@sas.upenn.edu>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             Hi, I'm Ling-Qi Zhang.
+  about:             Hi, I'm Jeesung Ahn.
 
   # This photo will be used in the about section.
   picture:
-    path:            /assets/img/lingqi.jpg
+    path:            /assets/img/jeesung.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
 #     srcset:
 #       1x:            https://placehold.it/128x128
@@ -22,9 +22,9 @@ author1:
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
     googlescholar:    zig9OAUAAAAJ
-    github:           lingqiz
-    twitter:          LingCheeseZ    
-    linkedin:         lingqiz
+    github:           jeesung-ahn
+    twitter:          jeesungA    
+    linkedin:         jeesung-ahn
     # download:        <url>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
