@@ -22,25 +22,26 @@ hide_description: yes
 
 <h2 class="h1" style="color: rgb(0,0,0)" id="about">About Me </h2>
 
-Hi there! My name is Jeesung Ahn, I am a 4th-year Ph.D. candidate in the [Department of Psychology at the University of Pennsylvania](https://psychology.sas.upenn.edu). I am working with [Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab).
+I am a Ph.D. candidate in the [Department of Psychology](https://psychology.sas.upenn.edu)at the University of Pennsylvania. I am working with [Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab), graduating May 2024 (expected).
 
 My current research mainly revolves around two topics: 
-- using the brain-as-predictor approach to evaluate the effectiveness of persuasive messages in promoting health behaviors (e.g., physical activity)
-- understanding how brain networks and social networks are associated with individual differences in healthy lifestyles and mental well-being (e.g., loneliness).
+- using the brain-as-predictor approach to evaluate the effectiveness of persuasive health message interventions in promoting health behaviors (e.g., physical activity)
+- understanding how brain networks and social networks explain individual differences in health-risk lifestyles (e.g., physical inactivity, drinking) and mental well-being (e.g., loneliness).
 
 Over the course of 7+ years leading psychology and neuroimaging research projects, I have primarily worked with human behavioral and brain data in the experimental psychology and social neuroscience domains. My research methods are multi-disciplinary and include the followings: 
-- experiment and survey design (including A/B testing)
-- survey/behavioral/neuroimaging data collection
+- experiment and survey design (including A/B tests, usability tests)
+- data collection (survey, behavior, neuroimaging, qualitative in-depth interview)
 - descriptive/parametric/non-parametric/multivariate statistics
-- general linear modeling
+- regressions (e.g., general linear modeling)
 - multilevel modeling
 - time-series analysis
+- signal processing (e.g., denoising, despiking, temporal filtering of fMRI signals)
 - computational network analysis
-- machine-learning classification
+- machine-learning classification (supervised/unsupervised learning)
 - meta-analysis of multi-dimensional datasets
-- qualitative content analysis.
+- qualitative content analysis (including text analysis)
 
-I am passionate about communicating and translating scientific insights into practical and actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about (e.g., consulting for a healthcare company with [Penn Biotech Group](https://pennbiotechgroup.org/), analyzing/visualizing data for an [educational diversity and equity initiative](https://web.sas.upenn.edu/dive/), analyzing/visualizing climate-related data to inform climate activists).
+I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches. I am deeply passionate about translating scientific insight into actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about (e.g., consulting for a healthcare company and their novel cancer therapy with [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/), wrangling/analyzing/visualizing data for an [educational diversity and equity initiative](https://web.sas.upenn.edu/dive/), wrangling/analyzing/visualizing air quality and relevant health outcomes with [Penn Data Science Group](https://penndsg.com/) to inform climate activists).
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
