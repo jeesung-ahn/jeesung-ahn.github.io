@@ -44,7 +44,7 @@ Over the course of 7+ years leading psychology and neuroimaging research project
 - qualitative content analysis (including text analysis)
 
 ---
-<h2 class="h1" style="color: rgb(0,0,0)" id="Activities">Research </h2>
+<h2 class="h1" style="color: rgb(0,0,0)" id="activities">Activities </h2>
 
 I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches. I am deeply passionate about translating scientific insight into actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about:
 - providing consulting for a healthcare company and their novel cancer therapy. providing data-driven recommendations and benchmarks for partnership opportunities, market sizing and pricing with [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/)
