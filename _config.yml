@@ -49,6 +49,8 @@ menu:
     url:               /#about
   - title:             RESEARCH
     url:               /#research
+  - title:             ACTIVITIES
+    url:               /#activities
   - title:             PUBLICATIONS
     url:               /#publications
   - title:             CV
