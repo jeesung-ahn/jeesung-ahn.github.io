@@ -22,6 +22,8 @@ hide_description: yes
 
 <h2 class="h1" style="color: rgb(0,0,0)" id="about">About Me </h2>
 
+-- ALL WORK IN PROGRESS TO BE UPDATED -- DEC 13th 2022 
+
 I am a Ph.D. candidate in the [Department of Psychology](https://psychology.sas.upenn.edu)at the University of Pennsylvania. I am working with [Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab), graduating May 2024 (expected).
 
 My current research mainly revolves around two topics: 
