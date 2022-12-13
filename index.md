@@ -47,12 +47,12 @@ Over the course of 7+ years leading psychology and neuroimaging research project
 <h2 class="h1" style="color: rgb(0,0,0)" id="activities">Activities </h2>
 
 I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches. I am deeply passionate about translating scientific insight into actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about:
-- providing consulting for a healthcare company and their novel cancer therapy. providing data-driven recommendations and benchmarks for partnership opportunities, market sizing and pricing with [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/)
+- providing consulting for a healthcare company and their novel cancer therapy. presenting data-driven recommendations and benchmarks for partnership opportunities, market sizing and pricing with [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/)
 - volunteering for an [educational diversity and equity initiative](https://web.sas.upenn.edu/dive/) to mentor underrepresented minority students in their career paths in science. wrangling/analyzing/visualizing program outcomes using R (ggplot2, R Markdown, slide decks). 
-- wrangling/analyzing/visualizing air quality and relevant health outcomes with [Penn Data Science Group](https://penndsg.com/) to inform climate activists.
+- wrangling / analyzing / visualizing air quality and relevant health outcomes with [Penn Data Science Group](https://penndsg.com/) to inform climate activists.
 
 ---
-<h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
+<h2 class="h1" style="color: rgb(0,0,0)" id="research">ResearchTBU </h2>
 <h3 class="h2">Selected Projects</h3>
 
 **BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
