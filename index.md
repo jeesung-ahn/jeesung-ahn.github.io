@@ -41,7 +41,10 @@ Over the course of 7+ years leading psychology and neuroimaging research project
 - meta-analysis of multi-dimensional datasets
 - qualitative content analysis (including text analysis)
 
-I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches. I am deeply passionate about translating scientific insight into actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about (e.g., consulting for a healthcare company and their novel cancer therapy with [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/), wrangling/analyzing/visualizing data for an [educational diversity and equity initiative](https://web.sas.upenn.edu/dive/), wrangling/analyzing/visualizing air quality and relevant health outcomes with [Penn Data Science Group](https://penndsg.com/) to inform climate activists).
+I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches. I am deeply passionate about translating scientific insight into actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about:
+- consulting for a healthcare company and their novel cancer therapy. providing data-driven recommendations and benchmarks for partnership opportunities, market sizing and pricing with [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/)
+- wrangling/analyzing/visualizing data and program outcomes for an [educational diversity and equity initiative](https://web.sas.upenn.edu/dive/)
+- wrangling/analyzing/visualizing air quality and relevant health outcomes with [Penn Data Science Group](https://penndsg.com/) to inform climate activists.
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
@@ -147,6 +150,9 @@ I am a curious and collaborative scholar eager to solve real-world problems usin
 * **Jeesung Ahn†**, Hye-young Kim†, Jonghyun Park, Sanghoon Han, [Interactivity of Neural Representations for Perceiving Shared Social Memory](https://koreascience.kr/article/JAKO201836262560035.pdf), *Science of Emotion and Sensibility*, 2018
 
 **(† deonotes co-first authorship)**
+
+<h3 class="h2">Working Papers</h3>
+
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
