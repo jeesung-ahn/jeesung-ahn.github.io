@@ -47,10 +47,10 @@ author:
 menu:
   - title:             ABOUT
     url:               /#about
-  - title:             RESEARCH
-    url:               /#research
   - title:             ACTIVITIES
     url:               /#activities
+  - title:             RESEARCH
+    url:               /#research
   - title:             PUBLICATIONS
     url:               /#publications
   - title:             CV
