@@ -71,11 +71,11 @@ Markdown, slide decks).
 - wrangling / analyzing / visualizing air quality and relevant health outcomes with [Penn Data Science Group](https://penndsg.com/) to inform climate activists.
 
 ---
-<h1 class="h1" style="color: rgb(0,0,0)" id="research"> Research Projects (selected) </h1>
+<h1 class="h1" style="color: rgb(0,0,0)" id="research"> Research Projects (*selected*) </h1>
 
 **Framing paper** 
 <br>
-*[\[SANS 2022 Poster (top poster award winner) \]](https://elifesciences.org/articles/71132)  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38))* <br>
+[\[SANS 2022 Poster (top poster award winner) \]](https://elifesciences.org/articles/71132)  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38)) <br>
 
 <div class="row">
   <div class="column">
