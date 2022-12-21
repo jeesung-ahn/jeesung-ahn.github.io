@@ -47,8 +47,8 @@ author:
 menu:
   - title:             ABOUT
     url:               /#about
-  - title:             ACTIVITIES
-    url:               /#activities
+#  - title:             ACTIVITIES
+#    url:               /#activities
   - title:             RESEARCH
     url:               /#research
   - title:             PUBLICATIONS
