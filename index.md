@@ -27,7 +27,7 @@ editor_options:
 }
 
 </style>
-<h2 class="h1" style="color: rgb(0,0,0)" id="about"> About Me </h2>
+<h2 class="h2" style="color: rgb(0,0,0)" id="about"> About Me </h2>
 
 I am a **Ph.D. candidate** in **Psychology** at the University of Pennsylvania. I am working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab), **graduating May 2024**.
 
@@ -54,7 +54,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 - qualitative content analysis (including text analysis)
 
 ---
-<h2 class="h2" style="color: rgb(0,0,0)" id="activities"> Activities/Volunteer  </h2>
+<h2 class="h2" style="color: rgb(0,0,0)" id="activities"> Activities & Volunteer  </h2>
 
 I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches. 
 I am deeply passionate about communicating scientific insight into actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about: 
