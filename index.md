@@ -26,8 +26,7 @@ editor_options:
 
 I am a **Ph.D. candidate** in **Psychology** at the University of Pennsylvania. I am working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab), **graduating May 2024**.
 
-My doctoral research focuses on the domain of **experimental psychology** and **social neuroscience**, mainly revolving around two
-topics: 
+My doctoral research focuses on the domain of **experimental psychology** and **social neuroscience**, mainly revolving around two topics: 
 
 - developing **brain-based computational models** to evaluate **the effectiveness of persuasive health message interventions** in promoting health behaviors (e.g., physical activity) 
 - explaining individual differences in **mental health (e.g., loneliness)** based on **brain network and social network characteristics**
@@ -35,7 +34,7 @@ topics:
 ---
 <h2 class="h2" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h2>
 
-Over the course of 7+ years leading end-to-end psychology and neuroscience research projects, I have primarily worked with human behavioral and neuroimaging data. 
+Over the course of 7+ years leading end-to-end psychology and neuroscience research projects, I have primarily worked with human behavioral and neuroimaging data. <br /> 
 **My research methods are multi-disciplinary** and include the followings: 
 - experimental and survey design (including A/B tests, usability tests)
 - data collection (recruiting, screening, survey, experimental, neuroimaging, experience sampling, in-depth interview)
@@ -50,14 +49,15 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 - qualitative content analysis (including text analysis)
 
 ---
-<h2 class="h2" style="color: rgb(0,0,0)" id="activities"> Activities  </h2>
+<h2 class="h2" style="color: rgb(0,0,0)" id="activities"> Activities/Volunteer  </h2>
 
 I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches. 
-I am deeply passionate about communicating scientific insight into actionable outcomes in complex decision-making scenarios. 
-To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about: 
+I am deeply passionate about communicating scientific insight into actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about: 
 
-- consulting a healthcare company and their novel cancer therapy. presenting data-driven recommendations and benchmarks for
-partnership opportunities, market sizing and pricing with [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/) 
+- consultant at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/) (Sept 2022~):<br /> 
+consulting a healthcare company on the market landscape for their novel cancer therapy. 
+presenting data-driven recommendations and benchmarks for
+partnership opportunities, market sizing and pricing with 
 
 - volunteering for an [educational diversity and equity initiative](https://web.sas.upenn.edu/dive/) to mentor underrepresented
 minority students in their career paths in science. wrangling/analyzing/visualizing program outcomes using R (ggplot2, R
@@ -121,7 +121,7 @@ Publications
     Memory](https://koreascience.kr/article/JAKO201836262560035.pdf),
     *Science of Emotion and Sensibility*, 2018
 
-**(† deonotes co-first authorship)**
+(† deonotes co-first authorship)
 
 <h3 class="h2">
 
