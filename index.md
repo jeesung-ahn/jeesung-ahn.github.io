@@ -24,8 +24,7 @@ editor_options:
 </style>
 
 <h2 class="h1" style="color: rgb(0,0,0)" id="about"> About Me </h2>
-
-<h3 Research Topics </h3>
+<h3 class="h3" style="color: rgb(0,0,0)" id="Research Topics"> Research Topics </h3>
 
 I am a Ph.D. candidate in the Department of Psychology at the University of Pennsylvania. I am working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab),**graduating May 2024**.
 
@@ -36,7 +35,7 @@ topics:
 - explaining individual differences in **mental health (e.g., loneliness)** based on **brain network and social network characteristics**
 
 ---
-<h3 class="h1" style="color: rgb(0,0,0)" id="Methods Summary"> Methods Summary </h3>
+<h3 class="h3" style="color: rgb(0,0,0)" id="Methods Summary"> Methods  </h3>
 
 Over the course of 7+ years leading end-to-end psychology and neuroscience research projects, I have primarily worked with human behavioral and neuroimaging data. 
 **My research methods are multi-disciplinary** and include the followings: 
