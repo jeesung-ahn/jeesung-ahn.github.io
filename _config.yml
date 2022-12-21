@@ -47,12 +47,12 @@ author:
 menu:
   - title:             ABOUT
     url:               /#about
-#  - title:             ACTIVITIES
-#    url:               /#activities
   - title:             RESEARCH
     url:               /#research
   - title:             PUBLICATIONS
     url:               /#publications
+  - title:             ACTIVITIES
+    url:               /#activities
   - title:             CV
     url:               /assets/files/CV_JeesungAhn.pdf
   - title:             RESUMÉ
