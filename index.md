@@ -88,8 +88,10 @@ Markdown, slide decks).
 </div>
 
 <br>
+<br>
 **Brain segregation paper**
 
+<br>
 <br>
 **Loneliness review paper**
 
