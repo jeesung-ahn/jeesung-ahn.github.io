@@ -75,7 +75,7 @@ Markdown, slide decks).
 
 **Framing paper** 
 <br>
-*[\[eLife, 2022\]](https://elifesciences.org/articles/71132)  [\[SANS 2022 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[GitHub\]](https://github.com/isetbio/ISETImagePipeline)* <br>
+*[\[SANS 2022 Poster (top poster award winner) \]](https://elifesciences.org/articles/71132)  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38))* <br>
 
 <div class="row">
   <div class="column">
@@ -87,6 +87,7 @@ Markdown, slide decks).
   </div>
 </div>
 
+<br>
 **Brain segregation paper**
 
 <br>
