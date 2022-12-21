@@ -147,7 +147,7 @@ Philadelphia, PA 19104
 
 <p class="home-element">
 
-<strong> jeesung [at] sas [dot] upenn [dot] edu</strong>
+<strong> jeesung@sas.upenn.edu /strong>
 
 </p>
 
