@@ -10,7 +10,6 @@ editor_options:
     wrap: 72
 ---
 
-```{=html}
 <style type="text/css">
     .page-title {
         position: absolute;
@@ -23,16 +22,10 @@ editor_options:
         overflow: hidden;
     }
 </style>
-```
-<h2 class="h1" style="color: rgb(0,0,0)" id="about">
 
-About Me
+<h2 class="h1" style="color: rgb(0,0,0)" id="about"> About Me </h2>
 
-</h2>
-
-\<h3 Research Topics
-
-</h3>
+<h3 Research Topics </h3>
 
 I am a Ph.D. candidate in the Department of Psychology at the University of Pennsylvania. I am working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab),**graduating May 2024**.
 
@@ -157,7 +150,6 @@ Philadelphia, PA 19104
 
 </p>
 
-```{=html}
 <style type="text/css">
   .body-social > ul {
     display: inline-block;
@@ -222,4 +214,3 @@ Philadelphia, PA 19104
     padding-right: 20px;
   }
 </style>
-```
