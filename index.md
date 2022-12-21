@@ -21,6 +21,11 @@ editor_options:
         clip: rect(0 0 0 0);
         overflow: hidden;
     }
+    
+    h1, h2, h3 {
+  text-align: center;
+}
+
 </style>
 <h2 class="h1" style="color: rgb(0,0,0)" id="about"> About Me </h2>
 
