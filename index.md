@@ -66,7 +66,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
   </div>
 
   <div class="column" markdown="1">
-  We built a Bayesian image reconstruction algorithm from cone excitations based on an accurate model of human early vision, in order to understand information loss at the very first step of visual processing. Our model enables quantitative analysis of retinal mosaic design, visualization, and the more "traditional" ideal observer type of analysis.
+  XXXX.
   </div>
 </div>
 
