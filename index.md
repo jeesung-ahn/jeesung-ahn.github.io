@@ -71,7 +71,7 @@ Markdown, slide decks).
 - wrangling / analyzing / visualizing air quality and relevant health outcomes with [Penn Data Science Group](https://penndsg.com/) to inform climate activists.
 
 ---
-<h1 class="h1" style="color: rgb(0,0,0)" id="research"> Selected Research Projects </h1>
+<h1 class="h1" style="color: rgb(0,0,0)" id="research"> Research Projects (selected) </h1>
 
 **Framing paper** 
 <br>
