@@ -28,6 +28,9 @@ My doctoral research focuses on the domain of **experimental psychology** and **
 - developing **brain-based computational models** to evaluate **the effectiveness of persuasive health message interventions** in promoting health behaviors (e.g., physical activity)
 - explaining individual differences in **mental health (e.g., loneliness)** based on **brain network and social network characteristics**
 
+---
+<h3 class="h1" style="color: rgb(0,0,0)" id="Methods Summary">Methods Summary </h3>
+
 Over the course of 7+ years leading end-to-end psychology and neuroscience research projects, I have primarily worked with human behavioral and neuroimaging data. 
 **My research methods are multi-disciplinary** and include the followings: 
 - experimental and survey design (including A/B tests, usability tests)
