@@ -54,23 +54,6 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 - qualitative content analysis (including text analysis)
 
 ---
-<h1 class="h1" style="color: rgb(0,0,0)" id="activities"> Activities & Volunteer  </h1>
-
-I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches. 
-I am deeply passionate about communicating scientific insight into actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about: 
-
-- consultant at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/) (Sept 2022~):<br /> 
-consulting a healthcare company on the market landscape for their novel cancer therapy. 
-presenting data-driven recommendations and benchmarks for
-partnership opportunities, market sizing and pricing with 
-
-- volunteering for an [educational diversity and equity initiative](https://web.sas.upenn.edu/dive/) to mentor underrepresented
-minority students in their career paths in science. wrangling/analyzing/visualizing program outcomes using R (ggplot2, R
-Markdown, slide decks). 
-
-- wrangling / analyzing / visualizing air quality and relevant health outcomes with [Penn Data Science Group](https://penndsg.com/) to inform climate activists.
-
----
 <h1 class="h1" style="color: rgb(0,0,0)" id="research"> Research Projects (selected) </h1>
 
 **Message Framing Effects in Physical Activity Promotion** 
@@ -107,8 +90,16 @@ Markdown, slide decks).
 <br>
 **MegaMeta**
 
+
+<br>
+<br>
+**Modern Data mining** 
+
 <br>
 **from Master's**
+
+<br>
+**image reconstruction deep learning**
 
 <br>
 **ABM (ABtest)**
@@ -136,6 +127,23 @@ Markdown, slide decks).
 († deonotes co-first authorship)
 
 <h2 class="h2"> Working Papers </h2>
+
+---
+<h1 class="h1" style="color: rgb(0,0,0)" id="activities"> Volunteer Activities </h1>
+
+I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches. 
+I am deeply passionate about communicating scientific insight into actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about: 
+
+- consultant at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/) (Sept 2022~):<br /> 
+consulting a healthcare company on the market landscape for their novel cancer therapy. 
+presenting data-driven recommendations and benchmarks for
+partnership opportunities, market sizing and pricing with 
+
+- volunteering for an [educational diversity and equity initiative](https://web.sas.upenn.edu/dive/) to mentor underrepresented
+minority students in their career paths in science. wrangling/analyzing/visualizing program outcomes using R (ggplot2, R
+Markdown, slide decks). 
+
+- wrangling / analyzing / visualizing air quality and relevant health outcomes with [Penn Data Science Group](https://penndsg.com/) to inform climate activists.
 
 ------------------------------------------------------------------------
 
