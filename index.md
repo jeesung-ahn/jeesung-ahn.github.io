@@ -22,25 +22,24 @@ hide_description: yes
 
 <h2 class="h1" style="color: rgb(0,0,0)" id="about">About Me </h2>
 
--- ALL WORK IN PROGRESS TO BE UPDATED -- DEC 13th 2022 
+I am a Ph.D. candidate in the [Department of Psychology](https://psychology.sas.upenn.edu) at the University of Pennsylvania. I am working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab), graduating May 2024. 
 
-I am a Ph.D. candidate in the [Department of Psychology](https://psychology.sas.upenn.edu) at the University of Pennsylvania. I am working with [Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab), graduating May 2024 (expected).
+My doctoral research focuses on the domain of **experimental psychology** and **social neuroscience**, mainly revolving around two topics:
+- developing **brain-based computational models** to evaluate **the effectiveness of persuasive health message interventions** in promoting health behaviors (e.g., physical activity)
+- explaining individual differences in **mental health (e.g., loneliness)** based on **brain network and social network characteristics**
 
-My current research mainly revolves around two topics: 
-- using the brain as a predictor to evaluate the effectiveness of persuasive health message interventions in promoting health behaviors (e.g., physical activity)
-- understanding how brain networks and social networks explain individual differences in health-risk lifestyles (e.g., physical inactivity, drinking) and mental well-being (e.g., loneliness).
-
-Over the course of 7+ years leading psychology and neuroimaging research projects, I have primarily worked with human behavioral and brain data in the experimental psychology and social neuroscience domains. My research methods are multi-disciplinary and include the followings: 
-- experiment and survey design (including A/B tests, usability tests)
-- data collection (survey, behavior, neuroimaging, screening, qualitative in-depth interview)
+Over the course of 7+ years leading end-to-end psychology and neuroscience research projects, I have primarily worked with human behavioral and neuroimaging data. 
+**My research methods are multi-disciplinary** and include the followings: 
+- experimental and survey design (including A/B tests, usability tests)
+- data collection (recruiting, screening, survey, behavioral, experimental, neuroimaging, qualitative in-depth interview)
 - descriptive / parametric / non-parametric / multivariate statistics
-- regressions (e.g., general linear modeling)
+- regression (e.g., general linear modeling)
 - multilevel modeling
 - time-series analysis
 - signal processing (e.g., denoising, despiking, temporal filtering of fMRI signals)
 - computational network analysis
 - machine-learning classification (supervised / unsupervised learning)
-- meta-analysis of multi-dimensional datasets
+- meta-analysis of multidimensional datasets
 - qualitative content analysis (including text analysis)
 
 ---
