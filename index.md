@@ -147,11 +147,7 @@ Markdown, slide decks).
 
 ------------------------------------------------------------------------
 
-<h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">
-
-Contact
-
-</h2>
+<h2 class="h1" style="color: rgb(0,0,0)" id="contact-me"> Contact </h2>
 
 Richards Medical Research Laboratories, 3700 Hamilton Walk, 5F,
 Philadelphia, PA 19104
