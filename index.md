@@ -20,7 +20,8 @@ hide_description: yes
 	}
 </style>
 
-<h2 class="h1" style="color: rgb(0,0,0)" id="about">About Me: Doctoral Researcher in Psychology </h2>
+<h2 class="h1" style="color: rgb(0,0,0)" id="about">About Me </h2>
+<h3 Research Topics </h3>
 
 I am a Ph.D. candidate in the Department of Psychology at the University of Pennsylvania. I am working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab), graduating May 2024. 
 
@@ -34,7 +35,7 @@ My doctoral research focuses on the domain of **experimental psychology** and **
 Over the course of 7+ years leading end-to-end psychology and neuroscience research projects, I have primarily worked with human behavioral and neuroimaging data. 
 **My research methods are multi-disciplinary** and include the followings: 
 - experimental and survey design (including A/B tests, usability tests)
-- data collection (recruiting, screening, survey, behavioral, experimental, neuroimaging, qualitative in-depth interview)
+- data collection (recruiting, screening, survey, experimental, neuroimaging, experience sampling, in-depth interview)
 - descriptive / parametric / non-parametric / multivariate statistics
 - regression (e.g., general linear modeling)
 - multilevel modeling
@@ -46,7 +47,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 - qualitative content analysis (including text analysis)
 
 ---
-<h2 class="h1" style="color: rgb(0,0,0)" id="activities">Activities </h2>
+<h3 class="h1" style="color: rgb(0,0,0)" id="activities">Activities </h3>
 
 I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches. I am deeply passionate about translating scientific insight into actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about:
 - providing consulting for a healthcare company and their novel cancer therapy. presenting data-driven recommendations and benchmarks for partnership opportunities, market sizing and pricing with [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/)
