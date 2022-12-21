@@ -22,11 +22,9 @@ editor_options:
         overflow: hidden;
     }
 </style>
-
 <h2 class="h1" style="color: rgb(0,0,0)" id="about"> About Me </h2>
-<h3 class="h3" style="color: rgb(0,0,0)" id="Research Topics"> Research Topics </h3>
 
-I am a Ph.D. candidate in the Department of Psychology at the University of Pennsylvania. I am working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab),**graduating May 2024**.
+I am a **Ph.D. candidate** in **Psychology** at the University of Pennsylvania. I am working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab), **graduating May 2024**.
 
 My doctoral research focuses on the domain of **experimental psychology** and **social neuroscience**, mainly revolving around two
 topics: 
@@ -35,7 +33,7 @@ topics:
 - explaining individual differences in **mental health (e.g., loneliness)** based on **brain network and social network characteristics**
 
 ---
-<h3 class="h3" style="color: rgb(0,0,0)" id="Methods Summary"> Methods  </h3>
+<h2 class="h2" style="color: rgb(0,0,0)" id="methods summary"> Methods  </h2>
 
 Over the course of 7+ years leading end-to-end psychology and neuroscience research projects, I have primarily worked with human behavioral and neuroimaging data. 
 **My research methods are multi-disciplinary** and include the followings: 
@@ -52,10 +50,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 - qualitative content analysis (including text analysis)
 
 ---
-<h3 class="h1" style="color: rgb(0,0,0)" id="activities">
-
-Activities
-</h3>
+<h2 class="h2" style="color: rgb(0,0,0)" id="activities"> Activities  </h2>
 
 I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches. 
 I am deeply passionate about communicating scientific insight into actionable outcomes in complex decision-making scenarios. 
@@ -71,8 +66,10 @@ Markdown, slide decks).
 - wrangling / analyzing / visualizing air quality and relevant health outcomes with [Penn Data Science Group](https://penndsg.com/) to inform climate activists.
 
 ---
-<h2 class="h1" style="color: rgb(0,0,0)" id="research">ResearchTBU </h2>
+<h2 class="h1" style="color: rgb(0,0,0)" id="research"> Research </h2>
 <h3 class="h2">Selected Projects</h3>
+
+
 ---
 
 <h2 class="h1" style="color: rgb(0,0,0)" id="publications">
