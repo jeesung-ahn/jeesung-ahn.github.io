@@ -37,7 +37,7 @@ My doctoral research focuses on the domain of **experimental psychology** and **
 - explaining individual differences in **mental health (e.g., loneliness)** based on **brain network and social network characteristics**
 
 ---
-<h2 class="h2" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h2>
+<h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
 
 Over the course of 7+ years leading end-to-end psychology and neuroscience research projects, I have primarily worked with human behavioral and neuroimaging data. <br /> 
 **My research methods are multi-disciplinary** and include the followings: 
