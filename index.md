@@ -41,7 +41,7 @@ More specifically, my current research mainly revolves around two topics:
 <br>
 <br>
 
-*Overall, I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches!*
+**Overall, I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches!**
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
