@@ -39,8 +39,7 @@ More specifically, my current research mainly revolves around two topics:
 - developing brain-based computational models to evaluate the effectiveness of persuasive health message interventions in promoting health behaviors (e.g., physical activity) 
 - explaining individual differences in mental health (e.g., loneliness) based on brain network and social network characteristics
 
-I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches!
-
+Overall, I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches!
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
 
@@ -99,8 +98,6 @@ Below is the selected overview of my research projects. If you have any question
 <br>
 **MegaMeta**
 
-
-<br>
 <br>
 **Modern Data mining** 
 
@@ -117,17 +114,17 @@ Below is the selected overview of my research projects. If you have any question
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="publications"> Publications </h1>
 
-- **Ahn, J**., Nah, Y., Ko, I., Han, S. (2022, in press), Voxel-wise mapping of functional magnetic resonance imaging in impression formation, *Science of Emotion and Sensibility*
+- **Ahn, J**., Nah, Y., Ko, I., Han, S. (2022, in press). Voxel-wise Mapping of Functional Magnetic Resonance Imaging in Impression Formation, *Science of Emotion and Sensibility*
 
-- Zhou, D., Kang, Y., Cosme, D., Jovanova, M., He, X., Mahadevan, A., **Ahn, J**., Stanoi, O., Brynildsen, J., Cooper, N., Cornblath, E., Parkes, L., Mucha, P.J., Ochsner, K., Lydon-Staley, D.M., Falk, E.B., Bassett. D.S. (2022, in press) [Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present (in press)](https://psyarxiv.com/u83my/), *Proceedings of the National Academy of Sciences*
+- Zhou, D., Kang, Y., Cosme, D., Jovanova, M., He, X., Mahadevan, A., **Ahn, J**., Stanoi, O., Brynildsen, J., Cooper, N., Cornblath, E., Parkes, L., Mucha, P.J., Ochsner, K., Lydon-Staley, D.M., Falk, E.B., Bassett. D.S. (2022, in press). [Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present](https://psyarxiv.com/u83my/), *PNAS*
 
-- Kang, Y., Cosme, D., Lydon‐Staley, D.M., **Ahn, J**., Jovanova, M., Corbani, F., Lomax, S., Stanoi, O., Strecher, V., Mucha, P.J., Oschner, K., Bassett, D.S., Falk, E.B. (2022) [Purpose in life, Neural Alcohol Cue Reactivity, and Daily Alcohol Use in Social Drinkers](https://onlinelibrary.wiley.com/doi/pdf/10.1111/add.16012), *Addiction*
+- Kang, Y., Cosme, D., Lydon‐Staley, D.M., **Ahn, J**., Jovanova, M., Corbani, F., Lomax, S., Stanoi, O., Strecher, V., Mucha, P.J., Oschner, K., Bassett, D.S., Falk, E.B. (2022). [Purpose in life, Neural Alcohol Cue Reactivity, and Daily Alcohol Use in Social Drinkers](https://onlinelibrary.wiley.com/doi/pdf/10.1111/add.16012), *Addiction*
 
-- Cosme, D., Kang, Y., Carreras Tartak, J., **Ahn J**., Corbani, F., Cooper, N., Doré, B., He, X., Helion, C., Jovanova, M., Lomax, S., Mahadevan, A., McGowan, A.L., Paul, A., Pei, R., Resnick, A., Stanoi, O., Zhang, Y., Bassett, D.S., Boyd, Z.M., Lydon-Staley, D.M., Mucha, P.J., Ochsner, K., Falk, E.B. (2022) [Study protocol: Social Health Impact of Network Effects (SHINE) Study](https://psyarxiv.com/cj2nx/), *PsyArXiv*
+- Cosme, D., Kang, Y., Carreras Tartak, J., **Ahn J**., Corbani, F., Cooper, N., Doré, B., He, X., Helion, C., Jovanova, M., Lomax, S., Mahadevan, A., McGowan, A.L., Paul, A., Pei, R., Resnick, A., Stanoi, O., Zhang, Y., Bassett, D.S., Boyd, Z.M., Lydon-Staley, D.M., Mucha, P.J., Ochsner, K., Falk, E.B. (2022). [Study protocol: Social Health Impact of Network Effects (SHINE) Study](https://psyarxiv.com/cj2nx/), *PsyArXiv*
 
-- **Ahn J**., Lee, J., Han, J., Kang, M., Han, S (2018) [Group analysis data representing the effects of frontopolar transcranial direct current stimulation on the default mode network](https://www.sciencedirect.com/science/article/pii/S2352340918310163), *Data in Brief* 
+- **Ahn J**., Lee, J., Han, J., Kang, M., Han, S (2018). [Group Analysis Data Representing the Effects of Frontopolar Transcranial Direct Current Stimulation on the Default Mode Network](https://www.sciencedirect.com/science/article/pii/S2352340918310163), *Data in Brief* 
 
-- **Ahn, J†**., Kim, H†., Park, J., Han, S. (2018) [Interactivity of Neural Representations for Perceiving Shared Social Memory](https://koreascience.kr/article/JAKO201836262560035.pdf), *Science of Emotion and Sensibility*
+- **Ahn, J†**., Kim, H†., Park, J., Han, S. (2018). [Interactivity of Neural Representations for Perceiving Shared Social Memory](https://koreascience.kr/article/JAKO201836262560035.pdf), *Science of Emotion and Sensibility*
 
 († deonotes co-first authorship)
 
