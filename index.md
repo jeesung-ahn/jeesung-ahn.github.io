@@ -66,8 +66,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 <h1 class="h1" style="color: rgb(0,0,0)" id="research"> Research Projects (selected) </h1>
 Below is the selected overview of my research projects. If you have any questions, please feel free to shoot me an email to jeesung@sas.upenn.edu. Always happy to chat! 
 <br>
-<div align="center">**Message Framing Effects in Physical Activity Promotion**</div>
-<br>
+<div align="center"><strong>Message Framing Effects in Physical Activity Promotion</strong></div>
 [\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} <br>
 
 <div class="row">
@@ -83,6 +82,17 @@ Below is the selected overview of my research projects. If you have any question
 <br>
 <br>
 **Brain segregation paper**
+[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} <br>
+
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/shine_protocol.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+
+  <div class="column" markdown="1">
+  We ran *mega-analysis* of 
+  </div>
+</div>
 
 <br>
 <br>
