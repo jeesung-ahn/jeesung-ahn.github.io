@@ -41,8 +41,7 @@ More specifically, my current research mainly revolves around two topics:
 <br>
 <br>
 
-
-\begin{center}**Overall, I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches!**\end{center}
+*Overall, I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches!*
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
@@ -70,7 +69,7 @@ Below is the selected overview of my research projects. If you have any question
 
 **Message Framing Effects in Physical Activity Promotion** 
 <br>
-[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link)  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38) <br>
+[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} <br>
 
 <div class="row">
   <div class="column">
@@ -78,7 +77,7 @@ Below is the selected overview of my research projects. If you have any question
   </div>
 
   <div class="column" markdown="1">
-  XXXX.
+  We ran *mega-analysis* of 
   </div>
 </div>
 
