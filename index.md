@@ -68,11 +68,11 @@ Below is the selected overview of my research projects. If you have any question
 
 **Message Framing Effects in Physical Activity Promotion** 
 <br>
-[\[SANS 2022 Poster (top poster award winner) \]](https://elifesciences.org/articles/71132)  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38) <br>
+[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link)  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38) <br>
 
 <div class="row">
   <div class="column">
-  <img class="proj-image" src="/assets/img/imageRecon.png" style="height: 100%; width: 100%; object-fit: contain">
+  <img class="proj-image" src="/assets/img/framing.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
 
   <div class="column" markdown="1">
