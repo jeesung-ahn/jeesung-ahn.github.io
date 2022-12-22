@@ -29,7 +29,7 @@ editor_options:
 </style>
 <h1 class="h1" style="color: rgb(0,0,0)" id="about"> About Me </h1>
 
-I am a **Ph.D. candidate** in **Psychology** at the University of Pennsylvania. I am working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab), **graduating May 2024**.
+I am a **Ph.D. candidate** in **Psychology** at the University of Pennsylvania, working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab) (expected graduation in May 2024).
 
 My doctoral research focuses on the domain of **experimental psychology** and **social neuroscience**, mainly revolving around two topics: 
 
