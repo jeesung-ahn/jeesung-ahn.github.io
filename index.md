@@ -60,7 +60,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="research"> Research Projects (selected) </h1>
 <br>
-Below is the selected overview of my research projects. 
+Below is the selected overview of my research projects. If you have any questions, please shoot me an email to jeesung@sas.upenn.edu. Always happy to chat! 
 
 **Message Framing Effects in Physical Activity Promotion** 
 <br>
@@ -133,6 +133,10 @@ Below is the selected overview of my research projects.
 († deonotes co-first authorship)
 
 <h2 class="h2"> Working Papers </h2>
+
+---
+<h1 class="h1" style="color: rgb(0,0,0)" id="presentations"> Conference Presentations </h1>
+
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="activities"> Volunteer Activities </h1>
