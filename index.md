@@ -67,7 +67,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 Below is the selected overview of my research projects. If you have any questions, please feel free to shoot me an email to jeesung@sas.upenn.edu. Always happy to chat! 
 <br>
 
-**Message Framing Effects in Physical Activity Promotion** 
+<p class="text-center">**Message Framing Effects in Physical Activity Promotion**</p> 
 <br>
 [\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} <br>
 
