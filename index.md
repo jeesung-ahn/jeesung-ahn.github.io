@@ -33,6 +33,7 @@ Welcome! My name is Jeesung Ahn, and I am a **Ph.D. candidate** in **Psychology*
 
 My doctoral research focuses on the domain of **experimental psychology** and **social neuroscience**. I am passionate about making data-driven predictions on how health interventions can effectively improve physical and mental well-being at the individual- and population-level.
 <br>
+<br>
 More specifically, my current research mainly revolves around two topics: 
 <br>
 - developing brain-based computational models to evaluate the effectiveness of persuasive health message interventions in promoting health behaviors (e.g., physical activity) 
@@ -43,7 +44,9 @@ I am a curious and collaborative scholar eager to solve real-world problems usin
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
 
-Over the course of 7+ years leading end-to-end psychology and neuroscience research projects, I have primarily worked with human behavioral and neuroimaging data. <br /> 
+Over the course of 7+ years leading end-to-end psychology and neuroscience research projects, I have primarily worked with human behavioral and neuroimaging data. 
+<br>
+<br /> 
 **My research methods are multi-disciplinary** and include the followings: 
 - experimental and survey design (including A/B tests, usability tests)
 - data collection (recruiting, screening, survey, experimental, neuroimaging, experience sampling, in-depth interview)
@@ -60,7 +63,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="research"> Research Projects (selected) </h1>
 <br>
-Below is the selected overview of my research projects. If you have any questions, please shoot me an email to jeesung@sas.upenn.edu. Always happy to chat! 
+Below is the selected overview of my research projects. If you have any questions, please feel free to shoot me an email to jeesung@sas.upenn.edu. Always happy to chat! 
 
 **Message Framing Effects in Physical Activity Promotion** 
 <br>
@@ -116,15 +119,16 @@ Below is the selected overview of my research projects. If you have any question
 
 - **Ahn, J**., Nah, Y., Ko, I., Han, S. (2022, in press), Voxel-wise mapping of functional magnetic resonance imaging in impression formation, *Science of Emotion and Sensibility*
 
-- Zhou, D., Kang, Y., Cosme, D., Jovanova, M., He, Xiasong., Mahadevan, A., **Ahn, J**., Stanoi, O., Brynildsen, J., Cooper, N., Cornblath, E., Parkes, L., Mucha, P.J., Ochsner, K., Lydon-Staley, D.M., Falk, E.B., Bassett. D.S. (2022, in press) [Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present (in press)](https://psyarxiv.com/u83my/), *Proceedings of the National Academy of Sciences*
+- Zhou, D., Kang, Y., Cosme, D., Jovanova, M., He, X., Mahadevan, A., **Ahn, J**., Stanoi, O., Brynildsen, J., Cooper, N., Cornblath, E., Parkes, L., Mucha, P.J., Ochsner, K., Lydon-Staley, D.M., Falk, E.B., Bassett. D.S. (2022, in press) [Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present (in press)](https://psyarxiv.com/u83my/), *Proceedings of the National Academy of Sciences*
 
 - Kang, Y., Cosme, D., Lydon‐Staley, D.M., **Ahn, J**., Jovanova, M., Corbani, F., Lomax, S., Stanoi, O., Strecher, V., Mucha, P.J., Oschner, K., Bassett, D.S., Falk, E.B. (2022) [Purpose in life, Neural Alcohol Cue Reactivity, and Daily Alcohol Use in Social Drinkers](https://onlinelibrary.wiley.com/doi/pdf/10.1111/add.16012), *Addiction*
 
 - Cosme, D., Kang, Y., Carreras Tartak, J., **Ahn J**., Corbani, F., Cooper, N., Doré, B., He, X., Helion, C., Jovanova, M., Lomax, S., Mahadevan, A., McGowan, A.L., Paul, A., Pei, R., Resnick, A., Stanoi, O., Zhang, Y., Bassett, D.S., Boyd, Z.M., Lydon-Staley, D.M., Mucha, P.J., Ochsner, K., Falk, E.B. (2022) [Study protocol: Social Health Impact of Network Effects (SHINE) Study](https://psyarxiv.com/cj2nx/), *PsyArXiv*
 
-- **Ahn J**., Lee, J., Han, JH., Kang, M.S., Han, S (2018) [Group analysis data representing the effects of frontopolar transcranial direct current stimulation on the default mode network](https://www.sciencedirect.com/science/article/pii/S2352340918310163), *Data in Brief* 
+- **Ahn J**., Lee, J., Han, J., Kang, M., Han, S (2018) [Group analysis data representing the effects of frontopolar transcranial direct current stimulation on the default mode network](https://www.sciencedirect.com/science/article/pii/S2352340918310163), *Data in Brief* 
 
 - **Ahn, J†**., Kim, H†., Park, J., Han, S. (2018) [Interactivity of Neural Representations for Perceiving Shared Social Memory](https://koreascience.kr/article/JAKO201836262560035.pdf), *Science of Emotion and Sensibility*
+
 († deonotes co-first authorship)
 
 <h2 class="h2"> Working Papers </h2>
