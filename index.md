@@ -60,7 +60,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="research"> Research Projects (selected) </h1>
 <br>
-Here's the selected overview of my research projects. 
+Below is the selected overview of my research projects. 
 
 **Message Framing Effects in Physical Activity Promotion** 
 <br>
