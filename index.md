@@ -66,8 +66,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 <h1 class="h1" style="color: rgb(0,0,0)" id="research"> Research Projects (selected) </h1>
 Below is the selected overview of my research projects. If you have any questions, please feel free to shoot me an email to jeesung@sas.upenn.edu. Always happy to chat! 
 <br>
-
-<p class="text-center">**Message Framing Effects in Physical Activity Promotion**</p> 
+<div align="center">**Message Framing Effects in Physical Activity Promotion**</div>
 <br>
 [\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} <br>
 
@@ -119,15 +118,15 @@ Below is the selected overview of my research projects. If you have any question
 
 - **Ahn, J**., Nah, Y., Ko, I., Han, S. (2022, in press). Voxel-wise Mapping of Functional Magnetic Resonance Imaging in Impression Formation, *Science of Emotion and Sensibility*
 
-- Zhou, D., Kang, Y., Cosme, D., Jovanova, M., He, X., Mahadevan, A., **Ahn, J**., Stanoi, O., Brynildsen, J., Cooper, N., Cornblath, E., Parkes, L., Mucha, P.J., Ochsner, K., Lydon-Staley, D.M., Falk, E.B., Bassett. D.S. (2022, in press). [Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present](https://psyarxiv.com/u83my/), *PNAS*
+- Zhou, D., Kang, Y., Cosme, D., Jovanova, M., He, X., Mahadevan, A., **Ahn, J**., Stanoi, O., Brynildsen, J., Cooper, N., Cornblath, E., Parkes, L., Mucha, P.J., Ochsner, K., Lydon-Staley, D.M., Falk, E.B., Bassett. D.S. (2022, in press). [Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present](https://psyarxiv.com/u83my/){:target="_blank"}, *PNAS*
 
-- Kang, Y., Cosme, D., Lydon‐Staley, D.M., **Ahn, J**., Jovanova, M., Corbani, F., Lomax, S., Stanoi, O., Strecher, V., Mucha, P.J., Oschner, K., Bassett, D.S., Falk, E.B. (2022). [Purpose in life, Neural Alcohol Cue Reactivity, and Daily Alcohol Use in Social Drinkers](https://onlinelibrary.wiley.com/doi/pdf/10.1111/add.16012), *Addiction*
+- Kang, Y., Cosme, D., Lydon‐Staley, D.M., **Ahn, J**., Jovanova, M., Corbani, F., Lomax, S., Stanoi, O., Strecher, V., Mucha, P.J., Oschner, K., Bassett, D.S., Falk, E.B. (2022). [Purpose in life, Neural Alcohol Cue Reactivity, and Daily Alcohol Use in Social Drinkers](https://onlinelibrary.wiley.com/doi/pdf/10.1111/add.16012){:target="_blank"}, *Addiction*
 
-- Cosme, D., Kang, Y., Carreras Tartak, J., **Ahn J**., Corbani, F., Cooper, N., Doré, B., He, X., Helion, C., Jovanova, M., Lomax, S., Mahadevan, A., McGowan, A.L., Paul, A., Pei, R., Resnick, A., Stanoi, O., Zhang, Y., Bassett, D.S., Boyd, Z.M., Lydon-Staley, D.M., Mucha, P.J., Ochsner, K., Falk, E.B. (2022). [Study protocol: Social Health Impact of Network Effects (SHINE) Study](https://psyarxiv.com/cj2nx/), *PsyArXiv*
+- Cosme, D., Kang, Y., Carreras Tartak, J., **Ahn J**., Corbani, F., Cooper, N., Doré, B., He, X., Helion, C., Jovanova, M., Lomax, S., Mahadevan, A., McGowan, A.L., Paul, A., Pei, R., Resnick, A., Stanoi, O., Zhang, Y., Bassett, D.S., Boyd, Z.M., Lydon-Staley, D.M., Mucha, P.J., Ochsner, K., Falk, E.B. (2022). [Study protocol: Social Health Impact of Network Effects (SHINE) Study](https://psyarxiv.com/cj2nx/){:target="_blank"}, *PsyArXiv*
 
-- **Ahn J**., Lee, J., Han, J., Kang, M., Han, S (2018). [Group Analysis Data Representing the Effects of Frontopolar Transcranial Direct Current Stimulation on the Default Mode Network](https://www.sciencedirect.com/science/article/pii/S2352340918310163), *Data in Brief* 
+- **Ahn J**., Lee, J., Han, J., Kang, M., Han, S (2018). [Group Analysis Data Representing the Effects of Frontopolar Transcranial Direct Current Stimulation on the Default Mode Network](https://www.sciencedirect.com/science/article/pii/S2352340918310163){:target="_blank"}, *Data in Brief* 
 
-- **Ahn, J†**., Kim, H†., Park, J., Han, S. (2018). [Interactivity of Neural Representations for Perceiving Shared Social Memory](https://koreascience.kr/article/JAKO201836262560035.pdf), *Science of Emotion and Sensibility*
+- **Ahn, J†**., Kim, H†., Park, J., Han, S. (2018). [Interactivity of Neural Representations for Perceiving Shared Social Memory](https://koreascience.kr/article/JAKO201836262560035.pdf){:target="_blank"}, *Science of Emotion and Sensibility*
 
 († deonotes co-first authorship)
 
@@ -142,16 +141,16 @@ Below is the selected overview of my research projects. If you have any question
 
 I am deeply passionate about translating scientific insight into actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about: 
 
-- consultant at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/) (Sept 2022~):<br /> 
+- consultant at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/){:target="_blank"} (Sept 2022~):<br /> 
 consulting a healthcare company on the market landscape for their novel cancer therapy. 
 presenting data-driven recommendations and benchmarks for
 partnership opportunities, market sizing and pricing with 
 
-- volunteering for an [educational diversity and equity initiative](https://web.sas.upenn.edu/dive/) to mentor underrepresented
+- volunteering for an [educational diversity and equity initiative](https://web.sas.upenn.edu/dive/){:target="_blank"} to mentor underrepresented
 minority students in their career paths in science. wrangling/analyzing/visualizing program outcomes using R (ggplot2, R
 Markdown, slide decks). 
 
-- wrangling / analyzing / visualizing air quality and relevant health outcomes with [Penn Data Science Group](https://penndsg.com/) to inform climate activists.
+- wrangling / analyzing / visualizing air quality and relevant health outcomes with [Penn Data Science Group](https://penndsg.com/){:target="_blank"} to inform climate activists.
 
 ------------------------------------------------------------------------
 
