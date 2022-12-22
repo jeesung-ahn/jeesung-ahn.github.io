@@ -29,12 +29,16 @@ editor_options:
 </style>
 <h1 class="h1" style="color: rgb(0,0,0)" id="about"> About Me </h1>
 
-I am a **Ph.D. candidate** in **Psychology** at the University of Pennsylvania, working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab) (expected graduation in May 2024).
+Welcome! My name is Jeesung Ahn, and I am a **Ph.D. candidate** in **Psychology** at the University of Pennsylvania, working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab) (expected graduation in May 2024).
 
-My doctoral research focuses on the domain of **experimental psychology** and **social neuroscience**, mainly revolving around two topics: 
+My doctoral research focuses on the domain of **experimental psychology** and **social neuroscience**. I am passionate about making data-driven predictions on how health interventions can effectively improve physical and mental well-being at the individual- and population-level.
+<br>
+More specifically, my current research mainly revolves around two topics: 
+<br>
+- developing brain-based computational models to evaluate the effectiveness of persuasive health message interventions in promoting health behaviors (e.g., physical activity) 
+- explaining individual differences in mental health (e.g., loneliness) based on brain network and social network characteristics
 
-- developing **brain-based computational models** to evaluate **the effectiveness of persuasive health message interventions** in promoting health behaviors (e.g., physical activity) 
-- explaining individual differences in **mental health (e.g., loneliness)** based on **brain network and social network characteristics**
+I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches!
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
@@ -131,8 +135,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="activities"> Volunteer Activities </h1>
 
-I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches. 
-I am deeply passionate about communicating scientific insight into actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about: 
+I am deeply passionate about translating scientific insight into actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about: 
 
 - consultant at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/) (Sept 2022~):<br /> 
 consulting a healthcare company on the market landscape for their novel cancer therapy. 
