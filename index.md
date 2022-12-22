@@ -114,22 +114,17 @@ Below is the selected overview of my research projects. If you have any question
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="publications"> Publications </h1>
 
--   **Jeesung Ahn**, Yoonjin Nah, Inhwan Ko, Sanghoon Han, Voxel-wise mapping of functional magnetic resonance imaging in impression formation (in press), *Science of Emotion and Sensibility*, 2022
+- **Ahn, J**., Nah, Y., Ko, I., Han, S. (2022, in press), Voxel-wise mapping of functional magnetic resonance imaging in impression formation, *Science of Emotion and Sensibility*
 
--   Dale Zhou, Yoona Kang, Danielle Cosme, Mia Jovanova, Xiaosong He, Arun Mahadevan, **Jeesung Ahn**, Ovidia Stanoi, Julia Brynildsen, Nicole Cooper, Eli Cornblath, Linden Parkes, Peter Mucha, Kevin Ochsner, David Lydon-Staley, Emily Falk, Dani Bassett. [Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present (in press)](https://psyarxiv.com/u83my/). *Proceedings of the National Academy of Sciences*, 2022.
+- Zhou, D., Kang, Y., Cosme, D., Jovanova, M., He, Xiasong., Mahadevan, A., **Ahn, J**., Stanoi, O., Brynildsen, J., Cooper, N., Cornblath, E., Parkes, L., Mucha, P.J., Ochsner, K., Lydon-Staley, D.M., Falk, E.B., Bassett. D.S. (2022, in press) [Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present (in press)](https://psyarxiv.com/u83my/), *Proceedings of the National Academy of Sciences*
 
--   Yoona Kang, Danielle Cosme, David Lydon‐Staley, **Jeesung Ahn**, Mia Jovanova, Faustine Corbani, Silicia Lomax, Ovidia Stanoi, Victor Strecher, Peter J Mucha, Kevin Ochsner, Dani S Bassett, Emily B Falk, [Purpose in life, Neural Alcohol Cue Reactivity, and Daily Alcohol Use in Social
-    Drinkers](https://onlinelibrary.wiley.com/doi/pdf/10.1111/add.16012), *Addiction*, 2022
+- Kang, Y., Cosme, D., Lydon‐Staley, D.M., **Ahn, J**., Jovanova, M., Corbani, F., Lomax, S., Stanoi, O., Strecher, V., Mucha, P.J., Oschner, K., Bassett, D.S., Falk, E.B. (2022) [Purpose in life, Neural Alcohol Cue Reactivity, and Daily Alcohol Use in Social Drinkers](https://onlinelibrary.wiley.com/doi/pdf/10.1111/add.16012), *Addiction*
 
--   Danielle Cosme, Yoona Kang, Jose Carreras Tartak, **Jeesung Ahn**, Faustine E Corbani, Nicole Cooper, Bruce Doré, Xiaosong He, Chelsea
-    Helion, Mia Jovanova, Silicia Lomax, Arun S Mahadevan, Amanda L McGowan, Alexandra Paul, Rui Pei, Anthony Resnick, Ovidia Stanoi, Yi
-    Zhang, Danielle S Bassett, Zachary M Boyd, David Martin Lydon-Staley, Peter Mucha, Kevin N Ochsner, Emily Falk. [Study protocol: Social Health Impact of Network Effects (SHINE) Study](https://psyarxiv.com/cj2nx/). *PsyArXiv*, 2022.
+- Cosme, D., Kang, Y., Carreras Tartak, J., **Ahn J**., Corbani, F., Cooper, N., Doré, B., He, X., Helion, C., Jovanova, M., Lomax, S., Mahadevan, A., McGowan, A.L., Paul, A., Pei, R., Resnick, A., Stanoi, O., Zhang, Y., Bassett, D.S., Boyd, Z.M., Lydon-Staley, D.M., Mucha, P.J., Ochsner, K., Falk, E.B. (2022) [Study protocol: Social Health Impact of Network Effects (SHINE) Study](https://psyarxiv.com/cj2nx/), *PsyArXiv*
 
--   **Jeesung Ahn**, Jonghyun Lee, Jin Hyuk Han, Min Seong Kang, Sanghoon Han, [Group analysis data representing the effects of frontopolar transcranial direct current stimulation on the default mode network](https://www.sciencedirect.com/science/article/pii/S2352340918310163), *Data in Brief*, 2018
+- **Ahn J**., Lee, J., Han, JH., Kang, M.S., Han, S (2018) [Group analysis data representing the effects of frontopolar transcranial direct current stimulation on the default mode network](https://www.sciencedirect.com/science/article/pii/S2352340918310163), *Data in Brief* 
 
--   **Jeesung Ahn†**, Hye-young Kim†, Jonghyun Park, Sanghoon Han, [Interactivity of Neural Representations for Perceiving Shared
-    Social Memory](https://koreascience.kr/article/JAKO201836262560035.pdf), *Science of Emotion and Sensibility*, 2018
-
+- **Ahn, J†**., Kim, H†., Park, J., Han, S. (2018) [Interactivity of Neural Representations for Perceiving Shared Social Memory](https://koreascience.kr/article/JAKO201836262560035.pdf), *Science of Emotion and Sensibility*
 († deonotes co-first authorship)
 
 <h2 class="h2"> Working Papers </h2>
