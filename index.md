@@ -40,7 +40,10 @@ More specifically, my current research mainly revolves around two topics:
 - explaining individual differences in mental health (e.g., loneliness) based on brain network and social network characteristics
 <br>
 <br>
+
+\begin{center}
 **Overall, I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches!**
+\end{center}
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
