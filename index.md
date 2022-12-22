@@ -29,7 +29,7 @@ editor_options:
 </style>
 <h1 class="h1" style="color: rgb(0,0,0)" id="about"> About Me </h1>
 
-Welcome! My name is Jeesung Ahn, and I am a **Ph.D. candidate** in **Psychology** at the University of Pennsylvania, working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab) (expected graduation in May 2024).
+Welcome! My name is **Jeesung** Ahn, and I am a 4th-year **Ph.D. candidate** in **Psychology** at the University of Pennsylvania, working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab) (expected graduation in May 2024).
 
 My doctoral research focuses on the domain of **experimental psychology** and **social neuroscience**. I am passionate about making data-driven predictions on how health interventions can effectively improve physical and mental well-being at the individual- and population-level.
 <br>
@@ -40,7 +40,6 @@ More specifically, my current research mainly revolves around two topics:
 - explaining individual differences in mental health (e.g., loneliness) based on brain network and social network characteristics
 <br>
 <br>
-
 **Overall, I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches!**
 
 ---
