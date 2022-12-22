@@ -31,7 +31,7 @@ editor_options:
 
 Welcome! My name is **Jeesung** Ahn, and I am a 4th-year **Ph.D. candidate** in **Psychology** at the University of Pennsylvania, working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab) (expected graduation in May 2024).
 
-My doctoral research focuses on the domain of **experimental psychology** and **social neuroscience**. I am passionate about making data-driven predictions on how health interventions can effectively improve physical and mental well-being at the individual- and population-level.
+My doctoral research focuses on the domain of **experimental psychology** and **social neuroscience**. I am passionate about making data-driven predictions on how **health interventions** can effectively improve **physical and mental well-being** at the individual- and population-level.
 <br>
 <br>
 More specifically, my current research mainly revolves around two topics: 
@@ -51,7 +51,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 <br /> 
 **My research methods are multi-disciplinary** and include the followings: 
 - experimental and survey design (including A/B tests, usability tests)
-- data collection (recruiting, screening, survey, experimental, neuroimaging, experience sampling, in-depth interview)
+- data collection (recruiting, screening, survey, experimental, behavioral, neuroimaging, experience sampling, in-depth interview)
 - descriptive / parametric / non-parametric / multivariate statistics
 - regression (e.g., general linear modeling)
 - multilevel modeling
@@ -64,7 +64,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="research"> Research Projects (selected) </h1>
-Below is the selected overview of my research projects. If you have any questions, please feel free to shoot me an email to jeesung@sas.upenn.edu. Always happy to chat! 
+Below is the selected overview of my research projects. If you have any questions, please feel free to shoot me an email to *jeesung@sas.upenn.edu*. Always happy to chat! 
 <br>
 <div align="center"><strong>Message Framing Effects in Physical Activity Promotion</strong></div>
 [\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} <br>
@@ -81,8 +81,8 @@ Below is the selected overview of my research projects. If you have any question
 
 <br>
 <br>
-**Brain segregation paper**
-[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} <br>
+<div align="center"><strong>Message Framing Effects in Physical Activity Promotion</strong></div>
+[\[Pre-registration\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} <br>
 
 <div class="row">
   <div class="column">
@@ -96,7 +96,6 @@ Below is the selected overview of my research projects. If you have any question
 
 <br>
 <br>
-**Loneliness review paper**
 
 <br>
 **Brain ~ Concurrent**
@@ -108,8 +107,9 @@ Below is the selected overview of my research projects. If you have any question
 **Social evaluation** 
 
 <br>
+**Perseverance Thought**
+**Loneliness review paper**
 **MegaMeta**
-
 <br>
 **Modern Data mining** 
 
