@@ -39,7 +39,9 @@ More specifically, my current research mainly revolves around two topics:
 - developing brain-based computational models to evaluate the effectiveness of persuasive health message interventions in promoting health behaviors (e.g., physical activity) 
 - explaining individual differences in mental health (e.g., loneliness) based on brain network and social network characteristics
 <br>
-Overall, I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches!
+<br>
+
+**Overall, I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches!**
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
