@@ -90,7 +90,8 @@ Below is the selected overview of my research projects. If you have any question
   </div>
 
   <div class="column" markdown="1">
-  We ran *mega-analysis* of 
+  In this *mega-analysis* of neuroimaging (fMRI) and physical activity behavioral datasets, we found the effectiveness of health message interventions in promoting physical activity can be predicted by interactions between message-level (i.e., gain vs. loss framing) and individual-level characteristics (i.e., baseline levels of physical activity)
+  
   </div>
 </div>
 
