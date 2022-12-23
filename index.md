@@ -72,16 +72,17 @@ Below is the selected overview of my research projects. If you have any question
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/framing.png" style="height: 100%; width: 100%; object-fit: contain">
+  <img class="proj-image" src="/assets/img/framing.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
 
   <div class="column" markdown="1">
- In this *mega-analysis* of neuroimaging (fMRI) and physical activity behavioral datasets, we found the effectiveness of health message interventions in promoting physical activity can be predicted by interactions between message-level (i.e., gain vs. loss framing) and individual-level (i.e., baseline levels of physical activity) characteristics.
+ In this *mega-analysis* of neuroimaging (fMRI) and physical activity behavioral datasets (N=366), we found the effectiveness of health message interventions in promoting physical activity can be predicted by interactions between message-level (i.e., gain vs. loss framing) and individual-level (i.e., baseline levels of physical activity) characteristics.
   </div>
 </div>
 <br>
 
-<div align="center"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></div>
-[\[Pre-registration\]](https://osf.io/qr9gx){:target="_blank"} [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} <br>
+<div align="center"><font size="+1"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></font></div>
+[\[Pre-registration\]](https://osf.io/qr9gx){:target="_blank"} <br>
 
 <div class="row">
   <div class="column">
