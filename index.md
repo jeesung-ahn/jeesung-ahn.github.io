@@ -81,7 +81,7 @@ Below is the selected overview of my research projects. If you have any question
 </div>
 
 <div align="center"><font size="+1"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></font></div>
-[\[Pre-registration\]](https://osf.io/qr9gx){:target="_blank"}
+<p style="text-align:center">[\[Pre-registration\]](https://osf.io/qr9gx){:target="_blank"}</p>
 <br>
 <div class="row">
   <div class="column">
