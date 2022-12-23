@@ -68,7 +68,7 @@ Below is the selected overview of my research projects. If you have any question
 <br>
 <br>
 <div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font></div>
-<div align="center">[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"}</div>  
+[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} 
 <br>
 <div class="row">
   <div class="column">
@@ -81,7 +81,7 @@ Below is the selected overview of my research projects. If you have any question
 </div>
 
 <div align="center"><font size="+1"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></font></div>
-<div align="center">[\[Pre-registration\]](https://osf.io/qr9gx){:target="_blank"}</div> 
+[\[Pre-registration\]](https://osf.io/qr9gx){:target="_blank"}
 <br>
 <div class="row">
   <div class="column">
