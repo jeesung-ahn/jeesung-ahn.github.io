@@ -75,12 +75,11 @@ Below is the selected overview of my research projects. If you have any question
   </div>
 
   <div class="column" markdown="1">
-  We ran *mega-analysis* of 
+ In this *mega-analysis* of neuroimaging (fMRI) and physical activity behavioral datasets, we found the effectiveness of health message interventions in promoting physical activity can be predicted by interactions between message-level (i.e., gain vs. loss framing) and individual-level (i.e., baseline levels of physical activity) characteristics.
   </div>
 </div>
+<br>
 
-<br>
-<br>
 <div align="center"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></div>
 [\[Pre-registration\]](https://osf.io/qr9gx){:target="_blank"} [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} <br>
 
@@ -90,15 +89,13 @@ Below is the selected overview of my research projects. If you have any question
   </div>
 
   <div class="column" markdown="1">
-  In this *mega-analysis* of neuroimaging (fMRI) and physical activity behavioral datasets, we found the effectiveness of health message interventions in promoting physical activity can be predicted by interactions between message-level (i.e., gain vs. loss framing) and individual-level characteristics (i.e., baseline levels of physical activity)
+ xxxx
   
   </div>
 </div>
 
 <br>
-<br>
 
-<br>
 **Brain ~ Concurrent, Future**
 
 <br>
