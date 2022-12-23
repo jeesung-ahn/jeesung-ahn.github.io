@@ -73,7 +73,6 @@ Below is the selected overview of my research projects. If you have any question
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/framing.png" style="height: 100%; width: 100%; object-fit: contain">
-  <img class="proj-image" src="/assets/img/framing.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
 
   <div class="column" markdown="1">
@@ -90,8 +89,7 @@ Below is the selected overview of my research projects. If you have any question
   </div>
 
   <div class="column" markdown="1">
- xxxx
-  
+This study examined whether the modular organization of functional connectivity networks in the brain (measured by fMRI) can explain real-world associations between alcohol craving and drinking in non-dependent social drinkers (measured by daily experience sampling for one month).
   </div>
 </div>
 
