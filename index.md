@@ -81,7 +81,7 @@ Below is the selected overview of my research projects. If you have any question
 </div>
 
 <div align="center"><font size="+1"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></font></div>
-<p style="text-align:center">[\[Pre-registration\]](https://osf.io/qr9gx){:target="_blank"}</p>
+[\[Pre-registration\]](https://osf.io/qr9gx){:target="_blank"}
 <br>
 <div class="row">
   <div class="column">
@@ -93,9 +93,7 @@ This study examined whether the modular organization of functional connectivity 
   </div>
 </div>
 
-<br>
-
-**Brain ~ Concurrent, Future**
+<div align="center"><font size="+1"><strong> Neural responses to peers’ faces predict vulnerability to loneliness during COVID-19 </strong></font></div>
 
 <br>
 **Social evaluation** 
