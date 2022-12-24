@@ -109,6 +109,12 @@ We tested whether neural responses to peers' faces predicted the likelihood of b
 <div align="center"><font size="+1"><strong>Self- vs. Peer- evaluated social status and mental health</strong></font></div>
 
 <br>
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/evaluation.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+  
+<br>
 **Modern Data mining** 
 [\[Wharton Data Science Live\]]()[\[RMarkdown_HTML\]]()[\[Data+Code in GitHub\]](github link){:target="_blank"}
 
@@ -120,29 +126,31 @@ We tested whether neural responses to peers' faces predicted the likelihood of b
 <div align="center"><font size="+1"><strong>Deep Learning Approach to Convert fMRI Data from Low to High-Resolution</strong></font></div>
 *Yonsei Interdisciplinary Research Award Winner ($5K in funding)* 
 
-
 <br>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/icons.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
   
+<div class="column" markdown="1">
 In collaboration with electrical engineers, we applied a deep-learning algorithm (convolutional neural network, CNN) to convert conventional low-resolution fMRI data (i.e., 3.75 × 3.75 × 4 mm voxel size) into high-resolution (i.e., 1.5 mm isotropic voxel size). This super-resolution technique did not require modifying fMRI acquisition protocols.
 
+<br>
+<div align="center"><font size="+1"><strong>ABM A/B tests</strong></font></div>
 
 <br>
-**ABM (ABtest)**
-
-<br>
-
-**Loneliness review paper**
+<div align="center"><font size="+1"><strong>Loneliness review paper</strong></font></div>
 *writing manuscript completed*
+
+<div class="column" markdown="1">
 We conducted a qualitative review of intervention literature to identify interventions that most effectively improve physical inactivity and/or loneliness. We also proposed 
 
 <br>
-**Perseverance Thought**
+
+<div align="center"><font size="+1"><strong>Perseverance Thought</strong></font></div>
 *ongoing data analysis*
 
+<div class="column" markdown="1">
 I was in charge of data engineering and wrangling. 
 
 ---
