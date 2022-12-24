@@ -116,6 +116,11 @@ We tested whether neural responses to peers' faces predicted the likelihood of b
   <img class="proj-image" src="/assets/img/evaluation.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
   
+<div class="column" markdown="1">
+We 
+ </div>
+</div>
+
 <br>
 **Modern Data mining** 
 [\[Wharton Data Science Live\]]()[\[RMarkdown_HTML\]]()[\[Data+Code in GitHub\]](github link){:target="_blank"}
@@ -139,8 +144,18 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
  </div>
 </div>
 
+<div class="column" markdown="1">
+We 
+ </div>
+</div>
+
 <br>
 <div align="center"><font size="+1"><strong>ABM A/B tests</strong></font></div>
+
+<div class="column" markdown="1">
+We 
+ </div>
+</div>
 
 <br>
 <div align="center"><font size="+1"><strong>Loneliness review paper</strong></font></div>
