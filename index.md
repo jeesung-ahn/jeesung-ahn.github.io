@@ -79,7 +79,7 @@ Below is the selected overview of my research projects. If you have any question
  In this *mega-analysis* of neuroimaging (fMRI) and physical activity behavioral datasets (N=366), we found the effectiveness of health message interventions in promoting physical activity can be predicted by interactions between message-level (i.e., gain vs. loss framing) and individual-level (i.e., baseline levels of physical activity) characteristics.
   </div>
 </div>
-
+<br>
 <div align="center"><font size="+1"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></font></div>
 [\[OSF Preregistration\]](https://osf.io/qr9gx){:target="_blank"}  [\[Study Protocol\]](https://psyarxiv.com/cj2nx){:target="_blank"}
 <br>
@@ -92,7 +92,7 @@ Below is the selected overview of my research projects. If you have any question
 We examined whether the modular organization of functional connectivity networks in the brain (measured by fMRI) can explain real-world associations between alcohol craving and drinking in non-dependent social drinkers (measured by daily experience sampling for one month).
   </div>
 </div>
-
+<br>
 <div align="center"><font size="+1"><strong> Neural Responses to Peers’ Faces Predict Vulnerability to Loneliness during COVID-19 </strong></font></div>
 *2 upcoming conference presentations in 2023*
 <br>
@@ -105,19 +105,18 @@ We examined whether the modular organization of functional connectivity networks
 We tested whether neural responses to peers' faces predicted the likelihood of becoming lonelier from before to after the COVID-19 pandemic. Our findings suggested that lonelier individuals may assign greater emotional salience to self-relevant social stimuli. Furthermore, individuals who show greater reward sensitivity to peers' faces might be more vulnerable to loneliness in response to social stressors such as social isolation.
  </div>
 </div>
-
-<div align="center"><font size="+1"><strong>Self- vs. Peer- Evaluated Social Status, Mental Health and Social Brains </strong></font></div>
+<br>
+<div align="center"><font size="+1"><strong>Self- vs. Peer- Evaluated Social Status, Mental Health and Social Brains</strong></font></div>
 <br>
 <div class="row">
   <div class="column">
-  <img class="proj-image" src="/assets/img/evaluation.png" style="height: 100%; width: 100%; object-fit: contain">
+  <img class="proj-image" src="/assets/img/evaluation_findings.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
   
 <div class="column" markdown="1">
-We 
+We examined three primary questions: 1) is there a discrepancy between social traits (e.g., likability, attractiveness, influence over others) that are evaluated by self vs. peers?; 2) is under-evaluation of social traits associated with poorer mental health?; 3) is under-evaluation of social traits associated with thinking more about others' thoughts and feelings, as represented by increased activity in the mentalizing- and reward-related areas in the brain in response to peers' faces?
  </div>
 </div>
-
 <br>
 <div align="center"><font size="+1"><strong> Recommendations for an Intelligent Diet (Machine Learning Project) </strong></font></div><br>
 [\[RMarkdown_HTML\]](){:target="_blank"}  [\[Data+Code in GitHub\]](github link){:target="_blank"}  [\[Wharton Data Science Live\]](){:target="_blank"}
