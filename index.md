@@ -105,6 +105,8 @@ We examined whether the modular organization of functional connectivity networks
   
 <div class="column" markdown="1">
 We tested whether neural responses to peers' faces predicted the likelihood of becoming lonelier from before to after the COVID-19 pandemic. Our findings suggested that lonelier individuals may assign greater emotional salience to self-relevant social stimuli. Furthermore, individuals who show greater reward sensitivity to peers' faces might be more vulnerable to loneliness in response to social stressors such as social isolation.
+ </div>
+</div>
 
 <div align="center"><font size="+1"><strong>Self- vs. Peer- evaluated social status and mental health</strong></font></div>
 
@@ -134,6 +136,8 @@ We tested whether neural responses to peers' faces predicted the likelihood of b
   
 <div class="column" markdown="1">
 In collaboration with electrical engineers, we applied a deep-learning algorithm (convolutional neural network, CNN) to convert conventional low-resolution fMRI data (i.e., 3.75 × 3.75 × 4 mm voxel size) into high-resolution (i.e., 1.5 mm isotropic voxel size). This super-resolution technique did not require modifying fMRI acquisition protocols.
+ </div>
+</div>
 
 <br>
 <div align="center"><font size="+1"><strong>ABM A/B tests</strong></font></div>
@@ -144,6 +148,8 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 
 <div class="column" markdown="1">
 We conducted a qualitative review of intervention literature to identify interventions that most effectively improve physical inactivity and/or loneliness. We also proposed 
+ </div>
+</div>
 
 <br>
 
@@ -152,6 +158,8 @@ We conducted a qualitative review of intervention literature to identify interve
 
 <div class="column" markdown="1">
 I was in charge of data engineering and wrangling. 
+ </div>
+</div>
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="publications"> Publications </h1>
