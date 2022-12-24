@@ -119,7 +119,7 @@ Those who have lower social status, either evaluated by peers (Zerubavel et al.,
  </div>
 </div>
 <br>
-<div align="center"><font size="+1"><strong> Using machine learning to promote healthy eating </strong></font></div><br>
+<div align="center"><font size="+1"><strong> Using machine learning to promote healthy eating </strong></font></div><
 [\[Data+Code in GitHub\]](https://github.com/jeesung-ahn/Nutrients_Project_ModernDataMining){:target="_blank"}  [\[Wharton Data Science Live\]](http://jh-cai.com/modern-data-mining/dsl.html){:target="_blank"}
 <br>
 <div class="row">
@@ -128,8 +128,7 @@ Those who have lower social status, either evaluated by peers (Zerubavel et al.,
   </div>
   
 <div class="column" markdown="1">
-We performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering) on a [\dataset\](https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html){:target="_blank"} with 5690 (food)
-154 (nutrients) dimensions to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. 
+We performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering) on a <a href="https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html">dataset</a> with 5690 (food) x 154 (nutrients) dimensions to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. 
  </div>
 </div>
 <br>
