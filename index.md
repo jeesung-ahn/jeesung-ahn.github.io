@@ -90,7 +90,7 @@ Below is the selected overview of my research projects. If you have any question
 
   <div class="column" markdown="1">
 
-We examined whether the modular organization of functional connectivity networks in the brain (measured by fMRI) can explain real-world associations between alcohol craving and drinking in non-dependent social drinkers (measured by daily experience sampling for one month).
+We examined whether the modular organization of functional connectivity networks in the brain (measured by fMRI) can explain real-world associations between alcohol craving and drinking in non-dependent social drinkers (measured by daily experience sampling for one month), using multi-level models. 
   </div>
 </div>
 <br>
@@ -115,13 +115,14 @@ We tested whether neural responses to peers' faces predicted the likelihood of b
   </div>
   
 <div class="column" markdown="1">
-We examined three primary questions: 1) is there a discrepancy between social traits (e.g., likability, attractiveness, influence over others) that are evaluated by self vs. peers?; 2) is under-evaluation of social traits associated with poorer mental health?; 3) is under-evaluation of social traits associated with thinking more about others' thoughts and feelings, as represented by increased activity in the mentalizing- and reward-related areas in the brain in response to peers' faces?
+Those who have lower social status, either evaluated by peers (Zerubavel et al., 2015) or by themselves (Muscatell et al., 2012) tend to think more about others (i.e., greater mentalizing, valuation activity in the brain). In this study, we examined whether there is a discrepancy between social traits (i.e., likability, attractiveness, influence over others) that are evaluated by self vs. peers. We asked whether those who under-evaluate their social traits than how peers would evaluate them show poorer mental health and increased mentalizing- and valuation-related activity in the brain in response to peers' faces. 
  </div>
 </div>
 <br>
 <div align="center"><font size="+1"><strong> Using machine learning to promote healthy eating </strong></font></div><br>
 [\[Data+Code in GitHub\]](https://github.com/jeesung-ahn/Nutrients_Project_ModernDataMining){:target="_blank"}  [\[Wharton Data Science Live\]](http://jh-cai.com/modern-data-mining/dsl.html){:target="_blank"}
-
+We performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering) on a [\dataset\](https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html){:target="_blank"} with 5690 (food)
+154 (nutrients) dimensions to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. 
 <br>
 <div class="row">
   <div class="column">
@@ -129,6 +130,7 @@ We examined three primary questions: 1) is there a discrepancy between social tr
   </div>
   
 <div class="column" markdown="1">
+XX
  </div>
 </div>
 <br>
@@ -139,6 +141,10 @@ We examined three primary questions: 1) is there a discrepancy between social tr
 <div align="center"><font size="+1"><strong>Deep Learning Approach to Convert fMRI Data from Low to High-Resolution</strong></font></div>
 *Yonsei Interdisciplinary Research Award Winner ($5K in funding)* 
 
+<div class="column" markdown="1">
+XX
+ </div>
+</div>
 <br>
 <div class="row">
   <div class="column">
