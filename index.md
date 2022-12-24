@@ -81,7 +81,7 @@ Below is the selected overview of my research projects. If you have any question
 </div>
 
 <div align="center"><font size="+1"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></font></div>
-[\[Pre-registration\]](https://osf.io/qr9gx){:target="_blank"}
+[\[OSF pre-registration\]](https://osf.io/qr9gx){:target="_blank"}
 <br>
 <div class="row">
   <div class="column">
@@ -94,11 +94,15 @@ This study examined whether the modular organization of functional connectivity 
 </div>
 
 <div align="center"><font size="+1"><strong> Neural responses to peers’ faces predict vulnerability to loneliness during COVID-19 </strong></font></div>
-
+*2 upcoming conference presentations in 2023*
 <br>
-**Social evaluation** 
 
+We tested whether neural responses to peers' faces predicted the likelihood of becoming lonelier fromn before to after the COVID-19 pandemic. Our findings suggested that lonelier individuals may assign greater emotional salience to self-relevant social stimuli. Furthremore, individuals who show greater reward sensitivity to peers' faces might me more vulnerable to loineliness in response to social stressors such as social isolation.
+
+<div align="center"><font size="+1"><strong>Self- vs. Peer- evaluated social status and mental health</strong></font></div>
 <br>
+
+
 **Perseverance Thought**
 
 <br>
@@ -106,6 +110,7 @@ This study examined whether the modular organization of functional connectivity 
 
 <br>
 **Modern Data mining** 
+[\[Wharton Data Science Live\]]()[\[RMarkdown_HTML\]]()[\[Data+Code in GitHub\]](github link){:target="_blank"}
 
 <br>
 **from Master's**
