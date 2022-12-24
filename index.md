@@ -121,8 +121,6 @@ Those who have lower social status, either evaluated by peers (Zerubavel et al.,
 <br>
 <div align="center"><font size="+1"><strong> Using machine learning to promote healthy eating </strong></font></div><br>
 [\[Data+Code in GitHub\]](https://github.com/jeesung-ahn/Nutrients_Project_ModernDataMining){:target="_blank"}  [\[Wharton Data Science Live\]](http://jh-cai.com/modern-data-mining/dsl.html){:target="_blank"}
-We performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering) on a [\dataset\](https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html){:target="_blank"} with 5690 (food)
-154 (nutrients) dimensions to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. 
 <br>
 <div class="row">
   <div class="column">
@@ -130,37 +128,47 @@ We performed exploratory data analyses and unsupervised machine learning (PCA, K
   </div>
   
 <div class="column" markdown="1">
-XX
+We performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering) on a [\dataset\](https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html){:target="_blank"} with 5690 (food)
+154 (nutrients) dimensions to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. 
  </div>
 </div>
 <br>
-<div align="center"><font size="+1"><strong>Master's</strong></font></div>
-
+<div align="center"><font size="+1"><strong>tDCS</strong></font></div>
+ [\[Wharton Data Science Live\]](http://jh-cai.com/modern-data-mining/dsl.html){:target="_blank"} [\[for all projects involved \]](https://jeesungjessahn.wixsite.com/jeesung/){:target="_blank"} 
 <br>
-
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/mdm.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+  
+<div class="column" markdown="1">
+AB test --> published XXXXX 
+ </div>
+</div>
+<br>
+<div align="center"><font size="+1"><strong>fcMVPA</strong></font></div>
+ [\[Wharton Data Science Live\]](http://jh-cai.com/modern-data-mining/dsl.html){:target="_blank"} [\[for all projects involved \]](https://jeesungjessahn.wixsite.com/jeesung/){:target="_blank"} 
+<br>
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/mdm.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+  
+<div class="column" markdown="1">
+machine learningXXXX
+</div>
+</div>
+<br>
 <div align="center"><font size="+1"><strong>Deep Learning Approach to Convert fMRI Data from Low to High-Resolution</strong></font></div>
 *Yonsei Interdisciplinary Research Award Winner ($5K in funding)* 
-
-<div class="column" markdown="1">
-XX
- </div>
-</div>
-<br>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/icons.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
-  
 <div class="column" markdown="1">
 In collaboration with electrical engineers, we applied a deep-learning algorithm (convolutional neural network, CNN) to convert conventional low-resolution fMRI data (i.e., 3.75 × 3.75 × 4 mm voxel size) into high-resolution (i.e., 1.5 mm isotropic voxel size). This super-resolution technique did not require modifying fMRI acquisition protocols.
  </div>
 </div>
-
-<div class="column" markdown="1">
-We 
- </div>
-</div>
-
 <br>
 <div align="center"><font size="+1"><strong>ABM A/B tests</strong></font></div>
 
