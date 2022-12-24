@@ -122,8 +122,8 @@ We
 </div>
 
 <br>
-**Modern Data mining** 
-[\[Wharton Data Science Live\]]()[\[RMarkdown_HTML\]]()[\[Data+Code in GitHub\]](github link){:target="_blank"}
+<div align="center"><font size="+1"><strong>Recommendations for an intelligent diet (machine learning project) </strong></font></div><br>
+[\[RMarkdown_HTML\]](){:target="_blank"}  [\[Data+Code in GitHub\]](github link){:target="_blank"}  [\[Wharton Data Science Live\]](){:target="_blank"}
 
 <br>
 **from Master's**
