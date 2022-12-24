@@ -82,7 +82,6 @@ Below is the selected overview of my research projects. If you have any question
 
 <div align="center"><font size="+1"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></font></div>
 [\[OSF Preregistration\]](https://osf.io/qr9gx){:target="_blank"}  [\[Study Protocol\]](https://psyarxiv.com/cj2nx){:target="_blank"}
-
 <br>
 <div class="row">
   <div class="column">
@@ -94,13 +93,12 @@ We examined whether the modular organization of functional connectivity networks
   </div>
 </div>
 
-<div align="center"><font size="+1"><strong> Neural responses to peers’ faces predict vulnerability to loneliness during COVID-19 </strong></font></div>
+<div align="center"><font size="+1"><strong> Neural Responses to Peers’ Faces Predict Vulnerability to Loneliness during COVID-19 </strong></font></div>
 *2 upcoming conference presentations in 2023*
-
 <br>
 <div class="row">
   <div class="column">
-  <img class="proj-image" src="/assets/img/loneliness_covid.png" style="height: 100%; width: 100%; object-fit: contain">
+  <img class="proj-image" src="/assets/img/covid_loneliness_findings.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
   
 <div class="column" markdown="1">
@@ -108,8 +106,7 @@ We tested whether neural responses to peers' faces predicted the likelihood of b
  </div>
 </div>
 
-<div align="center"><font size="+1"><strong>Self- vs. Peer- evaluated social status and mental health</strong></font></div>
-
+<div align="center"><font size="+1"><strong>Self- vs. Peer- Evaluated Social Status, Mental Health and Social Brains </strong></font></div>
 <br>
 <div class="row">
   <div class="column">
@@ -122,7 +119,7 @@ We
 </div>
 
 <br>
-<div align="center"><font size="+1"><strong>Recommendations for an intelligent diet (machine learning project) </strong></font></div><br>
+<div align="center"><font size="+1"><strong> Recommendations for an Intelligent Diet (Machine Learning Project) </strong></font></div><br>
 [\[RMarkdown_HTML\]](){:target="_blank"}  [\[Data+Code in GitHub\]](github link){:target="_blank"}  [\[Wharton Data Science Live\]](){:target="_blank"}
 
 <br>
