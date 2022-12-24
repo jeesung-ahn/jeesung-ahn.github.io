@@ -81,7 +81,8 @@ Below is the selected overview of my research projects. If you have any question
 </div>
 
 <div align="center"><font size="+1"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></font></div>
-[\[OSF pre-registration\]](https://osf.io/qr9gx){:target="_blank"}
+[\[OSF Preregistration\]](https://osf.io/qr9gx){:target="_blank"}  [\[Study Protocol\]](https://psyarxiv.com/cj2nx){:target="_blank"}
+
 <br>
 <div class="row">
   <div class="column">
@@ -89,24 +90,23 @@ Below is the selected overview of my research projects. If you have any question
   </div>
 
   <div class="column" markdown="1">
-This study examined whether the modular organization of functional connectivity networks in the brain (measured by fMRI) can explain real-world associations between alcohol craving and drinking in non-dependent social drinkers (measured by daily experience sampling for one month).
+We examined whether the modular organization of functional connectivity networks in the brain (measured by fMRI) can explain real-world associations between alcohol craving and drinking in non-dependent social drinkers (measured by daily experience sampling for one month).
   </div>
 </div>
 
 <div align="center"><font size="+1"><strong> Neural responses to peers’ faces predict vulnerability to loneliness during COVID-19 </strong></font></div>
 *2 upcoming conference presentations in 2023*
-<br>
 
-We tested whether neural responses to peers' faces predicted the likelihood of becoming lonelier fromn before to after the COVID-19 pandemic. Our findings suggested that lonelier individuals may assign greater emotional salience to self-relevant social stimuli. Furthremore, individuals who show greater reward sensitivity to peers' faces might me more vulnerable to loineliness in response to social stressors such as social isolation.
+<br>
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/loneliness_covid.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+  
+<div class="column" markdown="1">
+We tested whether neural responses to peers' faces predicted the likelihood of becoming lonelier from before to after the COVID-19 pandemic. Our findings suggested that lonelier individuals may assign greater emotional salience to self-relevant social stimuli. Furthermore, individuals who show greater reward sensitivity to peers' faces might be more vulnerable to loneliness in response to social stressors such as social isolation.
 
 <div align="center"><font size="+1"><strong>Self- vs. Peer- evaluated social status and mental health</strong></font></div>
-<br>
-
-
-**Perseverance Thought**
-
-<br>
-**Loneliness review paper**
 
 <br>
 **Modern Data mining** 
@@ -116,11 +116,34 @@ We tested whether neural responses to peers' faces predicted the likelihood of b
 **from Master's**
 
 <br>
-**image reconstruction deep learning**
+
+<div align="center"><font size="+1"><strong>Deep Learning Approach to Convert fMRI Data from Low to High-Resolution</strong></font></div>
+*Yonsei Interdisciplinary Research Award Winner ($5K in funding)* 
+
+
+<br>
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/icons.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+  
+In collaboration with electrical engineers, we applied a deep-learning algorithm (convolutional neural network, CNN) to convert conventional low-resolution fMRI data (i.e., 3.75 × 3.75 × 4 mm voxel size) into high-resolution (i.e., 1.5 mm isotropic voxel size). This super-resolution technique did not require modifying fMRI acquisition protocols.
+
 
 <br>
 **ABM (ABtest)**
 
+<br>
+
+**Loneliness review paper**
+*writing manuscript completed*
+We conducted a qualitative review of intervention literature to identify interventions that most effectively improve physical inactivity and/or loneliness. We also proposed 
+
+<br>
+**Perseverance Thought**
+*ongoing data analysis*
+
+I was in charge of data engineering and wrangling. 
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="publications"> Publications </h1>
