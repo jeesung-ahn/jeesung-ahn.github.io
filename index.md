@@ -89,6 +89,7 @@ Below is the selected overview of my research projects. If you have any question
   </div>
 
   <div class="column" markdown="1">
+
 We examined whether the modular organization of functional connectivity networks in the brain (measured by fMRI) can explain real-world associations between alcohol craving and drinking in non-dependent social drinkers (measured by daily experience sampling for one month).
   </div>
 </div>
@@ -118,11 +119,20 @@ We examined three primary questions: 1) is there a discrepancy between social tr
  </div>
 </div>
 <br>
-<div align="center"><font size="+1"><strong> Recommendations for an Intelligent Diet (Machine Learning Project) </strong></font></div><br>
-[\[RMarkdown_HTML\]](){:target="_blank"}  [\[Data+Code in GitHub\]](github link){:target="_blank"}  [\[Wharton Data Science Live\]](){:target="_blank"}
+<div align="center"><font size="+1"><strong> Using machine learning to promote healthy eating </strong></font></div><br>
+[\[Data+Code in GitHub\]](https://github.com/jeesung-ahn/Nutrients_Project_ModernDataMining){:target="_blank"}  [\[Wharton Data Science Live\]](http://jh-cai.com/modern-data-mining/dsl.html){:target="_blank"}
 
 <br>
-**from Master's**
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/mdm.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+  
+<div class="column" markdown="1">
+ </div>
+</div>
+<br>
+<div align="center"><font size="+1"><strong>Master's</strong></font></div>
 
 <br>
 
