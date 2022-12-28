@@ -31,17 +31,16 @@ editor_options:
 
 Welcome! My name is **Jeesung** Ahn, and I am a 4th-year **Ph.D. candidate** in **Psychology** at the University of Pennsylvania, working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab) (expected graduation in May 2024).
 
-My doctoral research focuses on the domain of **experimental psychology** and **social neuroscience**. I am passionate about making data-driven predictions on how **health interventions** can effectively improve **physical and mental well-being** at the individual- and population-level.
+My doctoral research focuses on the domain of **experimental psychology** and **social & health neuroscience**. I am passionate about making data-driven predictions on how **health interventions** can effectively improve **physical and mental well-being** at the individual- and population-level.
 <br>
 <br>
 More specifically, my current research mainly revolves around two topics: 
 <br>
-- developing brain-based computational models to evaluate the effectiveness of persuasive health message interventions in promoting health behaviors (e.g., physical activity) 
-- explaining individual differences in mental health (e.g., loneliness) based on brain network and social network characteristics
-<br>
+- developing **brain-based computational models** to evaluate the **effectiveness of persuasive health message interventions** in promoting health behaviors (e.g., physical activity) 
+- explaining individual differences in **mental health (e.g., loneliness)** based on **brain network and social network** characteristics
 <br>
 
-Overall, I am a curious and collaborative scholar eager to solve real-world problems using scientific approaches!
+All in all, I'm a curious and collaborative scholar eager to help solve real-world problems with scientific approaches! 
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
@@ -68,7 +67,9 @@ Below is the selected overview of my research projects. If you have any question
 <br>
 <br>
 <div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font></div>
-[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} 
+\begin{center]
+[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} \end{center}
+
 <br>
 <div class="row">
   <div class="column">
