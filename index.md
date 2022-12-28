@@ -66,12 +66,8 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 Below is the selected overview of my research projects. If you have any questions, please feel free to shoot me an email to *jeesung@sas.upenn.edu*. Always happy to chat! 
 <br>
 <br>
-<div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font></div>
-\begin{center]
-
-[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} 
-
-\end{center}
+<div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font><br>
+[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} </div>
 
 <br>
 <div class="row">
@@ -98,6 +94,7 @@ We ran multi-level models to examine whether the modular organization of functio
   </div>
 </div>
 <br>
+
 <div align="center"><font size="+1"><strong> Neural Responses to Peers’ Faces Predict Vulnerability to Loneliness during COVID-19 </strong></font></div>
 *2 upcoming conference presentations in 2023*
 <br>
@@ -107,7 +104,7 @@ We ran multi-level models to examine whether the modular organization of functio
   </div>
   
 <div class="column" markdown="1">
-We tested whether neural responses to peers' faces predicted the likelihood of becoming lonelier from before to after the COVID-19 pandemic. Our findings suggested that lonelier individuals may assign greater emotional salience to self-relevant social stimuli. Furthermore, individuals who show greater reward sensitivity to peers' faces might be more vulnerable to loneliness in response to social stressors such as social isolation.
+We tested whether neural responses to peers' faces predicted the likelihood of becoming lonelier from before to after the COVID-19 pandemic. Our findings suggested that lonelier individuals may assign greater emotional salience to self-relevant social stimuli. Furthermore, individuals who showed greater reward sensitivity to peers' faces were more vulnerable to loneliness in response to social stressors such as social isolation during the pandemic.
  </div>
 </div>
 <br>
@@ -119,7 +116,7 @@ We tested whether neural responses to peers' faces predicted the likelihood of b
   </div>
   
 <div class="column" markdown="1">
-Those who have lower social status, either evaluated by peers (Zerubavel et al., 2015) or by themselves (Muscatell et al., 2012) tend to think more about others (i.e., greater mentalizing, valuation activity in the brain). In this study, we examined whether there is a discrepancy between social traits (i.e., likability, attractiveness, influence over others) that are evaluated by self vs. peers. We asked whether those who under-evaluate their social traits than how peers would evaluate them show poorer mental health and increased mentalizing- and valuation-related activity in the brain in response to peers' faces. 
+Those who have lower social status, either evaluated by peers (Zerubavel et al., 2015) or by themselves (Muscatell et al., 2012), tend to think more about others (i.e., greater mentalizing, valuation activity in the brain). In this study, we examined whether there is a discrepancy between social traits (i.e., likability, attractiveness, influence over others) that are evaluated by self *vs.* peers. We asked whether those who under-evaluate their social traits than how peers would evaluate them show poorer mental health and increased mentalizing- and valuation-related activity in the brain in response to peers' faces. 
  </div>
 </div>
 <br>
