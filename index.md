@@ -40,7 +40,7 @@ More specifically, my current research mainly revolves around two topics:
 - explaining individual differences in **mental health (e.g., loneliness)** based on **brain network and social network** characteristics
 <br>
 
-All in all, I'm a curious and collaborative scholar eager to help solve real-world problems with scientific approaches! 
+All in all, I'm a curious and collaborative scholar eager to solve real-world problems with scientific approaches! 
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
@@ -68,7 +68,10 @@ Below is the selected overview of my research projects. If you have any question
 <br>
 <div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font></div>
 \begin{center]
-[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} \end{center}
+
+[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} 
+
+\end{center}
 
 <br>
 <div class="row">
@@ -91,7 +94,7 @@ Below is the selected overview of my research projects. If you have any question
 
   <div class="column" markdown="1">
 
-We examined whether the modular organization of functional connectivity networks in the brain (measured by fMRI) can explain real-world associations between alcohol craving and drinking in non-dependent social drinkers (measured by daily experience sampling for one month), using multi-level models. 
+We ran multi-level models to examine whether the modular organization of functional connectivity networks in the brain (measured by fMRI) can explain real-world associations between alcohol craving and drinking in non-dependent social drinkers (measured by daily experience sampling for one month). 
   </div>
 </div>
 <br>
