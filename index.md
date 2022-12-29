@@ -83,7 +83,7 @@ Below is the selected overview of my research projects. If you have any question
 <div align="center"><font size="+1"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></font><br> 
   <a href="https://osf.io/qr9gx" target="_blank">OSF Preregistration</a> <a href="https://psyarxiv.com/cj2nx" target="_blank">Study Protocol</a>
 </div>
-<br>
+
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/shine_protocol.png" style="height: 100%; width: 100%; object-fit: contain">
@@ -96,9 +96,9 @@ We ran multi-level models to examine whether the modular organization of functio
 </div>
 <br>
 
-<div align="center"><font size="+1"><strong> Neural Responses to Peers’ Faces Predict Vulnerability to Loneliness during COVID-19 </strong></font></div>
-*2 upcoming conference presentations in 2023*
-<br>
+<div align="center"><font size="+1"><strong> Neural Responses to Peers’ Faces Predict Vulnerability to Loneliness during COVID-19 </strong></font><br>
+*2 upcoming conference presentations in 2023*</div>
+
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/covid_loneliness_findings.png" style="height: 100%; width: 100%; object-fit: contain">
