@@ -96,8 +96,7 @@ We ran multi-level models to examine whether the modular organization of functio
 </div>
 <br>
 
-<div align="center"><font size="+1"><strong> Neural Responses to Peers’ Faces Predict Vulnerability to Loneliness during COVID-19 </strong></font><br>
-*2 upcoming conference presentations in 2023*</div>
+<div align="center"><font size="+1"><strong> Neural Responses to Peers’ Faces Predict Vulnerability to Loneliness during COVID-19 </strong></font><br> <i>2 upcoming conference presentations in 2023</i> </div>
 
 <div class="row">
   <div class="column">
