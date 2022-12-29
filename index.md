@@ -81,8 +81,9 @@ Below is the selected overview of my research projects. If you have any question
 </div>
 
 <br>
-<div align="center"><font size="+1"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></font></div>
-[\[OSF Preregistration\]](https://osf.io/qr9gx){:target="_blank"}  [\[Study Protocol\]](https://psyarxiv.com/cj2nx){:target="_blank"}
+<div align="center"><font size="+1"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></font><br> 
+  <a href="https://osf.io/qr9gx" target="_blank">OSF Preregistratio</a> <a href="https://psyarxiv.com/cj2nx" target="_blank"> SANS 2022 Talk</a>
+</div>
 <br>
 <div class="row">
   <div class="column">
