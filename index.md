@@ -122,7 +122,7 @@ In this study, we adopted Round Robin design where entire members of campus soci
 </div>
 <br>
 <div align="center"><font size="+1"><strong> Using Machine Learning to Promote Healthy Eating </strong></font> <br> <a href="https://github.com/jeesung-ahn/Nutrients_Project_ModernDataMining" target="_blank">Data+Code in GitHub</a> <a href="http://jh-cai.com/modern-data-mining/dsl.html" target="_blank">Wharton Data Science Live</a></div>
-<br>
+
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/mdm.png" style="height: 100%; width: 100%; object-fit: contain">
