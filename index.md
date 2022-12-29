@@ -66,8 +66,8 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 Below is the selected overview of my research projects. If you have any questions, please feel free to shoot me an email to *jeesung@sas.upenn.edu*. Always happy to chat! 
 <br>
 <br>
-<div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font> 
-  <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link">SANS 2022 Poster (top poster award winner)</a>
+<div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font><br> 
+  <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link">SANS 2022 Poster (top poster award winner)</a> </div>
 
 <br>
 <div class="row">
@@ -104,7 +104,7 @@ We ran multi-level models to examine whether the modular organization of functio
   </div>
   
 <div class="column" markdown="1">
-We tested whether neural responses to peers' faces predicted the likelihood of becoming lonelier from before to after the COVID-19 pandemic. Our findings suggested that lonelier individuals may assign greater emotional salience to self-relevant social stimuli. Furthermore, individuals who showed greater reward sensitivity to peers' faces were more vulnerable to loneliness in response to social stressors such as social isolation during the pandemic.
+We tested whether neural responses to peers' faces predict the likelihood of becoming lonelier from before to after the COVID-19 pandemic. Our findings suggested that lonelier individuals may assign greater emotional salience to self-relevant social stimuli. Furthermore, individuals who showed greater reward sensitivity to peers' faces were more likely to become lonely in response to social stressors such as social isolation during the pandemic.
  </div>
 </div>
 <br>
