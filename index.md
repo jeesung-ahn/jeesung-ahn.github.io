@@ -66,8 +66,8 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 Below is the selected overview of my research projects. If you have any questions, please feel free to shoot me an email to *jeesung@sas.upenn.edu*. Always happy to chat! 
 <br>
 <br>
-<div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font><br>
-[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} </div>
+<div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font> </div>
+[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"}
 
 <br>
 <div class="row">
@@ -116,7 +116,8 @@ We tested whether neural responses to peers' faces predicted the likelihood of b
   </div>
   
 <div class="column" markdown="1">
-Those who have lower social status, either evaluated by peers (Zerubavel et al., 2015) or by themselves (Muscatell et al., 2012), tend to think more about others (i.e., greater mentalizing, valuation activity in the brain). In this study, we examined whether there is a discrepancy between social traits (i.e., likability, attractiveness, influence over others) that are evaluated by self *vs.* peers. We asked whether those who under-evaluate their social traits than how peers would evaluate them show poorer mental health and increased mentalizing- and valuation-related activity in the brain in response to peers' faces. 
+In this study, we adopted the Round Robin design wherein entire members of campus social groups were recruited. Participants rated themselves and their peers' likability, attractiveness, and influence over others. Here, we asked three questions: 1) is there a discrepancy between social traits (i.e., likability, attractiveness, influence over others) that are evaluated by self *vs.* peers?; 2) would underevaluating one's social traits be associated with poorer mental health?; 3) would underevaluating one's social traits be associated with thinking more about their peers' thoughts and feelings? 
+
  </div>
 </div>
 <br>
