@@ -65,11 +65,10 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 <h1 class="h1" style="color: rgb(0,0,0)" id="research"> Research Projects (selected) </h1>
 Below is the selected overview of my research projects. If you have any questions, please feel free to shoot me an email to *jeesung@sas.upenn.edu*. Always happy to chat! 
 <br>
-<br>
-<div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font><br> 
-  <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a> <a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank">SANS 2022 Talk</a>
-  </div>
 
+<div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font><br> 
+  <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a> <a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
+  </div>
 <br>
 <div class="row">
   <div class="column">
@@ -80,6 +79,7 @@ Below is the selected overview of my research projects. If you have any question
  In this *mega-analysis* of neuroimaging (fMRI) and physical activity behavioral datasets (N=366), we found the effectiveness of health message interventions in promoting physical activity can be predicted by interactions between message-level (i.e., gain vs. loss framing) and individual-level (i.e., baseline levels of physical activity) characteristics.
   </div>
 </div>
+
 <br>
 <div align="center"><font size="+1"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></font></div>
 [\[OSF Preregistration\]](https://osf.io/qr9gx){:target="_blank"}  [\[Study Protocol\]](https://psyarxiv.com/cj2nx){:target="_blank"}
