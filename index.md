@@ -63,13 +63,12 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="research"> Research Projects (selected) </h1>
-Below is the selected overview of my research projects. If you have any questions, please feel free to shoot me an email to *jeesung@sas.upenn.edu*. Always happy to chat! 
+Below is the selected overview of my research projects. If you have any questions, please shoot me an email to *jeesung@sas.upenn.edu*. Always happy to chat! 
 <br>
-
+<br>
 <div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font><br> 
   <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a> <a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
   </div>
-<br>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/framing.png" style="height: 100%; width: 100%; object-fit: contain">
@@ -82,7 +81,7 @@ Below is the selected overview of my research projects. If you have any question
 
 <br>
 <div align="center"><font size="+1"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></font><br> 
-  <a href="https://osf.io/qr9gx" target="_blank">OSF Preregistratio</a> <a href="https://psyarxiv.com/cj2nx" target="_blank"> SANS 2022 Talk</a>
+  <a href="https://osf.io/qr9gx" target="_blank">OSF Preregistration</a> <a href="https://psyarxiv.com/cj2nx" target="_blank">Study Protocol</a>
 </div>
 <br>
 <div class="row">
