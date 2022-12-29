@@ -117,7 +117,7 @@ We tested whether neural responses to peers' faces predict the likelihood of bec
   </div>
   
 <div class="column" markdown="1">
-In this study, we adopted the Round Robin design wherein entire members of campus social groups were recruited. Participants rated themselves and their peers' likability, attractiveness, and influence over others. Here, we asked three questions: 1) is there a discrepancy between social traits (i.e., likability, attractiveness, influence over others) that are evaluated by self *vs.* peers?; 2) would under-evaluating one's social traits be associated with poorer mental health?; 3) would under-evaluating one's social traits be associated with thinking more about others' thoughts and feelings? 
+In this study, we adopted Round Robin design where entire members of campus social groups were recruited. Participants rated themselves and their peers' social status such as likability, attractiveness, and influence over others. Here, we asked three questions: 1) is there a discrepancy between social status that are evaluated by self *vs.* peers?; 2) would under (or over)-evaluating one's social status be associated with poorer mental health?; 3) would under (or over)-evaluating one's social status be associated with thinking more about *others'* thoughts and feelings? 
 
  </div>
 </div>
