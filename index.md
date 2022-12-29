@@ -131,8 +131,7 @@ In this study, we adopted Round Robin design where entire members of campus soci
   </div>
   
 <div class="column" markdown="1">
-Our goal was to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. We performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering using R) on a <a href="https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html">dataset</a> with 5690 (food) x 154 (nutrients) dimensions. As a result, we were able to cluster 5690 foods into 8 categories and simulated real-world examples where individuals who are in need of dietary restrictions 
-
+Our goal was to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. We performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering using R) on a <a href="https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html">dataset</a> with 5690 (food) x 154 (nutrients) dimensions. As a result, we were able to cluster 5690 food items into 8 categories and simulate real-world examples where we give food recommendations to individuals who are in need of dietary restrictions.
  </div>
 </div>
 <br>
