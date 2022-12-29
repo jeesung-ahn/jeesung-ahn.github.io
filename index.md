@@ -40,7 +40,7 @@ More specifically, my current research mainly revolves around two topics:
 - explaining individual differences in **mental health (e.g., loneliness)** based on **brain network and social network** characteristics
 <br>
 
-All in all, I'm a curious and collaborative scholar eager to solve real-world problems with scientific approaches! 
+All in all, I am a curious and collaborative scholar who is ready to solve real-world problems with scientific approaches! 
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
@@ -66,9 +66,8 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 Below is the selected overview of my research projects. If you have any questions, please feel free to shoot me an email to *jeesung@sas.upenn.edu*. Always happy to chat! 
 <br>
 <br>
-<div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font> </div>
-[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"}
-
+<div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font> 
+[\[SANS 2022 Poster (top poster award winner)\]](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}  [\[SANS 2022 Talk\]](https://www.youtube.com/watch?v=J9rV_aN-n38){:target="_blank"} </div>
 <br>
 <div class="row">
   <div class="column">
@@ -116,12 +115,12 @@ We tested whether neural responses to peers' faces predicted the likelihood of b
   </div>
   
 <div class="column" markdown="1">
-In this study, we adopted the Round Robin design wherein entire members of campus social groups were recruited. Participants rated themselves and their peers' likability, attractiveness, and influence over others. Here, we asked three questions: 1) is there a discrepancy between social traits (i.e., likability, attractiveness, influence over others) that are evaluated by self *vs.* peers?; 2) would underevaluating one's social traits be associated with poorer mental health?; 3) would underevaluating one's social traits be associated with thinking more about their peers' thoughts and feelings? 
+In this study, we adopted the Round Robin design wherein entire members of campus social groups were recruited. Participants rated themselves and their peers' likability, attractiveness, and influence over others. Here, we asked three questions: 1) is there a discrepancy between social traits (i.e., likability, attractiveness, influence over others) that are evaluated by self *vs.* peers?; 2) would under-evaluating one's social traits be associated with poorer mental health?; 3) would under-evaluating one's social traits be associated with thinking more about others' thoughts and feelings? 
 
  </div>
 </div>
 <br>
-<div align="center"><font size="+1"><strong> Using machine learning to promote healthy eating </strong></font></div><
+<div align="center"><font size="+1"><strong> Using machine learning to promote healthy eating </strong></font></div>
 [\[Data+Code in GitHub\]](https://github.com/jeesung-ahn/Nutrients_Project_ModernDataMining){:target="_blank"}  [\[Wharton Data Science Live\]](http://jh-cai.com/modern-data-mining/dsl.html){:target="_blank"}
 <br>
 <div class="row">
@@ -130,7 +129,8 @@ In this study, we adopted the Round Robin design wherein entire members of campu
   </div>
   
 <div class="column" markdown="1">
-We performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering) on a <a href="https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html">dataset</a> with 5690 (food) x 154 (nutrients) dimensions to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. 
+Our goal was to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. We performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering using R) on a <a href="https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html">dataset</a> with 5690 (food) x 154 (nutrients) dimensions. As a result, we were able to cluster 5690 foods into 8 categories and simulated real-world examples where individuals who are in need of dietary restrictions 
+
  </div>
 </div>
 <br>
