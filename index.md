@@ -81,7 +81,7 @@ Below is the selected overview of my research projects. If you have any question
 
 <br>
 <div align="center"><font size="+1"><strong>Moderation of Craving-Drinking Links by Brain Network Dynamics</strong></font><br> 
-  <a href="https://osf.io/qr9gx" target="_blank">OSF Preregistration</a> <a href="https://psyarxiv.com/cj2nx" target="_blank">Study Protocol</a>
+  <a href="https://osf.io/qr9gx" target="_blank">OSF Preregistration</a>&nbsp;&nbsp;&nbsp;<a href="https://psyarxiv.com/cj2nx" target="_blank">Study Protocol</a>
 </div>
 
 <div class="row">
@@ -121,7 +121,7 @@ In this study, we adopted Round Robin design where entire members of campus soci
  </div>
 </div>
 <br>
-<div align="center"><font size="+1"><strong> Using Machine Learning to Promote Healthy Eating </strong></font> <br> <a href="https://github.com/jeesung-ahn/Nutrients_Project_ModernDataMining" target="_blank">Data+Code in GitHub</a> <a href="http://jh-cai.com/modern-data-mining/dsl.html" target="_blank">Wharton Data Science Live</a></div>
+<div align="center"><font size="+1"><strong> Using Machine Learning to Promote Healthy Eating </strong></font> <br> <a href="https://github.com/jeesung-ahn/Nutrients_Project_ModernDataMining" target="_blank">Data+Code in GitHub</a>&nbsp;&nbsp;&nbsp;<a href="http://jh-cai.com/modern-data-mining/dsl.html" target="_blank">Wharton Data Science Live</a></div>
 
 <div class="row">
   <div class="column">
@@ -133,7 +133,7 @@ Our goal was to create a data-driven algorithm that provides personalized food r
  </div>
 </div>
 <br>
-<div align="center"><font size="+1"><strong> Effects of Neurostimulation on Intrinsic Functional Networks and Cognition </strong></font> <br> <a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_19210b8d0b8e43fd89333b0f0eac7c22.pdf" target="_blank">Publication</a> <a href="https://jeesungjessahn.wixsite.com/jeesung/" target="_blank">Archive for all Master's projects</a></div>
+<div align="center"><font size="+1"><strong> Effects of Neurostimulation on Intrinsic Functional Networks and Cognition </strong></font> <br> <a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_19210b8d0b8e43fd89333b0f0eac7c22.pdf" target="_blank">Publication</a>&nbsp;&nbsp;&nbsp;<a href="https://jeesungjessahn.wixsite.com/jeesung/" target="_blank">Archive for all Master's projects</a></div>
 <br>
 <div class="row">
   <div class="column">
@@ -141,11 +141,7 @@ Our goal was to create a data-driven algorithm that provides personalized food r
   </div>
   
 <div class="column" markdown="1">
-We investigated whether transcranial direct current stimulation (tDCS) with an electric current lower than 0.5mA can alter the activity of the default mode network (DMN) in the brain. We applied group independent component analysis (ICA) and 
-
-Demonstrated frontopolar tDCS alters the intrinsic coactivation of regions within DMN
-
-Currently exploring the effects and safety of tDCS on enhancing adolescents’ cognitive abilities, such as attentional allocation and memory 
+We investigated whether transcranial direct current stimulation (tDCS) with an electric intensity lower than 0.5mA can influence the activity of the default mode network (DMN) in the brain. We applied group independent component analysis (ICA) and found the low-intensity tDCS altered the intrinsic co-activation of brain regions within DMN. We also conducted A/B tests and usability studies of a novel tDCS device and examined its effects and safety on enhancing young adults' cognitive abilities, with a particular focus on attentional allocation and memory. 
  </div>
 </div>
 <br>
