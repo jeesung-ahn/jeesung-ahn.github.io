@@ -134,17 +134,25 @@ Our goal was to create a data-driven algorithm that provides personalized food r
 </div>
 <br>
 <div align="center"><font size="+1"><strong> Effects of Neurostimulation on Intrinsic Functional Networks and Cognition </strong></font> <br> <a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_19210b8d0b8e43fd89333b0f0eac7c22.pdf" target="_blank">Publication</a>&nbsp;&nbsp;&nbsp;<a href="https://jeesungjessahn.wixsite.com/jeesung/" target="_blank">Archive for all Master's projects</a></div>
-<br>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/tdcs.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
-  
 <div class="column" markdown="1">
 We investigated whether transcranial direct current stimulation (tDCS) with an electric intensity lower than 0.5mA can influence the activity of the default mode network (DMN) in the brain. We applied group independent component analysis (ICA) and found the low-intensity tDCS altered the intrinsic co-activation of brain regions within DMN. We also conducted A/B tests and usability studies of a novel tDCS device and examined its effects and safety on enhancing young adults' cognitive abilities, with a particular focus on attentional allocation and memory. 
  </div>
 </div>
-<br>
+
+<div align="center"><font size="+1"><strong>Deep Learning Approach to Convert fMRI Data from Low to High-Resolution</strong></font><br> <i>Yonsei Interdisciplinary Research Award Winner (won $5K in research funding)</i></div>
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/icons.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+<div class="column" markdown="1">
+In collaboration with electrical engineers, we applied a deep-learning algorithm (convolutional neural network, CNN) to conventional low-resolution fMRI data (i.e., 3.75 × 3.75 × 4 mm voxel size) and successfully converted them into high-resolution (i.e., 1.5 mm isotropic voxel size) images.
+ </div>
+</div>
+
 <div align="center"><font size="+1"><strong>fcMVPA</strong></font></div>
  [\[Wharton Data Science Live\]](http://jh-cai.com/modern-data-mining/dsl.html){:target="_blank"} [\[for all projects involved \]](https://jeesungjessahn.wixsite.com/jeesung/){:target="_blank"} 
 <br>
@@ -156,17 +164,6 @@ We investigated whether transcranial direct current stimulation (tDCS) with an e
 <div class="column" markdown="1">
 machine learningXXXX
 </div>
-</div>
-<br>
-<div align="center"><font size="+1"><strong>Deep Learning Approach to Convert fMRI Data from Low to High-Resolution</strong></font></div>
-*Yonsei Interdisciplinary Research Award Winner ($5K in funding)* 
-<div class="row">
-  <div class="column">
-  <img class="proj-image" src="/assets/img/icons.png" style="height: 100%; width: 100%; object-fit: contain">
-  </div>
-<div class="column" markdown="1">
-In collaboration with electrical engineers, we applied a deep-learning algorithm (convolutional neural network, CNN) to convert conventional low-resolution fMRI data (i.e., 3.75 × 3.75 × 4 mm voxel size) into high-resolution (i.e., 1.5 mm isotropic voxel size). This super-resolution technique did not require modifying fMRI acquisition protocols.
- </div>
 </div>
 <br>
 <div align="center"><font size="+1"><strong>ABM A/B tests</strong></font></div>
