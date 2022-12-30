@@ -152,6 +152,7 @@ We investigated whether transcranial direct current stimulation (tDCS) with an e
 In collaboration with electrical engineers, we applied a deep-learning algorithm (convolutional neural network, CNN) to conventional low-resolution fMRI data (i.e., 3.75 × 3.75 × 4 mm voxel size) and successfully converted them into high-resolution (i.e., 1.5 mm isotropic voxel size) images.
  </div>
 </div>
+<br>
 
 <div align="center"><font size="+1"><strong>fcMVPA</strong></font></div>
  [\[Wharton Data Science Live\]](http://jh-cai.com/modern-data-mining/dsl.html){:target="_blank"} [\[for all projects involved \]](https://jeesungjessahn.wixsite.com/jeesung/){:target="_blank"} 
@@ -173,7 +174,6 @@ We
  </div>
 </div>
 
-<br>
 <div align="center"><font size="+1"><strong>Loneliness review paper</strong></font></div>
 *writing manuscript completed*
 
@@ -210,7 +210,20 @@ I was in charge of data engineering and wrangling.
 († deonotes co-first authorship)
 
 <h2 class="h2"> Working Papers </h2>
+*Writing Manuscript Completed*
+- **Ahn, J**, Falk, E.B., Kang, Y. Relationships between Physical Activity and Loneliness: A Systematic Review of Intervention Studies 
 
+- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E. Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors 
+
+*Data Analysis Completed*
+- **Ahn, J.**, Cosme, D., Kang, Y., Lydon-Staley, D.M., Mucha, P.J., Ochsner, K.O., Bassett, D.S., Falk, E.B. Segregation and integration of brain functional connectivity networks moderate craving-drinking relationships in daily life 
+
+- social evaluation
+
+*In progress*
+- brain concurrent loneliness
+- brain future loneliness
+- perseverance thought
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="presentations"> Conference Presentations </h1>
 
