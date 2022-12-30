@@ -67,7 +67,7 @@ Below is the selected overview of my research projects. If you have any question
 <br>
 <br>
 <div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font><br> 
-  <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a> <a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
+  <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)&nbsp;&nbsp;&nbsp;</a> <a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank">SANS 2022 Talk</a>
   </div>
 <div class="row">
   <div class="column">
@@ -137,11 +137,15 @@ Our goal was to create a data-driven algorithm that provides personalized food r
 <br>
 <div class="row">
   <div class="column">
-  <img class="proj-image" src="/assets/img/mdm.png" style="height: 100%; width: 100%; object-fit: contain">
+  <img class="proj-image" src="/assets/img/tdcs.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
   
 <div class="column" markdown="1">
-AB test --> published XXXXX 
+We investigated whether transcranial direct current stimulation (tDCS) with an electric current lower than 0.5mA can alter the activity of the default mode network (DMN) in the brain. We applied group independent component analysis (ICA) and 
+
+Demonstrated frontopolar tDCS alters the intrinsic coactivation of regions within DMN
+
+Currently exploring the effects and safety of tDCS on enhancing adolescents’ cognitive abilities, such as attentional allocation and memory 
  </div>
 </div>
 <br>
