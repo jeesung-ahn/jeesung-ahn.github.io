@@ -177,7 +177,7 @@ We
 *writing manuscript completed*
 
 <div class="column" markdown="1">
-We qualitatively reviewed literature that examined the effects of interventions that are designed to tackle two important public health matters: physical inactivity and loneliness. Our aim was to identify which aspects of intervention most effectively improve physical inactivity and/or loneliness and whether these two variables are bi-directionally related. We proposed a psychological framework that suggests how social influences may underlie the loneliness and physical activity relationship.
+We qualitatively reviewed literature that examined the effects of interventions that are designed to tackle two important public health matters: physical inactivity and loneliness. Our aim was to identify which aspects of intervention most effectively improve physical inactivity and/or loneliness and whether these two variables are bi-directionally related. We proposed a psychological framework that suggests how *social influences* may underlie the relationship between loneliness and physical activity.
  </div>
 </div>
 <br>
@@ -185,7 +185,10 @@ We qualitatively reviewed literature that examined the effects of interventions 
 *ongoing data analysis*
 
 <div class="column" markdown="1">
-I was in charge of data engineering and wrangling. 
+Repetitive negative thoughts (perseverance thought,PT) are a prominent feature of many mental disorders and a robust predictor of poor clinical outcomes. Although the importance of PT as a source of impairment and an intervention target is well-
+recognized, it remains a difficult problem to treat. A major obstacle is our very limited
+understanding of what happens when people perseverate. In this study, we adopted the network control theory (NCT) analysis to examine whether clinical perseverators exhibit more temporally persistent brain states during negative thinking. <br> *I was in charge of data engineering, wrangling, and documentation.*
+
  </div>
 </div>
 
