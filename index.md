@@ -67,6 +67,7 @@ Below is the selected overview of my research projects. If you have any question
 
 
 <h2 style="color:rgb(2, 61, 148)">Data-Driven Promotion of Healthy Lifetyles</h2>
+
 <div align="center"><font size="+1"><strong>Brain-Based Prediction of Physical Activity Behaviors after Health Message Exposure</strong></font><br> <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
   </div>
 <div class="row">
@@ -77,7 +78,7 @@ Below is the selected overview of my research projects. If you have any question
  In this *mega-analysis* of neuroimaging (fMRI) and physical activity behavioral datasets (N=366), we found the effectiveness of health message interventions in promoting physical activity can be predicted by interactions between message-level (i.e., gain vs. loss framing) and individual-level (i.e., baseline levels of physical activity) characteristics.
   </div>
 </div>
-
+<br>
 
 <div align="center"><font size="+1"><strong>Explaining Alcohol Craving-Drinking Links using Brain Network Dynamics</strong></font><br> 
   <a href="https://osf.io/qr9gx" target="_blank">OSF Preregistration</a>&nbsp;&nbsp;&nbsp;<a href="https://psyarxiv.com/cj2nx" target="_blank">Study Protocol</a>
@@ -90,45 +91,45 @@ Below is the selected overview of my research projects. If you have any question
 We ran multi-level models to examine whether the modular organization of functional connectivity networks in the brain (measured by fMRI) can explain real-world associations between alcohol craving and drinking in non-dependent social drinkers (measured by daily experience sampling for one month). 
   </div>
 </div>
+<br>
 
-
-<div align="center"><font size="+1"><strong> Using Machine Learning to Promote Healthy Eating </strong></font> <br> <a href="https://github.com/jeesung-ahn/Nutrients_Project_ModernDataMining" target="_blank">Data+Code in GitHub</a>&nbsp;&nbsp;&nbsp;<a href="http://jh-cai.com/modern-data-mining/dsl.html" target="_blank">Wharton Data Science Live</a></div>
-
+<div align="center"><font size="+1"><strong> Using Machine Learning to Promote Healthy Eating </strong></font> <br> <a href="https://github.com/jeesung-ahn/Nutrients_Project_ModernDataMining" target="_blank">Data+Code in GitHub</a>&nbsp;&nbsp;&nbsp;<a href="http://jh-cai.com/modern-data-mining/dsl.html" target="_blank">Wharton Data Science Live</a>
+</div>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/mdm.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
-  
 <div class="column" markdown="1">
+<br><br><br>
 Our goal was to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. We performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering using R) on a <a href="https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html">dataset</a> with 5690 (food) x 154 (nutrients) dimensions. As a result, we were able to cluster 5690 food items into 8 categories and simulate real-world examples where we give food recommendations to individuals who are in need of dietary restrictions.
  </div>
 </div>
 <br>
-<h2 style="color:rgb(2, 61, 148)">Connecting Mental Well-Being with Networks in the Brain and Society</h2>
-<div align="center"><font size="+1"><strong> Neural Responses to Peers’ Faces Predict Vulnerability to Loneliness during COVID-19 </strong></font><br> <i>2 upcoming conference presentations in 2023</i> </div>
 
+<h2 style="color:rgb(2, 61, 148)">Connecting Mental Well-Being with Networks in the Brain and Society</h2>
+
+<div align="center"><font size="+1"><strong> Neural Responses to Peers’ Faces Predict Vulnerability to Loneliness during COVID-19 </strong></font><br> <i>2 upcoming conference presentations in 2023</i> </div>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/covid_loneliness_findings.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
-  
 <div class="column" markdown="1">
 We tested whether neural responses to peers' faces predict the likelihood of becoming lonelier from before to after the COVID-19 pandemic. Our findings suggested that lonelier individuals may assign greater emotional salience to self-relevant social stimuli. Furthermore, individuals who showed greater reward sensitivity to peers' faces were more likely to become lonely in response to social stressors such as social isolation during the pandemic.
  </div>
 </div>
 <br>
+
 <div align="center"><font size="+1"><strong>Self- vs. Peer- Evaluated Social Status, Mental Health and Social Brains</strong></font></div>
-<br>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/evaluation_findings.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
-  
 <div class="column" markdown="1">
 In this study, we adopted Round Robin design where entire members of campus social groups were recruited. Participants rated themselves and their peers' social status such as likability, attractiveness, and influence over others. Here, we asked three questions: 1) is there a discrepancy between social status that are evaluated by self *vs.* peers?; 2) would under (or over)-evaluating one's social status be associated with poorer mental health?; 3) would under (or over)-evaluating one's social status be associated with thinking more about *others'* thoughts and feelings? 
  </div>
 </div>
 <br>
+
 <div align="center"><font size="+1"><strong>Develop a Mobile Application for Emotionally and Socially Distressed Individuals</strong></font> <br> <a href="https://jeesungjessahn.wixsite.com/jeesung/emotional-labor-emoattention" target="_blank">Brief Summary of Related Projects</a>&nbsp;&nbsp;<a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_09565be4736d4293a135ba2ea51e25d3.pdf" target="_blank">SfN 2018 Poster 1</a>&nbsp;&nbsp;<a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_6adad23a154a4216882a3e54f7b7040a.pdf" target="_blank">SfN 2018 Poster 2</a></div>
 
 <div class="row">
@@ -140,8 +141,8 @@ In this study, we adopted Round Robin design where entire members of campus soci
  </div>
 </div>
 <br>
-<div align="center"><font size="+1"><strong> Physical Activity and Loneliness: A Systematic Review of Intervention Studies </strong></font></div>
 
+<div align="center"><font size="+1"><strong> Physical Activity and Loneliness: A Systematic Review of Intervention Studies </strong></font></div>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/review_paper.png" style="height: 100%; width: 100%; object-fit: contain">
@@ -152,11 +153,13 @@ We qualitatively reviewed literature that examined the effects of interventions 
  </div>
 </div>
 <br>
+
 <div align="center"><font size="+1"><strong>Unraveling the Negative Loop of Perseverance Thoughts in Depression and Anxiety</strong></font></div>
 <div class="column" markdown="1">
 Repetitive negative thoughts (perseverance thought, PT) are a prominent feature of many mental disorders and a robust predictor of poor clinical outcomes. Although the importance of PT as a source of impairment and an intervention target is well-recognized, it remains a difficult problem to treat. A major obstacle is our very limited understanding of what happens when people perseverate. In this study, we adopted the network control theory (NCT) analysis to examine whether clinical perseverators exhibit more temporally persistent brain states when they have to "turn off" negative thoughts in order to perform a basic cognitive task. <br><br> *I was in charge of engineering, wrangling, and documenting the experimental fMRI dataset.*
  </div>
 <br>
+
 <div align="center"><font size="+1"><strong> Effects of Neurostimulation on Intrinsic Functional Networks and Cognition </strong></font> <br> <a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_19210b8d0b8e43fd89333b0f0eac7c22.pdf" target="_blank">Publication</a>&nbsp;&nbsp;&nbsp;<a href="https://jeesungjessahn.wixsite.com/jeesung/" target="_blank">Archive for all Master's projects</a></div>
 <div class="row">
   <div class="column">
