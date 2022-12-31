@@ -65,7 +65,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 <h1 class="h1" style="color: rgb(0,0,0)" id="research"> Research Projects (selected) </h1>
 Below is the selected overview of my research projects. If you have any questions, please shoot me an email to *jeesung@sas.upenn.edu*. Always happy to chat! 
 <br>
-<br>
+<h2 class="h2"> Promoting Healthy Lifestyles </h2>
 <div align="center"><font size="+1"><strong>Message Framing Effects in Physical Activity Promotion</strong></font><br> 
   <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
   </div>
@@ -95,7 +95,18 @@ We ran multi-level models to examine whether the modular organization of functio
   </div>
 </div>
 <br>
+<div align="center"><font size="+1"><strong> Using Machine Learning to Promote Healthy Eating </strong></font> <br> <a href="https://github.com/jeesung-ahn/Nutrients_Project_ModernDataMining" target="_blank">Data+Code in GitHub</a>&nbsp;&nbsp;&nbsp;<a href="http://jh-cai.com/modern-data-mining/dsl.html" target="_blank">Wharton Data Science Live</a></div>
 
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/mdm.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+  
+<div class="column" markdown="1">
+Our goal was to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. We performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering using R) on a <a href="https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html">dataset</a> with 5690 (food) x 154 (nutrients) dimensions. As a result, we were able to cluster 5690 food items into 8 categories and simulate real-world examples where we give food recommendations to individuals who are in need of dietary restrictions.
+ </div>
+</div>
+<br>
 <div align="center"><font size="+1"><strong> Neural Responses to Peers’ Faces Predict Vulnerability to Loneliness during COVID-19 </strong></font><br> <i>2 upcoming conference presentations in 2023</i> </div>
 
 <div class="row">
@@ -118,18 +129,6 @@ We tested whether neural responses to peers' faces predict the likelihood of bec
 <div class="column" markdown="1">
 In this study, we adopted Round Robin design where entire members of campus social groups were recruited. Participants rated themselves and their peers' social status such as likability, attractiveness, and influence over others. Here, we asked three questions: 1) is there a discrepancy between social status that are evaluated by self *vs.* peers?; 2) would under (or over)-evaluating one's social status be associated with poorer mental health?; 3) would under (or over)-evaluating one's social status be associated with thinking more about *others'* thoughts and feelings? 
 
- </div>
-</div>
-<br>
-<div align="center"><font size="+1"><strong> Using Machine Learning to Promote Healthy Eating </strong></font> <br> <a href="https://github.com/jeesung-ahn/Nutrients_Project_ModernDataMining" target="_blank">Data+Code in GitHub</a>&nbsp;&nbsp;&nbsp;<a href="http://jh-cai.com/modern-data-mining/dsl.html" target="_blank">Wharton Data Science Live</a></div>
-
-<div class="row">
-  <div class="column">
-  <img class="proj-image" src="/assets/img/mdm.png" style="height: 100%; width: 100%; object-fit: contain">
-  </div>
-  
-<div class="column" markdown="1">
-Our goal was to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. We performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering using R) on a <a href="https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html">dataset</a> with 5690 (food) x 154 (nutrients) dimensions. As a result, we were able to cluster 5690 food items into 8 categories and simulate real-world examples where we give food recommendations to individuals who are in need of dietary restrictions.
  </div>
 </div>
 <br>
@@ -178,12 +177,10 @@ We
 *writing manuscript completed*
 
 <div class="column" markdown="1">
-We conducted a qualitative review of intervention literature to identify interventions that most effectively improve physical inactivity and/or loneliness. We also proposed 
+We qualitatively reviewed literature that examined the effects of interventions that are designed to tackle two important public health matters: physical inactivity and loneliness. Our aim was to identify which aspects of intervention most effectively improve physical inactivity and/or loneliness and whether these two variables are bi-directionally related. We proposed a psychological framework that suggests how social influences may underlie the loneliness and physical activity relationship.
  </div>
 </div>
-
 <br>
-
 <div align="center"><font size="+1"><strong>Perseverance Thought</strong></font></div>
 *ongoing data analysis*
 
