@@ -119,7 +119,7 @@ We tested whether neural responses to peers' faces predict the likelihood of bec
 </div>
 <br>
 
-<div align="center"><font size="+1"><strong>Self- vs. Peer- Evaluated Social Status, Mental Health and Social Brains</strong></font></div>
+<div align="center"><font size="+1"><strong>Self- vs. Peer- Evaluated Social Status, Mental Health and Social Brains</strong></font></div><br>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/evaluation_findings.png" style="height: 100%; width: 100%; object-fit: contain">
@@ -130,7 +130,7 @@ In this study, we adopted Round Robin design where entire members of campus soci
 </div>
 <br>
 
-<div align="center"><font size="+1"><strong>Develop a Mobile Application for Emotionally and Socially Distressed Individuals</strong></font> <br> <a href="https://jeesungjessahn.wixsite.com/jeesung/emotional-labor-emoattention" target="_blank">Brief Summary of Related Projects</a>&nbsp;&nbsp;<a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_09565be4736d4293a135ba2ea51e25d3.pdf" target="_blank">SfN 2018 Poster 1</a>&nbsp;&nbsp;<a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_6adad23a154a4216882a3e54f7b7040a.pdf" target="_blank">SfN 2018 Poster 2</a></div>
+<div align="center"><font size="+1"><strong>Developing a Mobile Application for Emotionally and Socially Distressed Individuals</strong></font> <br> <a href="https://jeesungjessahn.wixsite.com/jeesung/emotional-labor-emoattention" target="_blank">Brief Summary of Related Projects</a>&nbsp;&nbsp;<a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_09565be4736d4293a135ba2ea51e25d3.pdf" target="_blank">SfN 2018 Poster 1</a>&nbsp;&nbsp;<a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_6adad23a154a4216882a3e54f7b7040a.pdf" target="_blank">SfN 2018 Poster 2</a></div>
 
 <div class="row">
   <div class="column">
@@ -160,7 +160,9 @@ Repetitive negative thoughts (perseverance thought, PT) are a prominent feature 
  </div>
 <br>
 
-<div align="center"><font size="+1"><strong> Effects of Neurostimulation on Intrinsic Functional Networks and Cognition </strong></font> <br> <a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_19210b8d0b8e43fd89333b0f0eac7c22.pdf" target="_blank">Publication</a>&nbsp;&nbsp;&nbsp;<a href="https://jeesungjessahn.wixsite.com/jeesung/" target="_blank">Archive for all Master's projects</a></div>
+<h2 style="color:rgb(2, 61, 148)">Other Neuroimaging Projects</h2>
+
+<div align="center"><font size="+1"><strong> Testing the Effects of Neurostimulation on Intrinsic Functional Networks and Cognition </strong></font> <br> <a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_19210b8d0b8e43fd89333b0f0eac7c22.pdf" target="_blank">Publication</a>&nbsp;&nbsp;&nbsp;<a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_8e3f509b05614408b986259e88281eaa.pdf" target="_blank">SfN 2017 Poster</a></div>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/tdcs.png" style="height: 100%; width: 100%; object-fit: contain">
@@ -170,7 +172,7 @@ We investigated whether transcranial direct current stimulation (tDCS) with an e
  </div>
 </div>
 
-<div align="center"><font size="+1"><strong>Deep Learning Approach to Convert fMRI Data from Low to High-Resolution</strong></font><br> <i>Yonsei Interdisciplinary Research Award Winner (won $5K in research funding)</i></div>
+<div align="center"><font size="+1"><strong>Deep Learning Approach to Enhance fMRI Data Resolution </strong></font><br> <i>Yonsei Interdisciplinary Research Award Winner (won $5K in research funding)</i></div>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/icons.png" style="height: 100%; width: 100%; object-fit: contain">
