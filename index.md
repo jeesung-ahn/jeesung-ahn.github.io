@@ -132,7 +132,7 @@ In this study, we adopted Round Robin design where entire members of campus soci
  </div>
 </div>
 <br>
-<div align="center"><font size="+1"><strong>Develop a Mobile Application for Socially Distressed Individuals</strong></font> <br> <a href="https://jeesungjessahn.wixsite.com/jeesung/emotional-labor-emoattention" target="_blank">Brief Summary of Related Projects</a> <a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_09565be4736d4293a135ba2ea51e25d3.pdf" target="_blank">SfN 2018 Poster 1</a> <a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_6adad23a154a4216882a3e54f7b7040a.pdf" target="_blank">SfN 2018 Poster 2</a></div>
+<div align="center"><font size="+1"><strong>Develop a Mobile Application for Socially Distressed Individuals</strong></font> <br> <a href="https://jeesungjessahn.wixsite.com/jeesung/emotional-labor-emoattention" target="_blank">Brief Summary of Related Projects</a>&nbsp;&nbsp;<a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_09565be4736d4293a135ba2ea51e25d3.pdf" target="_blank">SfN 2018 Poster 1</a>&nbsp;&nbsp;<a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_6adad23a154a4216882a3e54f7b7040a.pdf" target="_blank">SfN 2018 Poster 2</a></div>
 
 <div class="row">
   <div class="column">
