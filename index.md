@@ -100,7 +100,7 @@ We ran multi-level models to examine whether the modular organization of functio
   <img class="proj-image" src="/assets/img/mdm.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
 <div class="column" markdown="1">
-<br><br><br>
+<br>
 Our goal was to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. We performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering using R) on a <a href="https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html">dataset</a> with 5690 (food) x 154 (nutrients) dimensions. As a result, we were able to cluster 5690 food items into 8 categories and simulate real-world examples where we give food recommendations to individuals who are in need of dietary restrictions.
  </div>
 </div>
@@ -157,7 +157,7 @@ We qualitatively reviewed literature that examined the effects of interventions 
 <div align="center"><font size="+1"><strong>Unraveling the Negative Loop of Perseverance Thoughts in Depression and Anxiety</strong></font></div>
 <div class="column" markdown="1">
 Repetitive negative thoughts (perseverance thought, PT) are a prominent feature of many mental disorders and a robust predictor of poor clinical outcomes. Although the importance of PT as a source of impairment and an intervention target is well-recognized, it remains a difficult problem to treat. A major obstacle is our very limited understanding of what happens when people perseverate. In this study, we adopted the network control theory (NCT) analysis to examine whether clinical perseverators exhibit more temporally persistent brain states when they have to "turn off" negative thoughts in order to perform a basic cognitive task. <br><br> *I was in charge of engineering, wrangling, and documenting the experimental fMRI dataset.*
- </div>
+ </div> 
 <br>
 
 <h2 style="color:rgb(2, 61, 148)">Other Neuroimaging Projects</h2>
