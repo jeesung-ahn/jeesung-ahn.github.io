@@ -66,7 +66,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 Below is the selected overview of my research projects. If you have any questions, please shoot me an email to *jeesung@sas.upenn.edu*. Always happy to chat! 
 <br>
 <h2 style="color:rgb(2, 61, 148)">Data-Driven Promotion of Healthy Lifestyles</h2>
-<div align="center"><font size="+1"><strong>Brain-based Prediction of Physical Activity Behaviors after Health Message Exposure</strong></font><br> <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
+<div align="center"><font size="+1"><strong>Brain-Based Prediction of Physical Activity Behaviors after Health Message Exposure</strong></font><br> <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
   </div>
 <div class="row">
   <div class="column">
@@ -106,7 +106,7 @@ Our goal was to create a data-driven algorithm that provides personalized food r
  </div>
 </div>
 <br>
-<h2 style="color:rgb(2, 61, 148)">Connecting Mental Well-Being, Brain, and Social Networks</h2>
+<h2 style="color:rgb(2, 61, 148)">Connecting Mental Well-Being with Brain and Social Networks</h2>
 <div align="center"><font size="+1"><strong> Neural Responses to Peers’ Faces Predict Vulnerability to Loneliness during COVID-19 </strong></font><br> <i>2 upcoming conference presentations in 2023</i> </div>
 
 <div class="row">
@@ -132,19 +132,34 @@ In this study, we adopted Round Robin design where entire members of campus soci
  </div>
 </div>
 <br>
+<div align="center"><font size="+1"><strong>Workplace Stress Alters Emotional Attention and Brain Network Dynamics </strong></font> <br> <a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_09565be4736d4293a135ba2ea51e25d3.pdf" target="_blank">SfN 2018 Poster</a></div>
+
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/EmoLab_fcMVPA.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+  
+<div class="column" markdown="1">We conducted A/B tests and usability studies of *Emotional Attention Task* to develop a mobile application to alleviate symptoms of social anxiety. 
+
+ </div>
+</div>
+<br>
 <div align="center"><font size="+1"><strong> Relationships between Physical Activity and Loneliness: A Systematic Review of Intervention Studies </strong></font></div>
-*writing manuscript completed*
+
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/review_paper.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+  
 <div class="column" markdown="1">
 We qualitatively reviewed literature that examined the effects of interventions that are designed to tackle two important public health matters: physical inactivity and loneliness. Our aim was to identify which aspects of intervention most effectively improve physical inactivity and/or loneliness and whether these two variables are bi-directionally related. We proposed a psychological framework that suggests how *social influences* may underlie the relationship between loneliness and physical activity.
  </div>
 </div>
 <br>
-<div align="center"><font size="+1"><strong>Unlinking the Negative Thought Loop</strong></font></div>
+<div align="center"><font size="+1"><strong>Perseverence Thought</strong></font></div>
 <div class="column" markdown="1">
-Repetitive negative thoughts (perseverance thought,PT) are a prominent feature of many mental disorders and a robust predictor of poor clinical outcomes. Although the importance of PT as a source of impairment and an intervention target is well-
-recognized, it remains a difficult problem to treat. A major obstacle is our very limited understanding of what happens when people perseverate. In this study, we adopted the network control theory (NCT) analysis to examine whether clinical perseverators exhibit more temporally persistent brain states when they have to "turn off" negative thoughts in order to perform a basic cognitive task. <br> *I was in charge of engineering, wrangling, and documenting the experimental fMRI dataset.*
+Repetitive negative thoughts (perseverance thought, PT) are a prominent feature of many mental disorders and a robust predictor of poor clinical outcomes. Although the importance of PT as a source of impairment and an intervention target is well-recognized, it remains a difficult problem to treat. A major obstacle is our very limited understanding of what happens when people perseverate. In this study, we adopted the network control theory (NCT) analysis to examine whether clinical perseverators exhibit more temporally persistent brain states when they have to "turn off" negative thoughts in order to perform a basic cognitive task. <br> *I was in charge of engineering, wrangling, and documenting the experimental fMRI dataset.*
  </div>
-</div>
 <br>
 <div align="center"><font size="+1"><strong> Effects of Neurostimulation on Intrinsic Functional Networks and Cognition </strong></font> <br> <a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_19210b8d0b8e43fd89333b0f0eac7c22.pdf" target="_blank">Publication</a>&nbsp;&nbsp;&nbsp;<a href="https://jeesungjessahn.wixsite.com/jeesung/" target="_blank">Archive for all Master's projects</a></div>
 <div class="row">
