@@ -40,7 +40,7 @@ More specifically, my current research mainly revolves around two topics:
 - explaining individual differences in **mental health (e.g., loneliness)** based on **brain network and social network** characteristics
 <br>
 
-All in all, I am a curious and collaborative scholar who is ready to solve real-world problems with scientific approaches! 
+All in all, I am a curious and collaborative scholar who is ready to solve real-world problems with data and science! 
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
@@ -200,7 +200,7 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="presentations"> Conference Presentations </h1>
 
-*Ivited Talks*  
+*Invited Talks*  
 - **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E. (May 2022). Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors, *Social and Affective Neuroscience Society 2022 Annual Conference, Virtual*. **Top poster award**
 
 - **Ahn, J.**, Richards, K., Ortiz, T., Recommendations for an intelligent diet, [Wharton Data Science Live 2021](http://jh-cai.com/modern-data-mining/dsl.html){:target="_blank"}
