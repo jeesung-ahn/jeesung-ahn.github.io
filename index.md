@@ -65,7 +65,7 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 <h1 class="h1" style="color: rgb(0,0,0)" id="research"> Research Projects (selected) </h1>
 Below is the selected overview of my research projects. If you have any questions, please shoot me an email to *jeesung@sas.upenn.edu*. Always happy to chat! 
 <br>
-<h2 style="color:rgb(2, 61, 148)">Data-Driven Promotion of Healthy Lifestyles</h2>
+<h2 style="color:rgb(2, 61, 148)">Data-Driven Prediction of Healthy Lifetyles</h2>
 <div align="center"><font size="+1"><strong>Brain-Based Prediction of Physical Activity Behaviors after Health Message Exposure</strong></font><br> <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
   </div>
 <div class="row">
@@ -132,14 +132,14 @@ In this study, we adopted Round Robin design where entire members of campus soci
  </div>
 </div>
 <br>
-<div align="center"><font size="+1"><strong>Workplace Stress Alters Emotional Attention and Brain Network Dynamics </strong></font> <br> <a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_09565be4736d4293a135ba2ea51e25d3.pdf" target="_blank">SfN 2018 Poster</a></div>
+<div align="center"><font size="+1"><strong>Develop a Mobile Application for Socially Distressed Individuals</strong></font> <br> <a href="https://jeesungjessahn.wixsite.com/jeesung/emotional-labor-emoattention" target="_blank">Brief Summary of Related Projects</a> <a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_09565be4736d4293a135ba2ea51e25d3.pdf" target="_blank">SfN 2018 Poster 1</a> <a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_6adad23a154a4216882a3e54f7b7040a.pdf" target="_blank">SfN 2018 Poster 2</a></div>
 
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/EmoLab_fcMVPA.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
   
-<div class="column" markdown="1">We conducted A/B tests and usability studies of *Emotional Attention Task* to develop a mobile application to alleviate symptoms of social anxiety. 
+<div class="column" markdown="1">We conducted A/B tests and usability studies of a mobile application that provides cognitive training to modify attentional bias towards negative social stimuli (*Attentional Bias Modification, ABM*). We recruited healthy controls, individuals with social anxiety, and service workers who undergo extreme emotional load at workplaces. Participants performed the ABM task inside the fMRI scanner as well as on their smartphones. We conducted machine-learning classification of brain functional connectivity networks when performing the ABM task and found socially distressed individuals show attentional bias to negative faces (*vs.* neutral faces) both at the behavioral and neural levels.
 
  </div>
 </div>
