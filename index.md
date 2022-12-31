@@ -158,7 +158,6 @@ We qualitatively reviewed literature that examined the effects of interventions 
 <div class="column" markdown="1">
 Repetitive negative thoughts (perseverance thought, PT) are a prominent feature of many mental disorders and a robust predictor of poor clinical outcomes. Although the importance of PT as a source of impairment and an intervention target is well-recognized, it remains a difficult problem to treat. A major obstacle is our very limited understanding of what happens when people perseverate. In this study, we adopted the network control theory (NCT) analysis to examine whether clinical perseverators exhibit more temporally persistent brain states when they have to "turn off" negative thoughts in order to perform a basic cognitive task. <br><br> *I was in charge of engineering, wrangling, and documenting the experimental fMRI dataset.*
  </div> 
-<br>
 
 <h2 style="color:rgb(2, 61, 148)">Other Neuroimaging Projects</h2>
 
@@ -198,49 +197,34 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 
 († deonotes co-first authorship)
 
-<h2 class="h2"> Working Papers </h2>
-*Writing Manuscript Completed*
-- **Ahn, J**, Falk, E.B., Kang, Y. Relationships between Physical Activity and Loneliness: A Systematic Review of Intervention Studies 
-
-- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E. Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors 
-
-*Data Analysis Completed*
-- **Ahn, J.**, Cosme, D., Kang, Y., Lydon-Staley, D.M., Mucha, P.J., Ochsner, K.O., Bassett, D.S., Falk, E.B. Segregation and integration of brain functional connectivity networks moderate craving-drinking relationships in daily life 
-
-- social evaluation
-
-*In progress*
-- brain concurrent loneliness
-- brain future loneliness
-- perseverance thought
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="presentations"> Conference Presentations </h1>
 
-*INVITED TALKS*  
-- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E. (May 2022). Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors, Social and Affective Neuroscience Society 2022 Annual Conference, Virtual. *Top poster award*
+*Ivited Talks*  
+- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E. (May 2022). Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors, *Social and Affective Neuroscience Society 2022 Annual Conference, Virtual*. **Top poster award**
 
 - **Ahn, J.**, Richards, K., Ortiz, T., Recommendations for an intelligent diet, [Wharton Data Science Live 2021](http://jh-cai.com/modern-data-mining/dsl.html){:target="_blank"}
 
 *Poster Presentations*  
-- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E. (May 2022). Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors, Annual International Communication Association Conference, Paris, France.
+- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E. (May 2022). Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors, *Annual International Communication Association Conference, Paris, France*.
  
-- Kang, Y., O’Cosme, D., **Ahn. J.**, Strecher, V., Lydon-Staley, D., Corbani, F., Jovanova, M., Stanoi, O., Lomax, S., Ochsner, K., Mucha, P., Bassett, D., & Falk., E. (May 2022). Alcohol cue reactivity in the ventral striatum and daily purpose in life moderate the relationship between alcohol craving and consumption in college students, Annual International Communication Association Conference, Paris, France.
+- Kang, Y., O’Cosme, D., **Ahn. J.**, Strecher, V., Lydon-Staley, D., Corbani, F., Jovanova, M., Stanoi, O., Lomax, S., Ochsner, K., Mucha, P., Bassett, D., & Falk., E. (May 2022). Alcohol cue reactivity in the ventral striatum and daily purpose in life moderate the relationship between alcohol craving and consumption in college students, *Annual International Communication Association Conference, Paris, France*.
 
-- Cosme, D., Scholz, C., Chan, HY., Martin, R., Benitez, C., Cooper, N., Paul, A., **Ahn, J.**, Dore, B., Resnick, A., Carreras-Tartak, J., & Falk, E. (May 2022). Does focusing on self or social relevance during news article exposure increase motivation to share content?, Annual International Communication Association Conference, Paris, France.
+- Cosme, D., Scholz, C., Chan, HY., Martin, R., Benitez, C., Cooper, N., Paul, A., **Ahn, J.**, Dore, B., Resnick, A., Carreras-Tartak, J., & Falk, E. (May 2022). Does focusing on self or social relevance during news article exposure increase motivation to share content?, *Annual International Communication Association Conference, Paris, France*.
 
-- Chan, HY., Scholz, C., Cosme, D., Martin, R., Benitez, C., Cooper, N., Paul, A., **Ahn, J.**, Dore, B., Resnick, A., Carreras-Tartak, J., & Falk, E. (May 2022). Brain-based prediction of information virality: Evidence of cross-cultural validity from a pre-registered neuroimaging study, Annual International Communication Association Conference, Paris, France.
+- Chan, HY., Scholz, C., Cosme, D., Martin, R., Benitez, C., Cooper, N., Paul, A., **Ahn, J.**, Dore, B., Resnick, A., Carreras-Tartak, J., & Falk, E. (May 2022). Brain-based prediction of information virality: Evidence of cross-cultural validity from a pre-registered neuroimaging study, *Annual International Communication Association Conference, Paris, France*.
 
-- **Ahn, J.**, Jun, S., Lee, J., Min, S., Lee, S-K., Park, S.H., & Han, S. (Nov 3, 2018) Exploring the impact of emotional labor on social attention and brain connectivity patterns, Society for Neuroscience 2018 Annual Conference, San Diego, USA
+- **Ahn, J.**, Jun, S., Lee, J., Min, S., Lee, S-K., Park, S.H., & Han, S. (Nov 3, 2018) Exploring the impact of emotional labor on social attention and brain connectivity patterns, *Society for Neuroscience 2018 Annual Conference, San Diego, USA*.
 
-- Min, S., Jun, S., **Ahn, J.**, Lee, J., Lee, S-K., Park, S.H., & Han, S. (Nov 3, 2018) Intrinsic functional connectivity in emotion regulation network is altered in emotion laborers, Society for Neuroscience 2018 Annual Conference, San Diego, USA
+- Min, S., Jun, S., **Ahn, J.**, Lee, J., Lee, S-K., Park, S.H., & Han, S. (Nov 3, 2018) Intrinsic functional connectivity in emotion regulation network is altered in emotion laborers, *Society for Neuroscience 2018 Annual Conference, San Diego, USA*.
 
-- Lee, J., Lee, H-J., **Ahn, J.**, Lee, S-K., Han, S. (June 19-21, 2018) Exploring the high-resolution EPI fMRI protocol to reduce susceptibility-related BOLD signal dropout, The Organization for Human Brain Mapping 2018 Annual Meeting, Singapore  
+- Lee, J., Lee, H-J., **Ahn, J.**, Lee, S-K., Han, S. (June 19-21, 2018) Exploring the high-resolution EPI fMRI protocol to reduce susceptibility-related BOLD signal dropout, *The Organization for Human Brain Mapping 2018 Annual Meeting, Singapore*.  
 
-- **Ahn, J.**, Han, J.H., Kang, M.S., & Han, S. (Nov 11, 2017) Frontopolar transcranial direct current stimulation changes intrinsic functional connectivity networks during resting-state fMRI, Society for Neuroscience 2017 Annual Conference, Washington DC, USA
+- **Ahn, J.**, Han, J.H., Kang, M.S., & Han, S. (Nov 11, 2017) Frontopolar transcranial direct current stimulation changes intrinsic functional connectivity networks during resting-state fMRI, *Society for Neuroscience 2017 Annual Conference, Washington DC, USA*.
 
-- **Ahn, J.**, Nah, Y., & Han, S. (Nov 16, 2016) Voxel-wise Mapping of the Cingulate Cortex in Impression Formation, Society for Neuroscience 2016 Annual Conference, San Diego, USA
+- **Ahn, J.**, Nah, Y., & Han, S. (Nov 16, 2016) Voxel-wise Mapping of the Cingulate Cortex in Impression Formation, *Society for Neuroscience 2016 Annual Conference, San Diego, USA*.
 
-- **Ahn, J.**, Nah, Y., & Han, S. (April 3, 2016) Patterns of Functional Connectivity during Preparation Periods Can Predict the Tendency to Give Up in Following Decision-Making, Cognitive Neuroscience Society 2016 Annual Conference, New York, USA
+- **Ahn, J.**, Nah, Y., & Han, S. (April 3, 2016) Patterns of Functional Connectivity during Preparation Periods Can Predict the Tendency to Give Up in Following Decision-Making, *Cognitive Neuroscience Society 2016 Annual Conference, New York, USA*.
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="activities"> Volunteer Activities </h1>
