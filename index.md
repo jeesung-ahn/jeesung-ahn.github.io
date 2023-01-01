@@ -206,7 +206,8 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 - **Ahn, J.**, Richards, K., Ortiz, T., Recommendations for an intelligent diet, [Wharton Data Science Live 2021](http://jh-cai.com/modern-data-mining/dsl.html){:target="_blank"}
 
 *Poster Presentations*  
-- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E. (May 2022). Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors, *Annual International Communication Association Conference, Paris, France*.
+- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E. (May 2022). Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors, *Annual International Communication Association Conference, Paris, France*.      
+ [poster](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}
  
 - Kang, Y., O’Cosme, D., **Ahn. J.**, Strecher, V., Lydon-Staley, D., Corbani, F., Jovanova, M., Stanoi, O., Lomax, S., Ochsner, K., Mucha, P., Bassett, D., & Falk., E. (May 2022). Alcohol cue reactivity in the ventral striatum and daily purpose in life moderate the relationship between alcohol craving and consumption in college students, *Annual International Communication Association Conference, Paris, France*.
 
@@ -214,17 +215,23 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 
 - Chan, HY., Scholz, C., Cosme, D., Martin, R., Benitez, C., Cooper, N., Paul, A., **Ahn, J.**, Dore, B., Resnick, A., Carreras-Tartak, J., & Falk, E. (May 2022). Brain-based prediction of information virality: Evidence of cross-cultural validity from a pre-registered neuroimaging study, *Annual International Communication Association Conference, Paris, France*.
 
-- **Ahn, J.**, Jun, S., Lee, J., Min, S., Lee, S-K., Park, S.H., & Han, S. (Nov 3, 2018) Altered emotional attention and brain functional connectivity networks of emotional laborers, *Society for Neuroscience 2018 Annual Conference, San Diego, USA*.[poster](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_09565be4736d4293a135ba2ea51e25d3.pdf)
+- **Ahn, J.**, Jun, S., Lee, J., Min, S., Lee, S-K., Park, S.H., & Han, S. (Nov 3, 2018) Altered emotional attention and brain functional connectivity networks of emotional laborers, *Society for Neuroscience 2018 Annual Conference, San Diego, USA*.                    
+ [poster](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_09565be4736d4293a135ba2ea51e25d3.pdf){:target="_blank"}
 
-- Min, S., Jun, S., **Ahn, J.**, Lee, J., Lee, S-K., Park, S.H., & Han, S. (Nov 3, 2018) Intrinsic functional connectivity in emotion regulation network is altered in emotion laborers, *Society for Neuroscience 2018 Annual Conference, San Diego, USA*.[poster](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_6adad23a154a4216882a3e54f7b7040a.pdf)
+- Min, S., Jun, S., **Ahn, J.**, Lee, J., Lee, S-K., Park, S.H., & Han, S. (Nov 3, 2018) Intrinsic functional connectivity in emotion regulation network is altered in emotion laborers, *Society for Neuroscience 2018 Annual Conference, San Diego, USA*.              
+ [poster](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_6adad23a154a4216882a3e54f7b7040a.pdf){:target="_blank"}
 
-- Lee, J., Lee, H-J., **Ahn, J.**, Lee, S-K., Han, S. (June 19-21, 2018) Exploring the high-resolution EPI fMRI protocol to reduce susceptibility-related BOLD signal dropout, *The Organization for Human Brain Mapping 2018 Annual Meeting, Singapore*.[poster](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_3e6ad7881228459aa7bc9ee56a193c21.pdf) 
+- Lee, J., Lee, H-J., **Ahn, J.**, Lee, S-K., Han, S. (June 19-21, 2018) Exploring the high-resolution EPI fMRI protocol to reduce susceptibility-related BOLD signal dropout, *The Organization for Human Brain Mapping 2018 Annual Meeting, Singapore*.  
+ [poster](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_3e6ad7881228459aa7bc9ee56a193c21.pdf){:target="_blank"}
 
-- **Ahn, J.**, Han, J.H., Kang, M.S., & Han, S. (Nov 11, 2017) Frontopolar transcranial direct current stimulation changes intrinsic functional connectivity networks during resting-state fMRI, *Society for Neuroscience 2017 Annual Conference, Washington DC, USA*.[poster](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_8e3f509b05614408b986259e88281eaa.pdf)
+- **Ahn, J.**, Han, J.H., Kang, M.S., & Han, S. (Nov 11, 2017) Frontopolar transcranial direct current stimulation changes intrinsic functional connectivity networks during resting-state fMRI, *Society for Neuroscience 2017 Annual Conference, Washington DC, USA*.     
+ [poster](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_8e3f509b05614408b986259e88281eaa.pdf){:target="_blank"}
 
-- **Ahn, J.**, Nah, Y., & Han, S. (Nov 16, 2016) Voxel-wise Mapping of the Cingulate Cortex in Impression Formation, *Society for Neuroscience 2016 Annual Conference, San Diego, USA*.[poster](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_7ced775268db4bdf8be2359c8c1ca4d7.pdf)
+- **Ahn, J.**, Nah, Y., & Han, S. (Nov 16, 2016) Voxel-wise Mapping of the Cingulate Cortex in Impression Formation, *Society for Neuroscience 2016 Annual Conference, San Diego, USA*.  
+ [poster](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_7ced775268db4bdf8be2359c8c1ca4d7.pdf){:target="_blank"}
 
-- **Ahn, J.**, Nah, Y., & Han, S. (April 3, 2016) Patterns of Functional Connectivity during Preparation Periods Can Predict the Tendency to Give Up in Following Decision-Making, *Cognitive Neuroscience Society 2016 Annual Conference, New York, USA*. [poster](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_336ac6dd6238442a8ee14c4dfaddd045.pdf)
+- **Ahn, J.**, Nah, Y., & Han, S. (April 3, 2016) Patterns of Functional Connectivity during Preparation Periods Can Predict the Tendency to Give Up in Following Decision-Making, *Cognitive Neuroscience Society 2016 Annual Conference, New York, USA*. 
+ [poster](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_336ac6dd6238442a8ee14c4dfaddd045.pdf){:target="_blank"}
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="activities"> Volunteer Activities </h1>
