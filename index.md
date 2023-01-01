@@ -62,11 +62,11 @@ Over the course of 7+ years leading end-to-end psychology and neuroscience resea
 - qualitative content analysis (including text analysis)
 
 ---
-<h1 class="h1" style="color: rgb(0,0,0)" id="research"> Research Projects (selected) </h1>
+<h1 class="h1" style="color: rgb(0,0,0)" id="research"> Selected Projects </h1>
 Below is the selected overview of my research projects. If you have any questions, please shoot me an email to *jeesung@sas.upenn.edu*. Always happy to chat! 
 
 
-<h2 style="color:rgb(2, 61, 148)">Data-Driven Promotion of Healthy Lifetyles</h2>
+<h2 style="color:rgb(2, 61, 148)">Data-Driven Promotion of Healthy Lifestyles</h2>
 
 <div align="center"><font size="+1"><strong>Brain-Based Prediction of Physical Activity Behaviors after Health Message Exposure</strong></font><br> <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
   </div>
@@ -231,16 +231,17 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 
 I am deeply passionate about translating scientific insight into actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about: 
 
-- consultant at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/){:target="_blank"} (Sept 2022~):<br /> 
-consulting a healthcare company on the market landscape for their novel cancer therapy. 
-presenting data-driven recommendations and benchmarks for
-partnership opportunities, market sizing and pricing with 
+- Consultant at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/){:target="_blank"} (Sept 2022~):<br /> 
+Presented weekly deliverables to a biotherapeutic start-up company by analyzing the market landscape for  a novel cancer therapy that will have a high impact on 1M+ tumor patients. Led in-depth interviews with healthcare stakeholders and qualitatively evaluated 200+ clinical trials and company profiles, providing data-driven recommendations and benchmarks for partnership opportunities, market sizing and product pricing. Conducted fast-paced research and extensive literature reviews to meet the client’s needs and timeline. 
 
-- volunteering for an [educational diversity and equity initiative](https://web.sas.upenn.edu/dive/){:target="_blank"} to mentor underrepresented
-minority students in their career paths in science. wrangling/analyzing/visualizing program outcomes using R (ggplot2, R
-Markdown, slide decks). 
+- Data Analyst at [Penn Mind Sciences Diversity and Equity Initiative   ](https://web.sas.upenn.edu/dive/){:target="_blank"} (Mar 2022~):<br />  
+Designed and collected online surveys (*Qualtrics*) to assess participants’ experience with an outreach program that mentors underrepresented minority students in their career paths in science. Wrangled and analyzed pre- vs. post- event data, including qualitatively reviewing participants’ written feedback. Visualized outcomes using *ggplot2*, *wordcloud*, *R Markdown* and presented actionable insights and recommendations to organizers to improve the program.
 
-- wrangling / analyzing / visualizing air quality and relevant health outcomes with [Penn Data Science Group](https://penndsg.com/){:target="_blank"} to inform climate activists.
+- Data Scientist at [Penn Data Science Group](https://penndsg.com/){:target="_blank"} (Feb 2022 – May 2022):<br /> 
+Collaborated cross-functionally to wrangle and analyze climate data in the greater Philadelphia area. Created interactive maps that visualize air quality and relevant health outcomes, which were used by the  client (climate activists and researchers) to efficiently communicate their cause to climate policymakers 
+
+- Research Consultant at Team QuantumLabs (April 2015 – Mar 2019): <br /> 
+Consulted a start-up company on the efficacy of their novel neurostimulation technology in enhancing cognitive functions. Designed and conducted A/B tests and usability studies, resulting in the successful acquisition of $100K in funding. Presented findings to cross-functional stakeholders (venture capital funders, designers, engineers, physicians) to inform and advocate the direction of product development. 
 
 ------------------------------------------------------------------------
 
