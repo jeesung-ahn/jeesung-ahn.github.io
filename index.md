@@ -203,7 +203,7 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 *Invited Talks*  
 - **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E. (May 2022). [Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}, *Social and Affective Neuroscience Society 2022 Annual Conference, Virtual*. **Top poster award**
 
-- **Ahn, J.**, Richards, K., Ortiz, T., [Recommendations for an intelligent diet](https://htmlpreview.github.io/?https://github.com/keanarichards/nutrients_project_stat571/blob/main/final_project.html){:target="_blank"}, [Wharton Data Science Live 2021](http://jh-cai.com/modern-data-mining/dsl.html){:target="_blank"}
+- **Ahn, J.**, Richards, K., Ortiz, T. (April, 2021). [Recommendations for an intelligent diet](https://htmlpreview.github.io/?https://github.com/keanarichards/nutrients_project_stat571/blob/main/final_project.html){:target="_blank"}, [Wharton Data Science Live 2021](http://jh-cai.com/modern-data-mining/dsl.html){:target="_blank"}
 
 *Poster Presentations*  
 - **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E. (May 2022). [Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}, *Annual International Communication Association Conference, Paris, France*.    
