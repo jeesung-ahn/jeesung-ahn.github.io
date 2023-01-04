@@ -198,6 +198,21 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 († deonotes co-first authorship)
 
 ---
+
+<h1 class="h1" style="color: rgb(0,0,0)" id="publications"> Working Papers </h1>
+
+- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez‐Larkin, G., & Falk, E. B. (2022). Brain responses to gain‐ and loss‐framed messages differ, and interact with baseline physical activity, to predict later behaviors. In Prep.
+- **Ahn, J.**, Cosme, D., Kang, Y., Zachary, B., Ochsner, K., Mucha, P., Lydon‐Staley, D., Bassett, D. S., & Falk, E. B. (2022). Segregation and integration of brain functional connectivity networks moderate craving‐drinking relationships in daily life. In Prep.
+- **Ahn, J.**, Falk, E. B., & Kang, Y. (2022). Relationships between physical activity and loneliness: A systematic review of intervention studies. In Prep.
+- **Ahn, J.**, Kang, Y., Mwilambwe‐Tshilobo, L., Cosme, D., Bassett, D. S., Zachary, B., Lydon‐Staley, D., Mucha, P., Ochsner, K., & Falk, E. B. (2022). Neural responses to peer faces predict loneliness in college students. In Prep.
+- **Ahn, J.**, Mwilambwe‐Tshilobo, L., Kang, Y., Cosme, D., Bassett, D. S., Zachary, B., Lydon‐Staley, D., Mucha, P., Ochsner, K., & Falk, E. B. (2022). Connectome‐based predictive modeling of loneliness during COVID‐19. In Prep.
+- **Ahn, J.**, Mwilambwe‐Tshilobo, L., Kang, Y., Cosme, D., Bassett, D. S., Zachary, B., Lydon‐Staley, D., Mucha, P., Ochsner, K., & Falk, E. B. (2022). Inaccurate self‐evaluation is associated with mental well‐being and mentalizing activity in the brain. In Prep.
+- **Ahn, J.†**, Zhou, D.†, Falk, E. B., Bassett, D. S., & Ruscio, A. (2022). Brain network underpinnings of perseverance thought in clinical populations. In Prep (Ahn & Zhou Co‐First Authorship).
+
+(† deonotes co-first authorship)
+
+---
+
 <h1 class="h1" style="color: rgb(0,0,0)" id="presentations"> Conference Presentations </h1>
 
 *Invited Talks*  
