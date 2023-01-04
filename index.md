@@ -185,7 +185,8 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 
 - **Ahn, J**., Nah, Y., Ko, I., Han, S. (2022, in press). Voxel-wise Mapping of Functional Magnetic Resonance Imaging in Impression Formation, *Science of Emotion and Sensibility*
 
-- Zhou, D., Kang, Y., Cosme, D., Jovanova, M., He, X., Mahadevan, A., **Ahn, J**., Stanoi, O., Brynildsen, J., Cooper, N., Cornblath, E., Parkes, L., Mucha, P.J., Ochsner, K., Lydon-Staley, D.M., Falk, E.B., Bassett. D.S. (2022, in press). [Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present](https://psyarxiv.com/u83my/){:target="_blank"}, *PNAS*
+- Zhou, D., Kang, Y., Cosme, D., Jovanova, M., He, X., Mahadevan, A., **Ahn, J**., Stanoi, O., Brynildsen, J., Cooper, N., Cornblath, E., Parkes, L., Mucha, P.J., Ochsner, K., Lydon-Staley, D.M., Falk, E.B., Bassett. D.S. (2022). [Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present
+](https://doi.org/10.1073/pnas.2201074119){:target="_blank"}, *PNAS*
 
 - Kang, Y., Cosme, D., Lydon‐Staley, D.M., **Ahn, J**., Jovanova, M., Corbani, F., Lomax, S., Stanoi, O., Strecher, V., Mucha, P.J., Oschner, K., Bassett, D.S., Falk, E.B. (2022). [Purpose in life, Neural Alcohol Cue Reactivity, and Daily Alcohol Use in Social Drinkers](https://onlinelibrary.wiley.com/doi/pdf/10.1111/add.16012){:target="_blank"}, *Addiction*
 
