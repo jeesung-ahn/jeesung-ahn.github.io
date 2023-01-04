@@ -45,7 +45,7 @@ All in all, I am a curious and collaborative scholar who is ready to solve real-
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
 
-Over the course of 7+ years leading end-to-end psychology and neuroscience research projects, I have primarily worked with human behavioral and neuroimaging data. 
+Over the course of 8+ years leading end-to-end psychology and neuroscience research projects, I have primarily worked with human behavioral and neuroimaging data. 
 <br>
 <br /> 
 **My research methods are multi-disciplinary** and include the followings: 
