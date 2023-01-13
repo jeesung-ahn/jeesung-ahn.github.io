@@ -68,7 +68,7 @@ Below is the selected overview of my research projects. If you have any question
 
 <h2 style="color:rgb(2, 61, 148)">Data-Driven Promotion of Healthy Lifestyles</h2>
 
-<div align="center"><font size="+1"><strong>Brain-Based Prediction of Physical Activity Behaviors after Health Message Exposure</strong></font><br> <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
+<div align="center"><font size="+1"><strong>Prediction of Physical Activity Behaviors after Health Message Exposure</strong></font><br> <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
   </div>
 <div class="row">
   <div class="column">
@@ -156,12 +156,12 @@ We qualitatively reviewed literature that examined the effects of interventions 
 
 <div align="center"><font size="+1"><strong>Unraveling the Negative Loop of Perseverance Thoughts in Depression and Anxiety</strong></font></div>
 <div class="column" markdown="1">
-Repetitive negative thoughts (perseverance thought, PT) are a prominent feature of many mental disorders and a robust predictor of poor clinical outcomes. Although the importance of PT as a source of impairment and an intervention target is well-recognized, it remains a difficult problem to treat. A major obstacle is our very limited understanding of what happens when people perseverate. In this study, we adopted the network control theory (NCT) analysis to examine whether clinical perseverators exhibit more temporally persistent brain states when they have to "turn off" negative thoughts in order to perform a basic cognitive task. <br><br> *I was in charge of engineering, wrangling, and documenting the experimental fMRI dataset.*
+Repetitive negative thoughts (perseverance thought, PT) are a prominent feature of many mental disorders and a robust predictor of poor clinical outcomes. Although the importance of PT as a source of impairment and an intervention target is well-recognized, it remains a difficult problem to treat. A major obstacle is our very limited understanding of what happens when people perseverate. In this study, we adopted the network control theory (NCT) analysis to examine whether clinical perseverators exhibit more temporally persistent brain states when they have to "turn off" negative thoughts in order to perform a basic cognitive task. *I was in charge of engineering, wrangling, and documenting the experimental fMRI dataset.*
  </div> 
 
 <h2 style="color:rgb(2, 61, 148)">Other Neuroimaging Projects</h2>
 
-<div align="center"><font size="+1"><strong> Testing the Effects of Neurostimulation on Intrinsic Functional Networks and Cognition </strong></font> <br> <a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_19210b8d0b8e43fd89333b0f0eac7c22.pdf" target="_blank">Publication</a>&nbsp;&nbsp;&nbsp;<a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_8e3f509b05614408b986259e88281eaa.pdf" target="_blank">SfN 2017 Poster</a></div>
+<div align="center"><font size="+1"><strong> Effects of Neurostimulation on Intrinsic Functional Networks and Cognition </strong></font> <br> <a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_19210b8d0b8e43fd89333b0f0eac7c22.pdf" target="_blank">Publication</a>&nbsp;&nbsp;&nbsp;<a href="https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_8e3f509b05614408b986259e88281eaa.pdf" target="_blank">SfN 2017 Poster</a></div>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/tdcs.png" style="height: 100%; width: 100%; object-fit: contain">
@@ -257,15 +257,26 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="activities"> Volunteer Activities </h1>
 
-I am deeply passionate about translating scientific insight into actionable outcomes in complex decision-making scenarios. To that end, I have been actively involved with various social group activities where I can leverage my research skills to make real-world impacts on matters that I care about: 
+I am deeply committed to utilizing my research skills to translate scientific insights into actionable outcomes in complex decision-making scenarios. In pursuit of this goal, I have actively participated in various volunteer activities, where I have been able to work on making real-world impacts on issues that are important to me.
 
-- **Consultant** at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/){:target="_blank"} (Sept 2022~):<br />  Presented weekly deliverables to a biotherapeutic start-up company by analyzing the market landscape for  a novel cancer therapy that will have a high impact on 1M+ tumor patients. Led in-depth interviews with healthcare stakeholders and qualitatively evaluated 200+ clinical trials and company profiles, providing data-driven recommendations and benchmarks for partnership opportunities, market sizing and product pricing. Conducted fast-paced research and extensive literature reviews to meet the client’s needs and timeline. 
+- **Consultant** at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/){:target="_blank"} (Sept 2022~):<br />  
+ + Presented weekly deliverables to a biotherapeutic start-up company by analyzing the market landscape for a novel cancer therapy that has the potential to significantly impact 1M+ tumor patients
+ + Led in-depth interviews with healthcare stakeholders and qualitatively evaluated more than 200 clinical trials and company profiles, which helped the client to make informed decisions regarding partnership opportunities, market sizing, and product pricing 
+ + Executed agile and meticulous research, complemented by extensive literature reviews, in order to fulfill the client’s needs and adhere to the established timeline. 
+ 
 
-- **Data Analyst** at [Penn Mind Sciences Diversity and Equity Initiative   ](https://web.sas.upenn.edu/dive/){:target="_blank"} (Mar 2022~):<br />  Designed and collected online surveys (*Qualtrics*) to assess participants’ experience with an outreach program that mentors underrepresented minority students in their career paths in science. Wrangled and analyzed pre- vs. post- event data, including qualitatively reviewing participants’ written feedback. Visualized outcomes using *ggplot2*, *wordcloud*, *R Markdown* and presented actionable insights and recommendations to organizers to improve the program.
+- **Data Analyst** at [Penn Mind Sciences Diversity and Equity Initiative   ](https://web.sas.upenn.edu/dive/){:target="_blank"} (Mar 2022~):<br /> 
+ + Designed and administered online surveys (using *Qualtrics*) to assess participants’ experience with an outreach program that provides mentorship to underrepresented minority students in their careers in science
+ + Wrangled and analyzed pre- vs. post- event data, including qualitatively reviewing participants’ written feedback
+ + Visualized event outcomes using *ggplot2*, *wordcloud*, and *R Markdown* and presented actionable insights and recommendations to the program organizers to improve the program.
 
-- **Data Scientist** at [Penn Data Science Group](https://penndsg.com/){:target="_blank"} (Feb 2022 – May 2022):<br />  Collaborated cross-functionally to wrangle and analyze climate data in the greater Philadelphia area. Created interactive maps that visualize air quality and relevant health outcomes, which were used by the  client (climate activists and researchers) to efficiently communicate their cause to climate policymakers 
 
-- **Research Consultant** at Team QuantumLabs (April 2015 – Mar 2019): <br />  Consulted a start-up company on the efficacy of their novel neurostimulation technology in enhancing cognitive functions. Designed and conducted A/B tests and usability studies, resulting in the successful acquisition of $100K in funding. Presented findings to cross-functional stakeholders (venture capital funders, designers, engineers, physicians) to inform and advocate the direction of product development. 
+- **Data Scientist** at [Penn Data Science Group](https://penndsg.com/){:target="_blank"} (Feb 2022 – May 2022):<br /> Organized and processed publicly available air quality data and related health outcomes; created interactive maps that visualize the information, thereby enabling the client to communicate their message effectively to climate policymakers
+
+- **UX Research Consultant** at Team QuantumLabs (April 2015 – Mar 2019): <br />  
+ + Provided consulting services to a start-up company on the efficacy of their novel neurostimulation technology in enhancing cognitive functions, such as attention capacity. 
+ + Designed and conducted A/B tests and usability studies of their product, which led to the successful acquisition of $100K in funding.  
+ + Led a team that presented findings to cross-functional stakeholders, including venture capital funders, designers, engineers, and clinicians, to inform and advocate the direction of product development.
 
 ------------------------------------------------------------------------
 
