@@ -262,20 +262,21 @@ I am deeply committed to utilizing my research skills to translate scientific in
 **Consultant** at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/){:target="_blank"} (Sept 2022~):
  + Presented weekly deliverables to a biotherapeutic start-up company by analyzing the market landscape for a novel cancer therapy that has the potential to significantly impact 1M+ tumor patients
  + Led in-depth interviews with healthcare stakeholders and qualitatively evaluated more than 200 clinical trials and company profiles, which helped the client to make informed decisions regarding partnership opportunities, market sizing, and product pricing 
- + Executed agile and meticulous research, complemented by extensive literature reviews, in order to fulfill the client’s needs and adhere to the established timeline. 
+ + Executed agile and meticulous research, complemented by extensive literature reviews, in order to fulfill the client’s needs and adhere to the established timeline
  
 **Data Analyst** at [Penn Mind Sciences Diversity and Equity Initiative   ](https://web.sas.upenn.edu/dive/){:target="_blank"} (Mar 2022~):
  + Designed and administered online surveys (using *Qualtrics*) to assess participants’ experience with an outreach program that provides mentorship to underrepresented minority students in their careers in science
  + Wrangled and analyzed pre- vs. post- event data, including qualitatively reviewing participants’ written feedback
- + Visualized event outcomes using *ggplot2*, *wordcloud*, and *R Markdown* and presented actionable insights and recommendations to the program organizers to improve the program.
+ + Visualized event outcomes using *ggplot2*, *wordcloud*, and *R Markdown* and presented actionable insights and recommendations to the program organizers to improve the program
 
 **Data Scientist** at [Penn Data Science Group](https://penndsg.com/){:target="_blank"} (Feb 2022 – May 2022): 
- + Organized and processed publicly available air quality data and related health outcomes; created interactive maps that visualize the information, thereby enabling the client to communicate their message effectively to climate policymakers
+ + Organized and processed publicly available air quality data and related health outcomes
+ + Created interactive maps that visualize the information, thereby enabling the client to communicate their message effectively to climate policymakers
 
 **UX Research Consultant** at Team QuantumLabs (April 2015 – Mar 2019):   
- + Provided consulting services to a start-up company on the efficacy of their novel neurostimulation technology in enhancing cognitive functions, such as attention capacity. 
- + Designed and conducted A/B tests and usability studies of their product, which led to the successful acquisition of $100K in funding.  
- + Led a team that presented findings to cross-functional stakeholders, including venture capital funders, designers, engineers, and clinicians, to inform and advocate the direction of product development.
+ + Provided consulting services to a start-up company on the efficacy of their novel neurostimulation technology in enhancing cognitive functions, such as attention capacity 
+ + Designed and conducted A/B tests and usability studies of their product, which led to the successful acquisition of $100K in funding
+ + Led a team that presented findings to cross-functional stakeholders, including venture capital funders, designers, engineers, and clinicians, to inform and advocate the direction of product development
 
 ------------------------------------------------------------------------
 
