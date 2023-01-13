@@ -264,16 +264,13 @@ I am deeply committed to utilizing my research skills to translate scientific in
  + Led in-depth interviews with healthcare stakeholders and qualitatively evaluated more than 200 clinical trials and company profiles, which helped the client to make informed decisions regarding partnership opportunities, market sizing, and product pricing 
  + Executed agile and meticulous research, complemented by extensive literature reviews, in order to fulfill the client’s needs and adhere to the established timeline. 
  
-<br />  
 **Data Analyst** at [Penn Mind Sciences Diversity and Equity Initiative   ](https://web.sas.upenn.edu/dive/){:target="_blank"} (Mar 2022~):
  + Designed and administered online surveys (using *Qualtrics*) to assess participants’ experience with an outreach program that provides mentorship to underrepresented minority students in their careers in science
  + Wrangled and analyzed pre- vs. post- event data, including qualitatively reviewing participants’ written feedback
  + Visualized event outcomes using *ggplot2*, *wordcloud*, and *R Markdown* and presented actionable insights and recommendations to the program organizers to improve the program.
- 
-<br /> 
+
 **Data Scientist** at [Penn Data Science Group](https://penndsg.com/){:target="_blank"} (Feb 2022 – May 2022): Organized and processed publicly available air quality data and related health outcomes; created interactive maps that visualize the information, thereby enabling the client to communicate their message effectively to climate policymakers
 
-<br /> 
 **UX Research Consultant** at Team QuantumLabs (April 2015 – Mar 2019):   
  + Provided consulting services to a start-up company on the efficacy of their novel neurostimulation technology in enhancing cognitive functions, such as attention capacity. 
  + Designed and conducted A/B tests and usability studies of their product, which led to the successful acquisition of $100K in funding.  
