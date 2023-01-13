@@ -269,7 +269,8 @@ I am deeply committed to utilizing my research skills to translate scientific in
  + Wrangled and analyzed pre- vs. post- event data, including qualitatively reviewing participants’ written feedback
  + Visualized event outcomes using *ggplot2*, *wordcloud*, and *R Markdown* and presented actionable insights and recommendations to the program organizers to improve the program.
 
-**Data Scientist** at [Penn Data Science Group](https://penndsg.com/){:target="_blank"} (Feb 2022 – May 2022): Organized and processed publicly available air quality data and related health outcomes; created interactive maps that visualize the information, thereby enabling the client to communicate their message effectively to climate policymakers
+**Data Scientist** at [Penn Data Science Group](https://penndsg.com/){:target="_blank"} (Feb 2022 – May 2022): 
+ + Organized and processed publicly available air quality data and related health outcomes; created interactive maps that visualize the information, thereby enabling the client to communicate their message effectively to climate policymakers
 
 **UX Research Consultant** at Team QuantumLabs (April 2015 – Mar 2019):   
  + Provided consulting services to a start-up company on the efficacy of their novel neurostimulation technology in enhancing cognitive functions, such as attention capacity. 
