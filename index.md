@@ -259,9 +259,7 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 
 I am deeply committed to utilizing my research skills to translate scientific insights into actionable outcomes in complex decision-making scenarios. In pursuit of this goal, I have actively participated in various volunteer activities, where I have been able to work on making real-world impacts on issues that are important to me.
 
-<div align="center"><font size="+1">**Consultant** at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/){:target="_blank"} (Sept 2022~) </font></div>
-
-- **Consultant** at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/){:target="_blank"} (Sept 2022~):<br />  
+**Consultant** at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/){:target="_blank"} (Sept 2022~):<br />  
  + Presented weekly deliverables to a biotherapeutic start-up company by analyzing the market landscape for a novel cancer therapy that has the potential to significantly impact 1M+ tumor patients
  + Led in-depth interviews with healthcare stakeholders and qualitatively evaluated more than 200 clinical trials and company profiles, which helped the client to make informed decisions regarding partnership opportunities, market sizing, and product pricing 
  + Executed agile and meticulous research, complemented by extensive literature reviews, in order to fulfill the client’s needs and adhere to the established timeline. 
