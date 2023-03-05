@@ -167,7 +167,7 @@ Repetitive negative thoughts (perseverance thought, PT) are a prominent feature 
   <img class="proj-image" src="/assets/img/tdcs.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
 <div class="column" markdown="1">
-We investigated whether transcranial direct current stimulation (tDCS) with an electric intensity lower than 0.5mA can influence the activity of the default mode network (DMN) in the brain. We applied group independent component analysis (ICA) and found the low-intensity tDCS altered the intrinsic co-activation of brain regions within DMN. We also conducted A/B tests and usability studies of a novel tDCS device and examined its effects and safety on enhancing young adults' cognitive abilities, with a particular focus on attentional allocation and memory. 
+I conducted A/B testing of a novel neurostimulation device (transcranial direct current stimulation, tDCS) and examined its effects and safety on enhancing younger adults’ cognitive abilities, with a particular focus on attentional allocation abilities. More specifically, I examined whether an electric intensity lower than 0.5mA can influence the activity of the default mode network (DMN) in the brain. I applied a group independent component analysis (ICA) and found the low-intensity tDCS altered the intrinsic co-activation of brain regions within DMN.
  </div>
 </div>
 
@@ -260,7 +260,7 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 I am deeply committed to utilizing my research skills to translate scientific insights into actionable outcomes in complex decision-making scenarios. In pursuit of this goal, I have actively participated in various volunteer activities, where I have been able to work on making real-world impacts on issues that are important to me.
 
 **Consultant** at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/){:target="_blank"} (Sept 2022~):
- + Presented weekly deliverables to a biotherapeutic start-up company by analyzing the market landscape for a novel cancer therapy that has the potential to significantly impact 1M+ tumor patients
+ + Presented weekly deliverables to a biotechnology start-up by analyzing the market landscape for a novel cancer therapy that has the potential to significantly impact 1M+ tumor patients
  + Led in-depth interviews with healthcare stakeholders and qualitatively evaluated more than 200 clinical trials and company profiles, which helped the client to make informed decisions regarding partnership opportunities, market sizing, and product pricing 
  + Executed agile and meticulous research, complemented by extensive literature reviews, in order to fulfill the client’s needs and adhere to the established timeline
  
@@ -270,13 +270,19 @@ I am deeply committed to utilizing my research skills to translate scientific in
  + Visualized event outcomes using *ggplot2*, *wordcloud*, and *R Markdown* and presented actionable insights and recommendations to the program organizers to improve the program
 
 **Data Scientist** at [Penn Data Science Group](https://penndsg.com/){:target="_blank"} (Feb 2022 – May 2022): 
- + Organized and processed publicly available air quality data and related health outcomes
- + Created interactive maps that visualize the information, thereby enabling the client to communicate their message effectively to climate policymakers
+ + Extracted and processed publicly available air quality data and related health outcomes
+ + Created interactive heatmaps, enabling clients to communicate their message effectively to climate policymakers
 
 **UX Research Consultant** at Team QuantumLabs (April 2015 – Mar 2019):   
  + Provided consulting services to a start-up company on the efficacy of their novel neurostimulation technology in enhancing cognitive functions, such as attention capacity 
  + Designed and conducted A/B tests and usability studies of their product, which led to the successful acquisition of $100K in funding
  + Led a team that presented findings to cross-functional stakeholders, including venture capital funders, designers, engineers, and clinicians, to inform and advocate the direction of product development
+ 
+ 
+---
+<h1 class="h1" style="color: rgb(0,0,0)" id="research"> For Fun </h1>
+
+My kaggle projects on predicting music and movie popularity.. Coming soon! 
 
 ------------------------------------------------------------------------
 

@@ -59,6 +59,8 @@ menu:
     url:               /assets/files/CV_JeesungAhn.pdf
 # - title:             RESUMÉ
 # url:               /assets/files/Resumé_JeesungAhn.pdf
+  - title:             FOR FUN
+    url: #funpersonalprojects
   - title:             CONTACT
     url:               /#contact-me
 #   - title:             Blog
