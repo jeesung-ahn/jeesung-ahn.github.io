@@ -75,7 +75,7 @@ Below is the selected overview of my research projects. If you have any question
   <img class="proj-image" src="/assets/img/framing.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
   <div class="column" markdown="1">
- In this *mega-analysis* of neuroimaging (fMRI) and physical activity behavioral datasets (N=366), we found the effectiveness of health message interventions in promoting physical activity can be predicted by interactions between message-level (i.e., gain vs. loss framing) and individual-level (i.e., baseline levels of physical activity) characteristics.
+ In this *mega-analysis* of neuroimaging (fMRI) and physical activity behavioral datasets (N=366), I found the effectiveness of health message interventions in promoting physical activity can be predicted by interactions between message-level (i.e., gain vs. loss framing) and individual-level (i.e., baseline levels of physical activity) characteristics.
   </div>
 </div>
 <br>
@@ -88,7 +88,7 @@ Below is the selected overview of my research projects. If you have any question
   <img class="proj-image" src="/assets/img/shine_protocol.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
   <div class="column" markdown="1">
-We ran multi-level models to examine whether the modular organization of functional connectivity networks in the brain (measured by fMRI) can explain real-world associations between alcohol craving and drinking in non-dependent social drinkers (measured by daily experience sampling for one month). 
+I ran multi-level models to examine whether the modular organization of functional connectivity networks in the brain (measured by fMRI) can explain real-world associations between alcohol craving and drinking in non-dependent social drinkers (measured by daily experience sampling for one month). 
   </div>
 </div>
 <br>
@@ -101,7 +101,7 @@ We ran multi-level models to examine whether the modular organization of functio
   </div>
 <div class="column" markdown="1">
 <br>
-Our goal was to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. We performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering using R) on a <a href="https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html">dataset</a> with 5690 (food) x 154 (nutrients) dimensions. As a result, we were able to cluster 5690 food items into 8 categories and simulate real-world examples where we give food recommendations to individuals who are in need of dietary restrictions.
+My goal was to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. I performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering using R) on a <a href="https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html">dataset</a> with 5690 (food) x 154 (nutrients) dimensions. As a result, I was able to cluster 5690 food items into 8 categories and simulate real-world examples where I give food recommendations to individuals who are in need of dietary restrictions.
  </div>
 </div>
 <br>
@@ -114,7 +114,7 @@ Our goal was to create a data-driven algorithm that provides personalized food r
   <img class="proj-image" src="/assets/img/covid_loneliness_findings.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
 <div class="column" markdown="1">
-We tested whether neural responses to peers' faces predict the likelihood of becoming lonelier from before to after the COVID-19 pandemic. Our findings suggested that lonelier individuals may assign greater emotional salience to self-relevant social stimuli. Furthermore, individuals who showed greater reward sensitivity to peers' faces were more likely to become lonely in response to social stressors such as social isolation during the pandemic.
+I tested whether neural responses to peers' faces predict the likelihood of becoming lonelier from before to after the COVID-19 pandemic. Findings suggested that lonelier individuals may assign greater emotional salience to self-relevant social stimuli. Furthermore, individuals who showed greater reward sensitivity to peers' faces were more likely to become lonely in response to social stressors such as social isolation during the pandemic.
  </div>
 </div>
 <br>
@@ -125,7 +125,7 @@ We tested whether neural responses to peers' faces predict the likelihood of bec
   <img class="proj-image" src="/assets/img/evaluation_findings.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
 <div class="column" markdown="1">
-In this study, we adopted Round Robin design where entire members of campus social groups were recruited. Participants rated themselves and their peers' social status such as likability, attractiveness, and influence over others. Here, we asked three questions: 1) is there a discrepancy between social status that are evaluated by self *vs.* peers?; 2) would under (or over)-evaluating one's social status be associated with poorer mental health?; 3) would under (or over)-evaluating one's social status be associated with thinking more about *others'* thoughts and feelings? 
+In this large-scale multi-disciplinary study, we adopted Round Robin design where entire members of campus social groups were recruited. Participants rated themselves and their peers' social status such as likability, attractiveness, and influence over others. Here, I asked three questions: 1) is there a discrepancy between social status that is evaluated by self *vs.* peers?; 2) would under (or over)-evaluating one's social status be associated with poorer mental health?; 3) would under (or over)-evaluating one's social status be associated with thinking more about *others'* thoughts and feelings? 
  </div>
 </div>
 <br>
@@ -137,7 +137,7 @@ In this study, we adopted Round Robin design where entire members of campus soci
   <img class="proj-image" src="/assets/img/EmoLab_fcMVPA.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
   
-<div class="column" markdown="1">We conducted A/B tests and usability studies of a mobile application that provides cognitive training to modify attentional bias towards negative social stimuli (*Attentional Bias Modification, ABM*). We recruited healthy controls, individuals with social anxiety, and service workers who undergo extreme emotional load at workplaces. Participants performed the ABM task inside the fMRI scanner as well as on their smartphones. We conducted machine-learning classification of brain functional connectivity networks when performing the ABM task and found socially distressed individuals show attentional bias to negative faces (*vs.* neutral faces) both at the behavioral and neural levels.
+<div class="column" markdown="1"> I designed and conducted A/B tests for a mobile application that provides cognitive training to modify attentional bias towards negative social stimuli (*Attentional Bias Modification, ABM*). I recruited healthy controls, individuals who have social anxiety, and service workers who were undergoing extreme emotional load at workplaces. Participants performed the ABM task inside the fMRI scanner as well as on their smartphones. We conducted machine-learning classification of brain functional connectivity networks when participants were performing the ABM task and found socially distressed individuals show attentional bias to negative faces (*vs.* neutral faces) both at the behavioral and neural levels.
  </div>
 </div>
 <br>
@@ -149,14 +149,14 @@ In this study, we adopted Round Robin design where entire members of campus soci
   </div>
   
 <div class="column" markdown="1">
-We qualitatively reviewed literature that examined the effects of interventions that are designed to tackle two important public health matters: physical inactivity and loneliness. Our aim was to identify which aspects of intervention most effectively improve physical inactivity and/or loneliness and whether these two variables are bi-directionally related. We proposed a psychological framework that suggests how *social influences* may underlie the relationship between loneliness and physical activity.
+I qualitatively reviewed literature that examined the effects of interventions that are designed to tackle two important public health matters: physical inactivity and loneliness. My aim was to identify which aspects of intervention most effectively improve physical inactivity and/or loneliness and whether these two variables are bi-directionally related. I proposed a psychological framework that suggests how *positive social experience* may underlie the relationship between loneliness and physical activity.
  </div>
 </div>
 <br>
 
 <div align="center"><font size="+1"><strong>Unraveling the Negative Loop of Perseverance Thoughts in Depression and Anxiety</strong></font></div>
-<div class="column" markdown="1">
-Repetitive negative thoughts (perseverance thought, PT) are a prominent feature of many mental disorders and a robust predictor of poor clinical outcomes. Although the importance of PT as a source of impairment and an intervention target is well-recognized, it remains a difficult problem to treat. A major obstacle is our very limited understanding of what happens when people perseverate. In this study, we adopted the network control theory (NCT) analysis to examine whether clinical perseverators exhibit more temporally persistent brain states when they have to "turn off" negative thoughts in order to perform a basic cognitive task. *I was in charge of engineering, wrangling, and documenting the experimental fMRI dataset.*
+<div class="column" markdown="1">*I was in charge of documenting, wrangling, and engineering behavioral and fMRI datasets.*<br>
+Repetitive negative thoughts (perseverance thought, PT) are a prominent feature of many mental disorders and a robust predictor of poor clinical outcomes. Although the importance of PT as a source of impairment and an intervention target is well-recognized, it remains a difficult problem to treat. A major obstacle is our very limited understanding of what happens when people perseverate. In this study, we adopted the network control theory (NCT) analysis to examine whether clinical perseverators exhibit more temporally persistent brain states when they have to "turn off" negative thoughts in order to perform a basic cognitive task. 
  </div> 
 
 <h2 style="color:rgb(2, 61, 148)">Other Neuroimaging Projects</h2>
