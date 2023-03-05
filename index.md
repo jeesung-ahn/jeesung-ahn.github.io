@@ -273,11 +273,7 @@ I am deeply committed to utilizing my research skills to translate scientific in
  + Extracted and processed publicly available air quality data and related health outcomes
  + Created interactive heatmaps, enabling clients to communicate their message effectively to climate policymakers
 
-
-<h2 style="color:rgb(2, 61, 148)">**Data Scientist** at [Penn Data Science Group](https://penndsg.com/){:target="_blank"} (Feb 2022 – May 2022): 
-</h2>
-
-<div align="center"><font size="+1"><strong>Prediction of Physical Activity Behaviors after Health Message Exposure</strong></font><br> <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
+<div align="center"><font size="+1"><strong>**Data Scientist** at [Penn Data Science Group](https://penndsg.com/)</strong></font><br> <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
   </div>
 <div class="row">
   <div class="column">
