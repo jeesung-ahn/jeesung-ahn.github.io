@@ -5,8 +5,8 @@ layout: page
 description: |
   Personal Website of Jeesung Ahn, PhD Candidate in Psychology at Penn.
 hide_description: yes
-editor_options: 
-  markdown: 
+editor_options:
+  markdown:
     wrap: 72
 ---
 
@@ -273,11 +273,11 @@ I am deeply committed to utilizing my research skills to translate scientific in
  + Extracted and processed publicly available air quality data and related health outcomes
  + Created interactive heatmaps, enabling clients to communicate their message effectively to climate policymakers
 
-<div align="center"><font size="+1"><strong>**Data Scientist** at [Penn Data Science Group](https://penndsg.com/)</strong></font><br> <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
+<div>**Data Scientist** at [Penn Data Science Group](https://penndsg.com/)<br>
   </div>
 <div class="row">
   <div class="column">
-  <img class="proj-image" src="/assets/img/framing.png" style="height: 100%; width: 100%; object-fit: contain">
+  <img class="proj-image" src="/assets/img/air.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
   <div class="column" markdown="1">
  In this *mega-analysis* of neuroimaging (fMRI) and physical activity behavioral datasets (N=366), I found the effectiveness of health message interventions in promoting physical activity can be predicted by interactions between message-level (i.e., gain vs. loss framing) and individual-level (i.e., baseline levels of physical activity) characteristics.
