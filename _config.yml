@@ -53,16 +53,16 @@ menu:
     url:               /#publications
   - title:             PRESENTATIONS
     url:               /#presentations
-  - title:             ACTIVITIES
+  - title:             VOLUNTEER ACTIVITIES
     url:               /#activities
+ - title:             FOR FUN
+    url: #funpersonalprojects
   - title:             CV
     url:               /assets/files/CV_JeesungAhn.pdf
-# - title:             RESUMÉ
-# url:               /assets/files/Resumé_JeesungAhn.pdf
-  - title:             FOR FUN
-    url: #funpersonalprojects
   - title:             CONTACT
     url:               /#contact-me
+# - title:             RESUMÉ
+# url:               /assets/files/Resumé_JeesungAhn.pdf
 #   - title:             Blog
 #     url:               /blog
 
