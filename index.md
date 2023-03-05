@@ -273,6 +273,23 @@ I am deeply committed to utilizing my research skills to translate scientific in
  + Extracted and processed publicly available air quality data and related health outcomes
  + Created interactive heatmaps, enabling clients to communicate their message effectively to climate policymakers
 
+
+<h2 style="color:rgb(2, 61, 148)">**Data Scientist** at [Penn Data Science Group](https://penndsg.com/){:target="_blank"} (Feb 2022 – May 2022): 
+</h2>
+
+<div align="center"><font size="+1"><strong>Prediction of Physical Activity Behaviors after Health Message Exposure</strong></font><br> <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
+  </div>
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/framing.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+  <div class="column" markdown="1">
+ In this *mega-analysis* of neuroimaging (fMRI) and physical activity behavioral datasets (N=366), I found the effectiveness of health message interventions in promoting physical activity can be predicted by interactions between message-level (i.e., gain vs. loss framing) and individual-level (i.e., baseline levels of physical activity) characteristics.
+  </div>
+</div>
+<br>
+
+
 **UX Research Consultant** at Team QuantumLabs (April 2015 – Mar 2019):   
  + Provided consulting services to a start-up company on the efficacy of their novel neurostimulation technology in enhancing cognitive functions, such as attention capacity 
  + Designed and conducted A/B tests and usability studies of their product, which led to the successful acquisition of $100K in funding
