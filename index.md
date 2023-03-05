@@ -280,7 +280,8 @@ I am deeply committed to utilizing my research skills to translate scientific in
   <img class="proj-image" src="/assets/img/air.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
   <div class="column" markdown="1">
- In this *mega-analysis* of neuroimaging (fMRI) and physical activity behavioral datasets (N=366), I found the effectiveness of health message interventions in promoting physical activity can be predicted by interactions between message-level (i.e., gain vs. loss framing) and individual-level (i.e., baseline levels of physical activity) characteristics.
+  + Extracted and processed publicly available air quality data and related health outcomes
+ + Created interactive heatmaps, enabling clients to communicate their message effectively to climate policymakers
   </div>
 </div>
 <br>
