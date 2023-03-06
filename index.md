@@ -273,19 +273,8 @@ I am deeply committed to utilizing my research skills to translate scientific in
  + Extracted and processed publicly available air quality data and related health outcomes
  + Created interactive heatmaps, enabling clients to communicate their message effectively to climate policymakers
 
-<div>**Data Scientist** at [Penn Data Science Group](https://penndsg.com/)<br>
-  </div>
-<div class="row">
-  <div class="column">
-  <img class="proj-image" src="/assets/img/air.png" style="height: 100%; width: 100%; object-fit: contain">
-  </div>
-  <div class="column" markdown="1">
-  + Extracted and processed publicly available air quality data and related health outcomes
-  + Created interactive heatmaps, enabling clients to communicate their message effectively to climate policymakers
-  </div>
-</div>
-<br>
-
+![](/assets/img/air.png)
+ 
 
 **UX Research Consultant** at Team QuantumLabs (April 2015 – Mar 2019):   
  + Provided consulting services to a start-up company on the efficacy of their novel neurostimulation technology in enhancing cognitive functions, such as attention capacity 
