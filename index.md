@@ -266,7 +266,7 @@ I am deeply committed to utilizing my research skills to translate scientific in
  
 **Data Scientist** at [Penn Mind Sciences Diversity and Equity Initiative   ](https://web.sas.upenn.edu/dive/){:target="_blank"} (Mar 2022~):
  + Designed and administered online surveys (using *Qualtrics*) to assess participants’ experience with an outreach program that provides mentorship to underrepresented minority students in their careers in science
- + Wrangled and analyzed pre- vs. post- event data, including qualitatively reviewing participants’ written feedback
+ + Wrangled and analyzed pre- vs. post- event data, including qualitatively reviewing participants’ written feedback 
  + Visualized event outcomes using *ggplot2*, *wordcloud*, and *R Markdown* and presented actionable insights and recommendations to the program organizers to improve the program
 
 **Data Scientist** at [Penn Data Science Group](https://penndsg.com/){:target="_blank"} (Feb 2022 – May 2022): 
@@ -274,13 +274,11 @@ I am deeply committed to utilizing my research skills to translate scientific in
  + Created interactive heatmaps, enabling clients to communicate their message effectively to climate policymakers
 
 ![](/assets/img/air.png)
- 
 
 **UX Research Consultant** at Team QuantumLabs (April 2015 – Mar 2019):   
  + Provided consulting services to a start-up company on the efficacy of their novel neurostimulation technology in enhancing cognitive functions, such as attention capacity 
  + Designed and conducted A/B tests and usability studies of their product, which led to the successful acquisition of $100K in funding
  + Led a team that presented findings to cross-functional stakeholders, including venture capital funders, designers, engineers, and clinicians, to inform and advocate the direction of product development
- 
  
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="funpersonalprojects"> For Fun </h1>
