@@ -203,7 +203,7 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 
 - **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez‐Larkin, G., & Falk, E. B. (2022). Brain responses to gain‐ and loss‐framed messages differ, and interact with baseline physical activity, to predict later behaviors. *Writing manuscript completed*
 
-- **Ahn, J.**, Falk, E. B., & Kang, Y. (2022). Relationships between physical activity and loneliness: A systematic review of intervention studies. *Writing manuscript completed*
+- **Ahn, J.**, Falk, E. B., & Kang, Y. (2022). Relationships between physical activity and loneliness: A systematic review of intervention studies. *Under Review*
 
 - **Ahn, J.**, Cosme, D., Kang, Y., Zachary, B., Ochsner, K., Mucha, P., Lydon‐Staley, D., Bassett, D. S., & Falk, E. B. (2022). Segregation and integration of brain functional connectivity networks moderate craving‐drinking relationships in daily life. *Data analysis completed*
 
@@ -214,6 +214,10 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 - **Ahn, J.**, Kang, Y., Mwilambwe‐Tshilobo, L., Cosme, D., Bassett, D. S., Zachary, B., Lydon‐Staley, D., Mucha, P., Ochsner, K., & Falk, E. B. (2022). Neural responses to peer faces predict loneliness in college students. *Data analysis in progress*
 
 - **Ahn, J.†**, Zhou, D.†, Falk, E. B., Bassett, D. S., & Ruscio, A. (2022). Brain network underpinnings of perseverance thought in clinical populations. *Data analysis in progress*
+
+- Cosme, D., Helion, C., Kang, Y., Lydon‐Staley, D. M., Doré, B. P., Stanoi, O., **Ahn, J.**, Jovanova, M., McGowan, A. L., Kober, H., Mucha, P. J., Bassett, D. S., Ochsner, K. N., & Falk, E. B. (2023). Mindful attention to alcohol can reduce cravings in the moment and consumption in daily life. In Prep.
+
+- Kang, Y., **Ahn, J.**, Cosme, D., McGowan, A., Mwilambwe‐Tshilobo, L., Zhou, D., Jovanova, M., Stanoi, O., Mucha, P., Ochsner, K., Bassett, D., Lydon‐Staley, D., & Falk, E. (2023). Frontoparietal functional connectivity moderates the link between time spent on social media and subsequent negative affect. In Prep.
 
 († deonotes co-first authorship)
 
