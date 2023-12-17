@@ -182,7 +182,7 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 </div>
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="publications"> Publications </h1>
-- **Ahn, J.**, Falk, E. B., & Kang, Y. (2024). Relationships between physical activity and loneliness: A systematic review of intervention studies. In Press, Current Research in Behavioral Sciences.
+- **Ahn, J.**, Falk, E. B., & Kang, Y. (2024). Relationships between physical activity and loneliness: A systematic review of intervention studies. In Press, *Current Research in Behavioral Sciences*
 
 - Kang, Y., **Ahn, J.**, Cosme, D., McGowan, A., Mwilambwe‐Tshilobo, L., Zhou, D., Jovanova, M., Stanoi, O., Mucha, P., Ochsner, K., Bassett, D., Lydon‐Staley, D., & Falk, E. (2023). [Frontoparietal functional connectivity moderates the link between time spent on social media and subsequent negative affect](https://doi.org/ 10.1038/s41598-023-46040-z){:target="_blank"}, *Scientific Reports* 
 
