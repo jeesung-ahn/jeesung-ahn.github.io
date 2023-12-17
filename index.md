@@ -29,7 +29,7 @@ editor_options:
 </style>
 <h1 class="h1" style="color: rgb(0,0,0)" id="about"> About Me </h1>
 
-Welcome! My name is **Jeesung** Ahn, and I am a 4th-year **Ph.D. candidate** in **Psychology** at the University of Pennsylvania, working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab) (expected graduation in May 2024).
+Welcome! My name is **Jeesung** Ahn, and I am a 5th-year **Ph.D. candidate** in **Psychology** at the University of Pennsylvania, working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab) (expected graduation in May 2024).
 
 My doctoral research focuses on the domain of **health psychology** and **neuroscience**. I am passionate about making data-driven predictions on how **health interventions** can effectively improve **physical and mental well-being** at the individual- and population-level.
 <br>
@@ -45,7 +45,7 @@ All in all, I am a curious and collaborative scholar who is ready to solve real-
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
 
-Over the course of 8+ years leading end-to-end psychology and neuroscience research projects, I have primarily worked with human behavioral and neuroimaging data. 
+Over the course of 9+ years leading end-to-end psychology and neuroscience research projects, I have primarily worked with human behavioral and neuroimaging data. 
 <br>
 <br /> 
 **My research methods are multi-disciplinary** and include the followings: 
@@ -155,7 +155,7 @@ I qualitatively reviewed literature that examined the effects of interventions t
 <br>
 
 <div align="center"><font size="+1"><strong>Unraveling the Negative Loop of Perseverance Thoughts in Depression and Anxiety</strong></font></div>
-<div class="column" markdown="1">*I was in charge of documenting, wrangling, and engineering behavioral and fMRI datasets.*<br>
+<div class="column" markdown="1">*(I was in charge of documenting, wrangling, and engineering behavioral and fMRI datasets.)*<br>
 Repetitive negative thoughts (perseverance thought, PT) are a prominent feature of many mental disorders and a robust predictor of poor clinical outcomes. Although the importance of PT as a source of impairment and an intervention target is well-recognized, it remains a difficult problem to treat. A major obstacle is our very limited understanding of what happens when people perseverate. In this study, we adopted the network control theory (NCT) analysis to examine whether clinical perseverators exhibit more temporally persistent brain states when they have to "turn off" negative thoughts in order to perform a basic cognitive task. 
  </div> 
 
@@ -182,6 +182,9 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 </div>
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="publications"> Publications </h1>
+- **Ahn, J.**, Falk, E. B., & Kang, Y. (2024). Relationships between physical activity and loneliness: A systematic review of intervention studies. In Press, Current Research in Behavioral Sciences.
+
+- Kang, Y., **Ahn, J.**, Cosme, D., McGowan, A., Mwilambwe‐Tshilobo, L., Zhou, D., Jovanova, M., Stanoi, O., Mucha, P., Ochsner, K., Bassett, D., Lydon‐Staley, D., & Falk, E. (2023). [Frontoparietal functional connectivity moderates the link between time spent on social media and subsequent negative affect](https://doi.org/ 10.1038/s41598-023-46040-z){:target="_blank"}, *Scientific Reports* 
 
 - Zhou, D., Kang, Y., Cosme, D., Jovanova, M., He, X., Mahadevan, A., **Ahn, J**., Stanoi, O., Brynildsen, J., Cooper, N., Cornblath, E., Parkes, L., Mucha, P.J., Ochsner, K., Lydon-Staley, D.M., Falk, E.B., Bassett. D.S. (2023). [Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present
 ](https://doi.org/10.1073/pnas.2201074119){:target="_blank"}, *PNAS*
@@ -201,9 +204,7 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="publications"> Working Papers </h1>
 
-- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez‐Larkin, G., & Falk, E. B. (2022). Brain responses to gain‐ and loss‐framed messages differ, and interact with baseline physical activity, to predict later behaviors. *Writing manuscript completed*
-
-- **Ahn, J.**, Falk, E. B., & Kang, Y. (2022). Relationships between physical activity and loneliness: A systematic review of intervention studies. *Under Review*
+- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez‐Larkin, G., & Falk, E. B. (2023). Effects of framing on neural responses to persuasive messaging and physical activity. *Under Review*
 
 - **Ahn, J.**, Cosme, D., Kang, Y., Zachary, B., Ochsner, K., Mucha, P., Lydon‐Staley, D., Bassett, D. S., & Falk, E. B. (2022). Segregation and integration of brain functional connectivity networks moderate craving‐drinking relationships in daily life. *Data analysis completed*
 
@@ -215,9 +216,7 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 
 - **Ahn, J.†**, Zhou, D.†, Falk, E. B., Bassett, D. S., & Ruscio, A. (2022). Brain network underpinnings of perseverance thought in clinical populations. *Data analysis in progress*
 
-- Cosme, D., Helion, C., Kang, Y., Lydon‐Staley, D. M., Doré, B. P., Stanoi, O., **Ahn, J.**, Jovanova, M., McGowan, A. L., Kober, H., Mucha, P. J., Bassett, D. S., Ochsner, K. N., & Falk, E. B. (2023). Mindful attention to alcohol can reduce cravings in the moment and consumption in daily life. In Prep.
-
-- Kang, Y., **Ahn, J.**, Cosme, D., McGowan, A., Mwilambwe‐Tshilobo, L., Zhou, D., Jovanova, M., Stanoi, O., Mucha, P., Ochsner, K., Bassett, D., Lydon‐Staley, D., & Falk, E. (2023). Frontoparietal functional connectivity moderates the link between time spent on social media and subsequent negative affect. In Prep.
+- Cosme, D., Helion, C., Kang, Y., Lydon‐Staley, D. M., Doré, B. P., Stanoi, O., **Ahn, J.**, Jovanova, M., McGowan, A. L., Kober, H., Mucha, P. J., Bassett, D. S., Ochsner, K. N., & Falk, E. B. (2023). Mindful attention to alcohol can reduce cravings in the moment and consumption in daily life, [*PsyArXiv*](https://osf.io/preprints/psyarxiv/7j4ey/){:target="_blank"}
 
 († deonotes co-first authorship)
 
@@ -263,6 +262,11 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 
 I am deeply committed to utilizing my research skills to translate scientific insights into actionable outcomes in complex decision-making scenarios. In pursuit of this goal, I have actively participated in various volunteer activities, where I have been able to work on making real-world impacts on issues that are important to me.
 
+**Vice President of Consulting** at [Penn Graduate Consulting Club](https://www.penngradconsulting.com/){:target="_blank"} (May 2023~):
++ Directed 6 project managers and 30+ analysts, successfully executing 6 consulting projects with 100% client retention
++ Cultivated strong relationships with 5+ clients, increasing the number of secured consulting projects by 200%
++ Revamped marketing strategies for effective talent recruitment, increasing member applications by 300%
+
 **Consultant** at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/){:target="_blank"} (Sept 2022~):
  + Presented weekly deliverables to a biotechnology start-up by analyzing the market landscape for a novel cancer therapy that has the potential to significantly impact 1M+ tumor patients
  + Led in-depth interviews with healthcare stakeholders and qualitatively evaluated more than 200 clinical trials and company profiles, which helped the client to make informed decisions regarding partnership opportunities, market sizing, and product pricing 
@@ -274,12 +278,11 @@ I am deeply committed to utilizing my research skills to translate scientific in
  + Visualized event outcomes using *ggplot2*, *wordcloud*, and *R Markdown* and presented actionable insights and recommendations to the program organizers to improve the program
 
 **Data Scientist** at [Penn Data Science Group](https://penndsg.com/){:target="_blank"} (Feb 2022 – May 2022): 
- + Extracted and processed publicly available air quality data and related health outcomes
- + Created interactive heatmaps, enabling clients to communicate their message effectively to climate policymakers
+ + Synthesized air pollution and health data from 6 public sources (100K+ data points) into an interactive heat map, providing clients with a compelling visual aid to support informed policy-making decisions
 
 ![](/assets/img/air.png)
 
-**UX Research Consultant** at Team QuantumLabs (April 2015 – Mar 2019):   
+**UX Research Scientist** at Team QuantumLabs (April 2015 – Mar 2019):   
  + Provided consulting services to a start-up company on the efficacy of their novel neurostimulation technology in enhancing cognitive functions, such as attention capacity 
  + Designed and conducted A/B tests and usability studies of their product, which led to the successful acquisition of $100K in funding
  + Led a team that presented findings to cross-functional stakeholders, including venture capital funders, designers, engineers, and clinicians, to inform and advocate the direction of product development
