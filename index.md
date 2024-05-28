@@ -290,7 +290,7 @@ I am deeply committed to utilizing my research skills to translate scientific in
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="funpersonalprojects"> For Fun </h1>
 
-My kaggle projects on predicting music and movie popularity.. Coming soon! 
+My Kaggle projects on predicting music (Billboard) chart positions and movie (box office) earnings are coming soon!
 
 ------------------------------------------------------------------------
 
