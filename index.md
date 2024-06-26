@@ -36,7 +36,8 @@ Additionally, I build models to evaluate how behavioral interventions can promot
 
 As a health psychologist and neuroscientist, I strive to bridge the gap between data-driven insights and real-world applications, contributing to a healthier and more connected society.
 
-**Research Areas**: Social Connections, Loneliness, Mental Health, Health Persuasion, Behavioral Interventions, Behavior Change, Brain-as-Predictor, Brain-Behavior Relationships
+*Research Areas*: Social Connections, Loneliness, Mental Health, Health Persuasion, Behavioral Interventions, Behavior Change, Brain-as-Predictor, Brain-Behavior Relationships
+
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
 
