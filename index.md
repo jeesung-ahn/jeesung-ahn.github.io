@@ -60,7 +60,7 @@ These methods allow me to conduct thorough and rigorous research, contributing v
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="research"> Selected Projects </h1>
-Below is the selected overview of my research projects. If you have any questions, please shoot me an email to *jeesung@sas.upenn.edu*. Always happy to chat! 
+Here is an overview of my selected research projects. If you have any questions or would like to discuss further, feel free to email me at *jeesung@sas.upenn.edu*. I'm always happy to chat!
 
 
 <h2 style="color:rgb(2, 61, 148)">Data-Driven Promotion of Healthy Lifestyles</h2>
@@ -179,126 +179,135 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 </div>
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="publications"> Publications </h1>
-- **Ahn, J.**, Falk, E. B., & Kang, Y. (2024). Relationships between physical activity and loneliness: A systematic review of intervention studies. In Press, *Current Research in Behavioral Sciences*
 
-- Kang, Y., **Ahn, J.**, Cosme, D., McGowan, A., Mwilambwe‐Tshilobo, L., Zhou, D., Jovanova, M., Stanoi, O., Mucha, P., Ochsner, K., Bassett, D., Lydon‐Staley, D., & Falk, E. (2023). [Frontoparietal functional connectivity moderates the link between time spent on social media and subsequent negative affect](https://doi.org/ 10.1038/s41598-023-46040-z){:target="_blank"}, *Scientific Reports* 
+**Peer-Reviewed Articles**
 
-- Zhou, D., Kang, Y., Cosme, D., Jovanova, M., He, X., Mahadevan, A., **Ahn, J**., Stanoi, O., Brynildsen, J., Cooper, N., Cornblath, E., Parkes, L., Mucha, P.J., Ochsner, K., Lydon-Staley, D.M., Falk, E.B., Bassett. D.S. (2023). [Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present
+- **Ahn, J.**, Falk, E.B., & Kang, Y. (2024). [Relationships between physical activity and loneliness: A systematic review of intervention studies](https://doi.org/10.1016/j.crbeha.2023.100141){:target="_blank"}, *Current Research in Behavioral Sciences*
+
+- Kang, Y., **Ahn, J.**, Cosme, D., McGowan, A., Mwilambwe‐Tshilobo, L., Zhou, D., Jovanova, M., Stanoi, O., Mucha, P., Ochsner, K., Bassett, D., Lydon‐Staley, D., & Falk, E.B. (2023). [Frontoparietal functional connectivity moderates the link between time spent on social media and subsequent negative affect](https://doi.org/ 10.1038/s41598-023-46040-z){:target="_blank"}, *Scientific Reports* 
+
+- Zhou, D., Kang, Y., Cosme, D., Jovanova, M., He, X., Mahadevan, A., **Ahn, J**., Stanoi, O., Brynildsen, J., Cooper, N., Cornblath, E., Parkes, L., Mucha, P.J., Ochsner, K., Lydon-Staley, D.M., Falk, E.B., Bassett, D.S. (2023). [Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present
 ](https://doi.org/10.1073/pnas.2201074119){:target="_blank"}, *PNAS*
-
-- **Ahn, J**., Nah, Y., Ko, I., Han, S. (2022). [Voxel-wise Mapping of Functional Magnetic Resonance Imaging in Impression Formation](https://kiss16.kstudy.com/kiss61/download_viewer.asp){:target="_blank"}, *Science of Emotion and Sensibility*
 
 - Kang, Y., Cosme, D., Lydon‐Staley, D.M., **Ahn, J**., Jovanova, M., Corbani, F., Lomax, S., Stanoi, O., Strecher, V., Mucha, P.J., Oschner, K., Bassett, D.S., Falk, E.B. (2022). [Purpose in life, Neural Alcohol Cue Reactivity, and Daily Alcohol Use in Social Drinkers](https://onlinelibrary.wiley.com/doi/pdf/10.1111/add.16012){:target="_blank"}, *Addiction*
 
-- Cosme, D., Kang, Y., Carreras Tartak, J., **Ahn J**., Corbani, F., Cooper, N., Doré, B., He, X., Helion, C., Jovanova, M., Lomax, S., Mahadevan, A., McGowan, A.L., Paul, A., Pei, R., Resnick, A., Stanoi, O., Zhang, Y., Bassett, D.S., Boyd, Z.M., Lydon-Staley, D.M., Mucha, P.J., Ochsner, K., Falk, E.B. (2022). [Study protocol: Social Health Impact of Network Effects (SHINE) Study](https://psyarxiv.com/cj2nx/){:target="_blank"}, *PsyArXiv*
+- **Ahn, J**., Nah, Y., Ko, I., Han, S. (2022). [Voxel-wise Mapping of Functional Magnetic Resonance Imaging in Impression Formation](https://kiss16.kstudy.com/kiss61/download_viewer.asp){:target="_blank"}, *Science of Emotion and Sensibility*
 
 - **Ahn J**., Lee, J., Han, J., Kang, M., Han, S (2018). [Group Analysis Data Representing the Effects of Frontopolar Transcranial Direct Current Stimulation on the Default Mode Network](https://www.sciencedirect.com/science/article/pii/S2352340918310163){:target="_blank"}, *Data in Brief* 
 
 - **Ahn, J†**., Kim, H†., Park, J., Han, S. (2018). [Interactivity of Neural Representations for Perceiving Shared Social Memory](https://koreascience.kr/article/JAKO201836262560035.pdf){:target="_blank"}, *Science of Emotion and Sensibility*
 
-(† deonotes co-first authorship)
 
----
-<h1 class="h1" style="color: rgb(0,0,0)" id="publications"> Working Papers </h1>
+**Preprints**
 
-- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez‐Larkin, G., & Falk, E. B. (2023). Effects of framing on neural responses to persuasive messaging and physical activity. *Under Review*
+- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez‑Larkin, G., & Falk, E.B. (2024). [Effects of framing on neural responses to persuasive messaging and physical activity](https://osf.io/preprints/psyarxiv/af68p/). Under review & preprinted at *PsyArXiv*. 
 
-- **Ahn, J.**, Cosme, D., Kang, Y., Zachary, B., Ochsner, K., Mucha, P., Lydon‐Staley, D., Bassett, D. S., & Falk, E. B. (2022). Segregation and integration of brain functional connectivity networks moderate craving‐drinking relationships in daily life. *Data analysis completed*
+- Cosme, D., Helion, C., Kang, Y., Lydon‑Staley, D.M., Doré, B.P., Stanoi, O., **Ahn, J.**, Jovanova, M., McGowan, A.L., Kober, H., Mucha, P.J., Bassett, D.S., Ochsner, K.N., & Falk, E.B. (2023). [Mindful attention to alcohol can reduce cravings in the moment and consumption in daily life](https://osf.io/preprints/psyarxiv/7j4ey/). *PsyArXiv*
 
-- **Ahn, J.**, Mwilambwe‐Tshilobo, L., Kang, Y., Cosme, D., Bassett, D. S., Zachary, B., Lydon‐Staley, D., Mucha, P., Ochsner, K., & Falk, E. B. (2022). Inaccurate self‐evaluation is associated with mental well‐being and mentalizing activity in the brain.  *Data analysis completed*
+- Cosme, D., Kang, Y., Carreras Tartak, J., **Ahn J**., Corbani, F., Cooper, N., Doré, B., He, X., Helion, C., Jovanova, M., Lomax, S., Mahadevan, A., McGowan, A.L., Paul, A., Pei, R., Resnick, A., Stanoi, O., Zhang, Y., Bassett, D.S., Boyd, Z.M., Lydon-Staley, D.M., Mucha, P.J., Ochsner, K., Falk, E.B. (2022). [Study protocol: Social Health Impact of Network Effects (SHINE) Study](https://psyarxiv.com/cj2nx/){:target="_blank"}, *PsyArXiv*
 
-- **Ahn, J.**, Mwilambwe‐Tshilobo, L., Kang, Y., Cosme, D., Bassett, D. S., Zachary, B., Lydon‐Staley, D., Mucha, P., Ochsner, K., & Falk, E. B. (2022). Connectome‐based predictive modeling of loneliness during COVID‐19. *Data analysis in progress*
 
-- **Ahn, J.**, Kang, Y., Mwilambwe‐Tshilobo, L., Cosme, D., Bassett, D. S., Zachary, B., Lydon‐Staley, D., Mucha, P., Ochsner, K., & Falk, E. B. (2022). Neural responses to peer faces predict loneliness in college students. *Data analysis in progress*
+**Working Papers**
 
-- **Ahn, J.†**, Zhou, D.†, Falk, E. B., Bassett, D. S., & Ruscio, A. (2022). Brain network underpinnings of perseverance thought in clinical populations. *Data analysis in progress*
+- **Ahn, J.**, Kang, Y., Mwilambwe‑Tshilobo, L., Cosme, D., Bassett, D.S., Zachary, B., Lydon‑Staley, D., Mucha, P., Ochsner, K., & Falk, E.B. Task‑evoked brain networks predict individual experiences of loneliness. *In preparation (manuscript writing)*
 
-- Cosme, D., Helion, C., Kang, Y., Lydon‐Staley, D. M., Doré, B. P., Stanoi, O., **Ahn, J.**, Jovanova, M., McGowan, A. L., Kober, H., Mucha, P. J., Bassett, D. S., Ochsner, K. N., & Falk, E. B. (2023). Mindful attention to alcohol can reduce cravings in the moment and consumption in daily life, [*PsyArXiv*](https://osf.io/preprints/psyarxiv/7j4ey/){:target="_blank"}
+- **Ahn, J.**, Mwilambwe‑Tshilobo, L., Kang, Y., Cosme, D., Bassett, D.S., Zachary, B., Lydon‑Staley, D., Mucha, P., Ochsner, K., & Falk, E.B. Longitudinal analysis of loneliness through task‑evoked brain networks in times of social isolation. *In preparation (manuscript writing)*
 
-(† deonotes co-first authorship)
+- **Ahn, J.**, Mwilambwe‑Tshilobo, L., Kang, Y., Cosme, D., Bassett, D.S., Zachary, B., Lydon‑Staley, D., Mucha, P., Ochsner, K., & Falk, E.B. The architecture of loneliness: How self‑perception and social networks shape perceived social isolation. *In preparation (manuscript writing)*
+
+- **Ahn, J.**, Cosme, D., Kang, Y., Zachary, B., Ochsner, K., Mucha, P., Lydon‑Staley, D., Bassett, D.S., & Falk, E.B. Segregation and integration of brain functional connectivity networks moderate craving‑drinking relationships in daily life. *In preparation (manuscript writing)* [preregistered](https://osf.io/qr9gx){:target="_blank"}
+
+- Zhou, D., **Ahn, J.**, Falk, E.B., Bassett, D.S., & Ruscio, A. Brain network dynamics predict perseverative thoughts in depression and anxiety. *In preparation (data analysis)*
+
+- Scholz, C., Chan, H.-Y., **Ahn, J.**, Boksem, M., Cooper, N., Doré, B., Genevsky, A., Husky, R., Kang, Y., Knutson, B., Lieberman, M., O'Donnell, M., Resnick, A., Smidts, A., Venkatraman, V., Weber, R., Vo, K., Yoon, C., Falk, E.B., Brain Activity Predicts and Explains Persuasive Message Effectiveness: A Mega-Analysis of 16 Neuroimaging Studies. *Under Review*
+
 
 ---
 
 <h1 class="h1" style="color: rgb(0,0,0)" id="presentations"> Conference Presentations </h1>
 
-*Invited Talks*  
-- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E. (May, 2022). [Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}, *Social and Affective Neuroscience Society 2022 Annual Conference, Virtual*. **Top poster award**
+**Invited Talks**  
+- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E.B. (May, 2022). [Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}, *Social and Affective Neuroscience Society 2022 Annual Conference, Virtual*. **Top poster award**
 
-- **Ahn, J.**, Richards, K., Ortiz, T. (April, 2021). [Recommendations for an intelligent diet](https://htmlpreview.github.io/?https://github.com/keanarichards/nutrients_project_stat571/blob/main/final_project.html){:target="_blank"}, *Wharton Data Science Live 2021, Virtual*.
+- **Ahn, J.**, Richards, K., Ortiz, T. (April, 2021). [Recommendations for an intelligent diet](https://htmlpreview.github.io/?https://github.com/keanarichards/nutrients_project_stat571/blob/main/final_project.html){:target="_blank"}, *Wharton Data Science Live 2021, Virtual*
 
-*Poster Presentations*  
 
-- **Ahn, J.**, Kang, Y., Mwilambwe‐Tshilobo, L., Bassett, D., Boyd, Z., Lydon‐Staley, D., Mucha, P., Ochsner, K., & Falk, E. (2023, May). Neural responses to peers’ faces predict vulnerability to loneliness during COVID‐19. *Annual International Communication Association Conference 2023, Toronto, Canada*.
+**Poster Presentations**
 
-- Kang, Y., **Ahn, J.**, Cosme, D., McGowan, A., Mwilambwe‐Tshilobo, L., Zhou, D., Jovanova, M., Stanoi, O., Mucha, P., Ochsner, K., Bassett, D., Lydon‐Staley, D., & Falk, E. (2023, May). Frontoparietal system functional connectivity moderates the within‐day associations between increases in time spent on social media and subsequent negative affect. *Annual International Communication Association Conference 2023, Toronto, Canada*.
+- **Ahn, J.**, Mwilambwe‑Tshilobo, L., Bassett, D., Boyd, Z., Lydon‑Staley, D., Mucha, P., Ochsner, K., & Falk, E.B. (2024, April). Brain networks as individual‑level predictors of longitudinal loneliness. *Social and Affective Neuroscience Society 2024 Annual Conference, Toronto, Ontario, Canada (Travel Award winner)*
 
-- Jovanova, M., Boyd, Z., Schwarze, A., Christensen, T., Cosme, D., Katch, K., **Ahn, J.**, Resnick, A., Cooper, N., Xie, H., Kang, Y., Lomax, S., McGowan, A., Mwilambwe‐Tshilobo, L., Stanoi, O., Srivastava, P., Ochsner, K., Bassett, D., Lydon‐Staley, D., ... Mucha, P. (2023, May). Integrating multimodal data and machine learning to predict individual differences in health behavior change. *Annual International Communication Association Conference 2023, Toronto, Canada*.
+- **Ahn, J.**, Kang, Y., Mwilambwe‐Tshilobo, L., Bassett, D., Boyd, Z., Lydon‐Staley, D., Mucha, P., Ochsner, K., & Falk, E.B. (2023, May). Neural responses to peers’ faces predict vulnerability to loneliness during COVID‐19. *Annual International Communication Association Conference 2023, Toronto, Ontario, Canada*
 
-- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E. (May, 2022). [Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}, *Annual International Communication Association Conference 2022, Paris, France*.    
+- Kang, Y., **Ahn, J.**, Cosme, D., McGowan, A., Mwilambwe‐Tshilobo, L., Zhou, D., Jovanova, M., Stanoi, O., Mucha, P., Ochsner, K., Bassett, D., Lydon‐Staley, D., & Falk, E.B. (2023, May). Frontoparietal system functional connectivity moderates the within‐day associations between increases in time spent on social media and subsequent negative affect. *Annual International Communication Association Conference 2023, Toronto, Ontario, Canada (Promising Paper Award winner)*
+
+- Jovanova, M., Boyd, Z., Schwarze, A., Christensen, T., Cosme, D., Katch, K., **Ahn, J.**, Resnick, A., Cooper, N., Xie, H., Kang, Y., Lomax, S., McGowan, A., Mwilambwe‐Tshilobo, L., Stanoi, O., Srivastava, P., Ochsner, K., Bassett, D., Lydon‐Staley, D., ... Mucha, P. (2023, May). Integrating multimodal data and machine learning to predict individual differences in health behavior change. *Annual International Communication Association Conference 2023, Toronto, Ontario, Canada*
+
+- **Ahn, J.**, Kang, Y., Mwilambwe‑Tshilobo, L., Cosme, D., Jovanova, M., Bassett, D., Boyd, Z., Lydon‑Staley, D., Mucha, P., Ochsner, K., & Falk, E.B. (2023, April). Neural responses to peers’ faces predict vulnerability to loneliness during COVID‑19. *Social and Affective Neuroscience Society 2023 Annual Conference, Santa Barbara, CA, USA*
+
+- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez‑Larkin, G., & Falk, E.B. (2022, May). Brain responses to gain‑ and loss‑framed messages differ, and interact with baseline physical activity, to predict later behaviors. *Social and Affective Neuroscience Society 2022 Annual Conference, Virtual (Top Poster Award winner)*
+
+- **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E.B. (May, 2022). [Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}, *Annual International Communication Association Conference 2022, Paris, France*
  
-- Kang, Y., O’Cosme, D., **Ahn. J.**, Strecher, V., Lydon-Staley, D., Corbani, F., Jovanova, M., Stanoi, O., Lomax, S., Ochsner, K., Mucha, P., Bassett, D., & Falk., E. (May, 2022). Alcohol cue reactivity in the ventral striatum and daily purpose in life moderate the relationship between alcohol craving and consumption in college students, *Annual International Communication Association Conference 2022, Paris, France*.
+- Kang, Y., O’Cosme, D., **Ahn. J.**, Strecher, V., Lydon-Staley, D., Corbani, F., Jovanova, M., Stanoi, O., Lomax, S., Ochsner, K., Mucha, P., Bassett, D., & Falk, E.B. (May, 2022). Alcohol cue reactivity in the ventral striatum and daily purpose in life moderate the relationship between alcohol craving and consumption in college students, *Annual International Communication Association Conference 2022, Paris, France*
 
-- Cosme, D., Scholz, C., Chan, HY., Martin, R., Benitez, C., Cooper, N., Paul, A., **Ahn, J.**, Dore, B., Resnick, A., Carreras-Tartak, J., & Falk, E. (May, 2022). Does focusing on self or social relevance during news article exposure increase motivation to share content?, *Annual International Communication Association Conference 2022, Paris, France*.
+- Cosme, D., Scholz, C., Chan, HY., Martin, R., Benitez, C., Cooper, N., Paul, A., **Ahn, J.**, Dore, B., Resnick, A., Carreras-Tartak, J., & Falk, E.B. (May, 2022). Does focusing on self or social relevance during news article exposure increase motivation to share content?, *Annual International Communication Association Conference 2022, Paris, France*
 
-- Chan, HY., Scholz, C., Cosme, D., Martin, R., Benitez, C., Cooper, N., Paul, A., **Ahn, J.**, Dore, B., Resnick, A., Carreras-Tartak, J., & Falk, E. (May, 2022). Brain-based prediction of information virality: Evidence of cross-cultural validity from a pre-registered neuroimaging study, *Annual International Communication Association Conference 2022, Paris, France*.
+- Chan, H.-Y., Scholz, C., Cosme, D., Martin, R., Benitez, C., Cooper, N., Paul, A., **Ahn, J.**, Dore, B., Resnick, A., Carreras-Tartak, J., & Falk, E.B. (May, 2022). Brain-based prediction of information virality: Evidence of cross-cultural validity from a pre-registered neuroimaging study, *Annual International Communication Association Conference 2022, Paris, France*
 
-- **Ahn, J.**, Jun, S., Lee, J., Min, S., Lee, S-K., Park, S.H., & Han, S. (Nov, 2018) [Altered emotional attention and brain functional connectivity networks of emotional laborers](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_09565be4736d4293a135ba2ea51e25d3.pdf){:target="_blank"}, *Society for Neuroscience 2018 Annual Conference, San Diego, USA*.          
+- **Ahn, J.**, Jun, S., Lee, J., Min, S., Lee, S-K., Park, S.H., & Han, S. (Nov, 2018) [Altered emotional attention and brain functional connectivity networks of emotional laborers](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_09565be4736d4293a135ba2ea51e25d3.pdf){:target="_blank"}, *Society for Neuroscience 2018 Annual Conference, San Diego, CA, USA*    
 
-- Min, S., Jun, S., **Ahn, J.**, Lee, J., Lee, S-K., Park, S.H., & Han, S. (Nov, 2018) [Intrinsic functional connectivity in emotion regulation network is altered in emotion laborers](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_6adad23a154a4216882a3e54f7b7040a.pdf){:target="_blank"}, *Society for Neuroscience 2018 Annual Conference, San Diego, USA*.              
+- Min, S., Jun, S., **Ahn, J.**, Lee, J., Lee, S-K., Park, S.H., & Han, S. (Nov, 2018) [Intrinsic functional connectivity in emotion regulation network is altered in emotion laborers](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_6adad23a154a4216882a3e54f7b7040a.pdf){:target="_blank"}, *Society for Neuroscience 2018 Annual Conference, San Diego, CA, USA*            
 
-- Lee, J., Lee, H-J., **Ahn, J.**, Lee, S-K., Han, S. (June, 2018) [Exploring the high-resolution EPI fMRI protocol to reduce susceptibility-related BOLD signal dropout](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_3e6ad7881228459aa7bc9ee56a193c21.pdf){:target="_blank"}, *The Organization for Human Brain Mapping 2018 Annual Meeting, Singapore*.  
+- Lee, J., Lee, H-J., **Ahn, J.**, Lee, S-K., Han, S. (June, 2018) [Exploring the high-resolution EPI fMRI protocol to reduce susceptibility-related BOLD signal dropout](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_3e6ad7881228459aa7bc9ee56a193c21.pdf){:target="_blank"}, *The Organization for Human Brain Mapping 2018 Annual Meeting, Singapore*
 
-- **Ahn, J.**, Han, J.H., Kang, M.S., & Han, S. (Nov, 2017) [Frontopolar transcranial direct current stimulation changes intrinsic functional connectivity networks during resting-state fMRI](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_8e3f509b05614408b986259e88281eaa.pdf){:target="_blank"}, *Society for Neuroscience 2017 Annual Conference, Washington DC, USA*.
+- **Ahn, J.**, Han, J.H., Kang, M.S., & Han, S. (Nov, 2017) [Frontopolar transcranial direct current stimulation changes intrinsic functional connectivity networks during resting-state fMRI](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_8e3f509b05614408b986259e88281eaa.pdf){:target="_blank"}, *Society for Neuroscience 2017 Annual Conference, Washington DC, USA*
 
-- **Ahn, J.**, Nah, Y., & Han, S. (Nov, 2016) [Voxel-wise Mapping of the Cingulate Cortex in Impression Formation](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_7ced775268db4bdf8be2359c8c1ca4d7.pdf){:target="_blank"}, *Society for Neuroscience 2016 Annual Conference, San Diego, USA*. 
+- **Ahn, J.**, Nah, Y., & Han, S. (Nov, 2016) [Voxel-wise Mapping of the Cingulate Cortex in Impression Formation](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_7ced775268db4bdf8be2359c8c1ca4d7.pdf){:target="_blank"}, *Society for Neuroscience 2016 Annual Conference, San Diego, CA, USA*
 
-- **Ahn, J.**, Nah, Y., & Han, S. (April, 2016) [Patterns of Functional Connectivity during Preparation Periods Can Predict the Tendency to Give Up in Following Decision-Making](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_336ac6dd6238442a8ee14c4dfaddd045.pdf){:target="_blank"}, *Cognitive Neuroscience Society 2016 Annual Conference, New York, USA*. 
+- **Ahn, J.**, Nah, Y., & Han, S. (April, 2016) [Patterns of Functional Connectivity during Preparation Periods Can Predict the Tendency to Give Up in Following Decision-Making](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_336ac6dd6238442a8ee14c4dfaddd045.pdf){:target="_blank"}, *Cognitive Neuroscience Society 2016 Annual Conference, New York, NY, USA* 
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="activities"> Volunteer Activities </h1>
 
-I am deeply committed to utilizing my research skills to translate scientific insights into actionable outcomes in complex decision-making scenarios. In pursuit of this goal, I have actively participated in various volunteer activities, where I have been able to work on making real-world impacts on issues that are important to me.
+I'm passionate about using my research skills to turn scientific insights into practical solutions for complex decisions. To achieve this, I've actively engaged in various volunteer activities, working on projects that make a real difference in areas that matter to me.
 
-**Vice President of Consulting** at [Penn Graduate Consulting Club](https://www.penngradconsulting.com/){:target="_blank"} (May 2023~):
-+ Directed 6 project managers and 30+ analysts, successfully executing 6 consulting projects with 100% client retention
-+ Cultivated strong relationships with 5+ clients, increasing the number of secured consulting projects by 200%
-+ Revamped marketing strategies for effective talent recruitment, increasing member applications by 300%
+**Vice President of Consulting** at [Penn Graduate Consulting Club](https://www.penngradconsulting.com/){:target="_blank"} (May 2023 - Present):
++ Directed 6 project managers and 30+ analysts in the successful execution of pro bono consulting projects
++ Established strong relationships with 5+ industry clients within the first 2 months of joining the board, doubling the number of secured pro bono projects compared to the previous term
++ Revamped marketing strategies to recruit talented staff, increasing member applications by 300%
++ Initiated structured training sessions for 50+ project managers and analysts on client expectations, high-quality deliverables, and effective presentations
 
-**Consultant** at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/){:target="_blank"} (Sept 2022~):
- + Presented weekly deliverables to a biotechnology start-up by analyzing the market landscape for a novel cancer therapy that has the potential to significantly impact 1M+ tumor patients
- + Led in-depth interviews with healthcare stakeholders and qualitatively evaluated more than 200 clinical trials and company profiles, which helped the client to make informed decisions regarding partnership opportunities, market sizing, and product pricing 
- + Executed agile and meticulous research, complemented by extensive literature reviews, in order to fulfill the client’s needs and adhere to the established timeline
- 
-**Data Scientist** at [Penn Mind Sciences Diversity and Equity Initiative   ](https://web.sas.upenn.edu/dive/){:target="_blank"} (Mar 2022~):
- + Designed and administered online surveys (using *Qualtrics*) to assess participants’ experience with an outreach program that provides mentorship to underrepresented minority students in their careers in science
- + Wrangled and analyzed pre- vs. post- event data, including qualitatively reviewing participants’ written feedback 
- + Visualized event outcomes using *ggplot2*, *wordcloud*, and *R Markdown* and presented actionable insights and recommendations to the program organizers to improve the program
+**Consultant** at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/){:target="_blank"} (Sept.2022 - Jan.2023):
++ Presented weekly deliverables to the CEOs of a biotechnology start-up as part of an 11-person graduate research team
++ Evaluated 200+ company profiles and clinical trial data, identifying 4 partnership opportunities with the highest synergistic potential
++ Interviewed 10 key opinion leaders in healthcare (e.g., physicians), synthesizing their insights into clear recommendations for clinical trial design.
++ Recognized for exceptional contributions and subsequently recruited as Vice President of Consulting by the Penn Graduate Consulting Club
 
-**Data Scientist** at [Penn Data Science Group](https://penndsg.com/){:target="_blank"} (Feb 2022 – May 2022): 
- + Synthesized air pollution and health data from 6 public sources (100K+ data points) into an interactive heat map, providing clients with a compelling visual aid to support informed policy-making decisions
+**Data Scientist** at [Diversity and Equity Initiative in Mind Sciences](https://web.sas.upenn.edu/dive/){:target="_blank"} (Mar. 2022 - Mar.2023):
++ Designed online surveys to assess the effectiveness of education outreach programs
++ Visualized program outcomes using R (e.g., text-analyzed participant feedback) and delivered actionable insights to program organizers to enhance the overall participant experience
+
+**Data Scientist** at [Penn Data Science Group](https://penndsg.com/){:target="_blank"} (Feb. 2022 – May 2022): 
+ + Synthesized air pollution and health outcome data from 6 public sources (100K+ data points) into an interactive heatmap, provided to inform climate policymakers
 
 ![](/assets/img/air.png)
 
-**UX Research Scientist** at Team QuantumLabs (April 2015 – Mar 2019):   
- + Provided consulting services to a start-up company on the efficacy of their novel neurostimulation technology in enhancing cognitive functions, such as attention capacity 
- + Designed and conducted A/B tests and usability studies of their product, which led to the successful acquisition of $100K in funding
- + Led a team that presented findings to cross-functional stakeholders, including venture capital funders, designers, engineers, and clinicians, to inform and advocate the direction of product development
+**UX Research Consultant** at Team QuantumLabs (Mar. 2016 – Feb. 2018):   
++ Directed research projects (A/B testing, surveys, lab experiments, and interviews) to assess user behavior and guide strategic product decisions for a novel neurostimulation device
++ Communicated award-winning scientific insights with cross-functional stakeholders (venture capital funders, designers, engineers, and clinicians), acquiring $100K+ in funding development
  
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="funpersonalprojects"> For Fun </h1>
 
-My Kaggle projects on predicting music (Billboard) chart positions and movie (box office) earnings are coming soon!
+Stay tuned for my upcoming Kaggle projects where I'll be predicting music chart positions (Billboard) and movie box office earnings!
 
 ------------------------------------------------------------------------
 
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me"> Contact </h2>
-
-Richards Medical Research Laboratories, 3700 Hamilton Walk, 5F,
-Philadelphia, PA 19104
-
 <p class="home-element">
 
-jeesung@sas.upenn.edu
+Email: jeesung@sas.upenn.edu
+LinkedIn: linkedin.com/in/jeesung-ahn/
 
 </p>
 
