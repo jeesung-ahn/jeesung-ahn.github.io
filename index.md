@@ -39,21 +39,24 @@ As a health psychologist and neuroscientist, I strive to bridge the gap between 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
 
-Over the course of 9+ years leading end-to-end psychology and neuroscience research projects, I have primarily worked with human behavioral and neuroimaging data. 
+Over the past 9+ years, I have led comprehensive psychology and neuroscience research projects, focusing on human behavioral and neuroimaging data.
+
 <br>
 <br /> 
-**My research methods are multi-disciplinary** and include the followings: 
-- experimental and survey design (including A/B tests, usability tests)
-- data collection (recruiting, screening, survey, experimental, behavioral, neuroimaging, experience sampling, in-depth interview)
-- descriptive / parametric / non-parametric / multivariate statistics
-- regression (e.g., general linear modeling)
-- multilevel modeling
-- time-series analysis
-- signal processing (e.g., denoising, despiking, temporal filtering of fMRI signals)
-- computational network analysis
-- machine-learning classification (supervised / unsupervised learning)
-- meta-analysis of multidimensional datasets
-- qualitative content analysis (including text analysis)
+My research methods are multi-disciplinary and include the followings: 
+- Experimental and survey design (including A/B tests, usability tests)
+- Data collection (recruiting, screening, surveys, experimental, behavioral, neuroimaging, experience sampling, in-depth interviews)
+- Descriptive, parametric, non-parametric, and multivariate statistics
+- Regression analysis (e.g., general linear modeling)
+- Multilevel modeling
+- Time-series analysis
+- Signal processing (e.g., denoising, despiking, temporal filtering of fMRI signals)
+- Computational network analysis (brain networks, social networks)
+- Machine learning (supervised and unsupervised)
+- Meta-analysis of multidimensional datasets
+- Qualitative content analysis (including text analysis)
+
+These methods allow me to conduct thorough and rigorous research, contributing valuable insights to the fields of psychology and neuroscience.
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="research"> Selected Projects </h1>
