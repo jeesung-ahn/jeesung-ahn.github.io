@@ -105,13 +105,13 @@ My goal was to create a data-driven algorithm that provides personalized food re
 
 <h2 style="color:rgb(2, 61, 148)">Connecting Mental Well-Being with Networks in the Brain and Society</h2>
 
-<div align="center"><font size="+1"><strong> Neural Responses to Peers’ Faces Predict Vulnerability to Loneliness during COVID-19 </strong></font><br> <i>2 upcoming conference presentations in 2023</i> </div>
+<div align="center"><font size="+1"><strong> Neural Responses to Peers’ Faces Predict Vulnerability to Loneliness during COVID-19 </strong></font><br> <a href="https://drive.google.com/file/d/1o2xFLkqAM6VyHFtK49yag864zYV92j2s/view?usp=sharing" target="_blank">SANS 2023 poster</a> </div>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/covid_loneliness_findings.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
 <div class="column" markdown="1">
-I tested whether neural responses to peers' faces predict the likelihood of becoming lonelier from before to after the COVID-19 pandemic. Findings suggested that lonelier individuals may assign greater emotional salience to self-relevant social stimuli. Furthermore, individuals who showed greater reward sensitivity to peers' faces were more likely to become lonely in response to social stressors such as social isolation during the pandemic.
+I tested whether neural responses to peers' faces could predict changes in loneliness from before to after the COVID-19 pandemic. The findings indicated that lonelier individuals might place greater emotional importance on self-relevant social stimuli. Additionally, those who exhibited higher reward sensitivity to peers' faces were more likely to experience increased loneliness during the pandemic.
  </div>
 </div>
 <br>
@@ -122,7 +122,7 @@ I tested whether neural responses to peers' faces predict the likelihood of beco
   <img class="proj-image" src="/assets/img/evaluation_findings.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
 <div class="column" markdown="1">
-In this large-scale multi-disciplinary study, we adopted Round Robin design where entire members of campus social groups were recruited. Participants rated themselves and their peers' social status such as likability, attractiveness, and influence over others. Here, I asked three questions: 1) is there a discrepancy between social status that is evaluated by self *vs.* peers?; 2) would under (or over)-evaluating one's social status be associated with poorer mental health?; 3) would under (or over)-evaluating one's social status be associated with thinking more about *others'* thoughts and feelings? 
+In this large-scale, multidisciplinary study, we used a Round Robin design to recruit entire members of campus social groups. Participants rated their own and their peers’ social status, including factors like likability, attractiveness, and influence. I focused on three key questions: 1) Is there a discrepancy between how individuals evaluate their own social status versus how their peers evaluate it? 2) Is under- or over-evaluating one’s social status associated with poorer mental health? 3) Is under- or over-evaluating one’s social status linked to greater consideration of others' thoughts and feelings?
  </div>
 </div>
 <br>
@@ -134,19 +134,19 @@ In this large-scale multi-disciplinary study, we adopted Round Robin design wher
   <img class="proj-image" src="/assets/img/EmoLab_fcMVPA.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
   
-<div class="column" markdown="1"> I designed and conducted A/B tests for a mobile application that provides cognitive training to modify attentional bias towards negative social stimuli (*Attentional Bias Modification, ABM*). I recruited healthy controls, individuals who have social anxiety, and service workers who were undergoing extreme emotional load at workplaces. Participants performed the ABM task inside the fMRI scanner as well as on their smartphones. We conducted machine-learning classification of brain functional connectivity networks when participants were performing the ABM task and found socially distressed individuals show attentional bias to negative faces (*vs.* neutral faces) both at the behavioral and neural levels.
+<div class="column" markdown="1"> I designed and conducted A/B tests for a mobile application aimed at providing cognitive training to modify attentional bias towards negative social stimuli (Attentional Bias Modification, ABM). To test the app, I recruited healthy controls, individuals with social anxiety, and call center workers experiencing high emotional stress at their workplaces. Participants performed the ABM task both inside an fMRI scanner and on their smartphones. We used machine-learning classification of brain functional connectivity networks during the ABM task and discovered that socially distressed individuals exhibited an attentional bias towards negative faces (compared to neutral faces) at both behavioral and neural levels.
  </div>
 </div>
 <br>
 
-<div align="center"><font size="+1"><strong> Physical Activity and Loneliness: A Systematic Review of Intervention Studies </strong></font></div>
+<div align="center"><font size="+1"><strong> Physical Activity and Loneliness: A Systematic Review of Intervention Studies </strong></font><br> <a href="https://www.sciencedirect.com/science/article/pii/S2666518223000451" target="_blank">Publication</a> </div>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/review_paper.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
   
 <div class="column" markdown="1">
-I qualitatively reviewed literature that examined the effects of interventions that are designed to tackle two important public health matters: physical inactivity and loneliness. My aim was to identify which aspects of intervention most effectively improve physical inactivity and/or loneliness and whether these two variables are bi-directionally related. I proposed a psychological framework that suggests how *positive social experience* may underlie the relationship between loneliness and physical activity.
+I conducted a qualitative review of literature examining the effects of interventions designed to address two major public health concerns: physical inactivity and loneliness. My goal was to identify which aspects of these interventions most effectively improve physical activity and/or reduce loneliness, and to explore whether these two variables are bi-directionally related. I proposed a psychological framework suggesting that positive social experiences may underlie the relationship between loneliness and physical activity.
  </div>
 </div>
 <br>
