@@ -111,8 +111,18 @@ My goal was to create a data-driven algorithm that provides personalized food re
   <img class="proj-image" src="/assets/img/diss_chap2.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
 <div class="column" markdown="1">
-This study explored how internal self-perception and social networks relate to loneliness. We recruited 111 participants from various university social groups and used a round-robin design to measure social connectedness. Key variables included self-liking, bidirectional social connectedness, and structural characteristics of social networks, such as size and modularity.
-Using structural equation modeling, I found that higher self-liking significantly correlated with reduced loneliness, making it the most significant predictor. Larger social networks were also associated with lower levels of loneliness. Interestingly, perceived connectedness with peers and network modularity did not significantly predict loneliness levels. These findings highlight the importance of positive self-perception and extensive social networks in mitigating loneliness among younger adults, suggesting new directions for interventions.
+This study explored how internal self-perception and social networks relate to loneliness. We recruited 111 participants from various university social groups and used a round-robin design to measure social connectedness. Key variables included self-liking, bidirectional social connectedness, and structural characteristics of social networks, such as size and modularity. Using structural equation modeling, I found that higher self-liking significantly correlated with reduced loneliness, making it the most significant predictor. Larger social networks were also associated with lower levels of loneliness. Interestingly, perceived connectedness with peers and network modularity did not significantly predict loneliness levels. These findings highlight the importance of positive self-perception and extensive social networks in mitigating loneliness among younger adults, suggesting new directions for interventions.
+ </div>
+</div>
+<br>
+
+<div align="center"><font size="+1"><strong> Predicting Loneliness Through Brain Connectivity Networks</strong></font><br> <a href="https://www.proquest.com/docview/3068383271" target="_blank">Dissertation</a> </div>
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/cpm.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+<div class="column" markdown="1">
+In this study, I developed a machine learning model to predict individual loneliness levels among college students (N = 107) using whole-brain functional connectivity networks. Participants viewed socially relevant stimuli (peer faces) inside an fMRI scanner. The results showed that loneliness could be predicted from functional connectivity patterns across eight brain systems. Key features included connectivity between the frontoparietal control, default mode, dorsal and ventral attention, visual, and somatomotor systems. Higher loneliness was linked to increased cross-modal connectivity between higher-order and lower-order systems, while lower loneliness correlated with greater connectivity within unimodal sensory-perceptual systems and the default mode system. These findings highlight potential neural markers of loneliness and suggest that brain functional connectivity, especially within the frontoparietal control and visual systems, is a significant predictor of loneliness.
  </div>
 </div>
 <br>
