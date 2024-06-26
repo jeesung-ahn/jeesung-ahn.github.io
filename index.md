@@ -59,7 +59,7 @@ My research methods are multi-disciplinary and include the followings:
 These methods allow me to conduct thorough and rigorous research, contributing valuable insights to the fields of psychology and neuroscience.
 
 ---
-<h1 class="h1" style="color: rgb(0,0,0)" id="research"> Selected Projects </h1>
+<h1 class="h1" style="color: rgb(0,0,0)" id="research"> SELECTED PROJECTS </h1>
 Here is an overview of my selected research projects. If you have any questions or would like to discuss further, feel free to email me at *jeesung@sas.upenn.edu*. I'm always happy to chat!
 
 
@@ -311,7 +311,7 @@ Stay tuned for my upcoming Kaggle projects where I'll be predicting music chart 
 
 Email: jeesung@sas.upenn.edu
 <br>
-LinkedIn: [linkedin.com/in/jeesung-ahn/](linkedin.com/in/jeesung-ahn/){:target="_blank"}
+LinkedIn: [linkedin.com/in/jeesung-ahn/](https://linkedin.com/in/jeesung-ahn/){:target="_blank"}
 
 </p>
 
