@@ -29,7 +29,7 @@ editor_options:
 </style>
 <h1 class="h1" style="color: rgb(0,0,0)" id="about"> About Me </h1>
 
-Welcome! My name is **Jeesung** Ahn, and I am a 5th-year **Ph.D. candidate** in **Psychology** at the University of Pennsylvania, working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab) (expected graduation in May 2024).
+Welcome! My name is **Jeesung** Ahn, Ph.D., a postdoctoral researcher in Annenberg School for Communication and **Psychology** at the University of Pennsylvania, working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab) (expected graduation in May 2024).
 
 My doctoral research focuses on the domain of **health psychology** and **neuroscience**. I am passionate about making data-driven predictions on how **health interventions** can effectively improve **physical and mental well-being** at the individual- and population-level.
 <br>
