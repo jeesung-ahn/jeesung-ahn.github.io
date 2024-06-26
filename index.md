@@ -2,8 +2,7 @@
 title: "Jeesung Ahn"
 name: index
 layout: page
-description: |
-  Personal Website of Jeesung Ahn, PhD Candidate in Psychology at Penn.
+description: Personal Website of Jeesung Ahn, Ph.D. in Psychology at Penn.
 hide_description: yes
 editor_options:
   markdown:
@@ -29,18 +28,13 @@ editor_options:
 </style>
 <h1 class="h1" style="color: rgb(0,0,0)" id="about"> About Me </h1>
 
-Welcome! My name is **Jeesung** Ahn, Ph.D., a postdoctoral researcher in Annenberg School for Communication and **Psychology** at the University of Pennsylvania, working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd) at the [Communication Neuroscience Lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab) (expected graduation in May 2024).
+Hi there! I’m Jeesung Ahn, a postdoctoral fellow at the [Annenberg School for Communication at the University of Pennsylvania](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab), working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd). I’m passionate about using data and science to make a positive impact on people’s lives!
 
-My doctoral research focuses on the domain of **health psychology** and **neuroscience**. I am passionate about making data-driven predictions on how **health interventions** can effectively improve **physical and mental well-being** at the individual- and population-level.
-<br>
-<br>
-More specifically, my current research mainly revolves around two topics: 
-<br>
-- developing **brain-based computational models** to evaluate the **effectiveness of persuasive health message interventions** in promoting health behaviors (e.g., physical activity) 
-- explaining individual differences in **mental health (e.g., loneliness)** based on **brain network and social network** characteristics
-<br>
+My research primarily focuses on understanding and enhancing social connections, tackling loneliness, and improving mental health. I’m particularly interested in identifying factors that increase the risk of loneliness and understanding the brain’s role in our social connections and isolation.
 
-All in all, I am a curious and collaborative scholar who is ready to solve real-world problems with data and science! 
+Additionally, I build models to evaluate how behavioral interventions can promote healthier behaviors, such as increasing physical activity. By leading multidisciplinary research projects, I aim to develop personalized strategies to enhance both physical and mental well-being.
+
+As a health psychologist and neuroscientist, I strive to bridge the gap between data-driven insights and real-world applications, contributing to a healthier and more connected society.
 
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
