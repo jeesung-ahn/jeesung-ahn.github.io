@@ -63,21 +63,21 @@ These methods allow me to conduct thorough and rigorous research, contributing v
 Here is an overview of my selected research projects. If you have any questions or would like to discuss further, feel free to email me at *jeesung@sas.upenn.edu*. I'm always happy to chat!
 
 
-<h2 style="color:rgb(2, 61, 148)">Data-Driven Promotion of Healthy Lifestyles</h2>
+<h2 style="color:rgb(2, 61, 148)">Data-Driven Strategies for Healthier Living</h2>
 
-<div align="center"><font size="+1"><strong>Predicting Physical Activity Behaviors after Health Message Exposure</strong></font><br> <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=J9rV_aN-n38" target="_blank"> SANS 2022 Talk</a>
+<div align="center"><font size="+1"><strong>Predicting Physical Activity Behaviors Following Health Message Exposure</strong></font><br> <a href="https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link" target="_blank">SANS 2022 Poster (top poster award winner)</a>&nbsp;&nbsp;&nbsp;<a href="https://osf.io/preprints/psyarxiv/af68p" target="_blank"> Preprint</a>
   </div>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/framing.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
   <div class="column" markdown="1">
- In this *mega-analysis* of neuroimaging (fMRI) and physical activity behavioral datasets (N=366), I found the effectiveness of health message interventions in promoting physical activity can be predicted by interactions between message-level (i.e., gain vs. loss framing) and individual-level (i.e., baseline levels of physical activity) characteristics.
+In this extensive mega-analysis of neuroimaging (fMRI) and physical activity behavioral datasets (N=366), I found that the effectiveness of health message interventions in promoting physical activity can be predicted by the interplay between message characteristics (e.g., gain vs. loss framing) and individual factors (e.g., baseline physical activity levels).
   </div>
 </div>
 <br>
 
-<div align="center"><font size="+1"><strong>Explaining Alcohol Craving-Drinking Links using Brain Network Dynamics</strong></font><br> 
+<div align="center"><font size="+1"><strong>Exploring the Link Between Alcohol Craving and Drinking Through Brain Network Dynamics</strong></font><br> 
   <a href="https://osf.io/qr9gx" target="_blank">OSF Preregistration</a>&nbsp;&nbsp;&nbsp;<a href="https://psyarxiv.com/cj2nx" target="_blank">Study Protocol</a>
 </div>
 <div class="row">
@@ -98,7 +98,7 @@ I ran multi-level models to examine whether the modular organization of function
   </div>
 <div class="column" markdown="1">
 <br>
-My goal was to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. I performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering using R) on a <a href="https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html">dataset</a> with 5690 (food) x 154 (nutrients) dimensions. As a result, I was able to cluster 5690 food items into 8 categories and simulate real-world examples where I give food recommendations to individuals who are in need of dietary restrictions.
+My goal was to create a data-driven algorithm that provides personalized food recommendations based on an individual’s dietary needs. I performed exploratory data analyses and unsupervised machine learning (PCA, K-means clustering) on a <a href="https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/nutrient-data/canadian-nutrient-file-2015-download-files.html">dataset</a> with 5690 (food) x 154 (nutrients) dimensions. This approach allowed me to cluster the food items into 8 distinct categories and simulate real-world scenarios to provide tailored food recommendations for individuals with dietary restrictions.
  </div>
 </div>
 <br>
