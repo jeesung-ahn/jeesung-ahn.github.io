@@ -24,31 +24,42 @@ editor_options:
     h1, h2, h3 {
         text-align: center;
     }
+
+    .section {
+        display: none;
+    }
+
+    .section.active {
+        display: block;
+    }
+
+    nav a {
+        cursor: pointer;
+    }
 </style>
 
 <script type="text/javascript">
     function toggleSection(id) {
-        var section = document.getElementById(id);
-        if (section.style.display === "none" || section.style.display === "") {
-            section.style.display = "block";
-        } else {
-            section.style.display = "none";
-        }
+        var sections = document.querySelectorAll('.section');
+        sections.forEach(function(section) {
+            section.classList.remove('active');
+        });
+        document.getElementById(id).classList.add('active');
     }
 </script>
 
 <nav>
-    <a href="javascript:void(0)" onclick="toggleSection('about')">About Me</a><br>
-    <a href="javascript:void(0)" onclick="toggleSection('methods')">Research Methods</a><br>
-    <a href="javascript:void(0)" onclick="toggleSection('projects')">Selected Projects</a><br>
-    <a href="javascript:void(0)" onclick="toggleSection('publications')">Publications</a><br>
-    <a href="javascript:void(0)" onclick="toggleSection('activities')">Volunteer Activities</a><br>
-    <a href="javascript:void(0)" onclick="toggleSection('fun')">For Fun</a><br>
-    <a href="javascript:void(0)" onclick="toggleSection('contact')">Contact</a>
+    <a onclick="toggleSection('about')">About Me</a><br>
+    <a onclick="toggleSection('methods')">Research Methods</a><br>
+    <a onclick="toggleSection('projects')">Selected Projects</a><br>
+    <a onclick="toggleSection('publications')">Publications</a><br>
+    <a onclick="toggleSection('activities')">Volunteer Activities</a><br>
+    <a onclick="toggleSection('fun')">For Fun</a><br>
+    <a onclick="toggleSection('contact')">Contact</a>
 </nav>
 
 <div class="content">
-    <div id="about" class="section">
+    <div id="about" class="section active">
         <h1 class="h1" style="color: rgb(0,0,0)" id="about">About Me</h1>
         Hi there! I’m Jeesung Ahn, a postdoctoral fellow at the 
         <a href="https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab">Annenberg School for Communication at the University of Pennsylvania</a>, working with 
@@ -61,7 +72,7 @@ editor_options:
         As a health psychologist and neuroscientist, I strive to bridge the gap between data-driven insights and real-world applications, contributing to a healthier and more connected society!
     </div>
 
-    <div id="methods" class="section" style="display:none;">
+    <div id="methods" class="section">
         <h1 class="h1" style="color: rgb(0,0,0)" id="methods-summary">Research Methods</h1>
         Over the past 9+ years, I have led comprehensive psychology and neuroscience research projects, focusing on human behavioral and neuroimaging data.
         <br>
@@ -82,7 +93,7 @@ editor_options:
         These methods allow me to conduct thorough and rigorous research, contributing valuable insights to the fields of psychology and neuroscience.
     </div>
 
-    <div id="projects" class="section" style="display:none;">
+    <div id="projects" class="section">
         <h1 class="h1" style="color: rgb(0,0,0)" id="research">Selected Projects</h1>
         Below is the selected overview of my research projects. If you have any questions, please shoot me an email to 
         <i>jeesung@sas.upenn.edu</i>. Always happy to chat!
@@ -182,7 +193,7 @@ editor_options:
         </div>
     </div>
 
-    <div id="publications" class="section" style="display:none;">
+    <div id="publications" class="section">
         <h1 class="h1" style="color: rgb(0,0,0)" id="publications">Publications</h1>
         - **Ahn, J.**, Falk, E. B., & Kang, Y. (2024). Relationships between physical activity and loneliness: A systematic review of intervention studies. In Press, *Current Research in Behavioral Sciences*
         - Kang, Y., **Ahn, J.**, Cosme, D., McGowan, A., Mwilambwe‐Tshilobo, L., Zhou, D., Jovanova, M., Stanoi, O., Mucha, P., Ochsner, K., Bassett, D., Lydon‐Staley, D., & Falk, E. (2023). [Frontoparietal functional connectivity moderates the link between time spent on social media and subsequent negative affect](https://doi.org/ 10.1038/s41598-023-46040-z){:target="_blank"}, *Scientific Reports*
@@ -192,10 +203,10 @@ editor_options:
         - Cosme, D., Kang, Y., Carreras Tartak, J., **Ahn J**., Corbani, F., Cooper, N., Doré, B., He, X., Helion, C., Jovanova, M., Lomax, S., Mahadevan, A., McGowan, A.L., Paul, A., Pei, R., Resnick, A., Stanoi, O., Zhang, Y., Bassett, D.S., Boyd, Z.M., Lydon-Staley, D.M., Mucha, P.J., Ochsner, K., Falk, E.B. (2022). [Study protocol: Social Health Impact of Network Effects (SHINE) Study](https://psyarxiv.com/cj2nx/){:target="_blank"}, *PsyArXiv*
         - **Ahn J**., Lee, J., Han, J., Kang, M., Han, S (2018). [Group Analysis Data Representing the Effects of Frontopolar Transcranial Direct Current Stimulation on the Default Mode Network](https://www.sciencedirect.com/science/article/pii/S2352340918310163){:target="_blank"}, *Data in Brief*
         - **Ahn, J**., Kim, H†., Park, J., Han, S. (2018). [Interactivity of Neural Representations for Perceiving Shared Social Memory](https://koreascience.kr/article/JAKO201836262560035.pdf){:target="_blank"}, *Science of Emotion and Sensibility*
-        († deonotes co-first authorship)
+        († denotes co-first authorship)
     </div>
 
-    <div id="activities" class="section" style="display:none;">
+    <div id="activities" class="section">
         <h1 class="h1" style="color: rgb(0,0,0)" id="activities">Volunteer Activities</h1>
         I am deeply committed to utilizing my research skills to translate scientific insights into actionable outcomes in complex decision-making scenarios. In pursuit of this goal, I have actively participated in various volunteer activities, where I have been able to work on making real-world impacts on issues that are important to me.
         <br>
@@ -208,13 +219,13 @@ editor_options:
         **Consultant** at 
         <a href="https://pennbiotechgroup.org/" target="_blank">Penn Biotech Group Healthcare Consulting</a> (Sept 2022~):
         + Presented weekly deliverables to a biotechnology start-up by analyzing the market landscape for a novel cancer therapy that has the potential to significantly impact 1M+ tumor patients
-        + Led in-depth interviews with healthcare stakeholders and qualitatively evaluated more than 200 clinical trials and company profiles, which helped the client to make informed decisions regarding partnership opportunities, market sizing, and product pricing 
+        + Led in-depth interviews with healthcare stakeholders and qualitatively evaluated more than 200 clinical trials and company profiles, which helped the client to make informed decisions regarding partnership opportunities, market sizing, and product pricing
         + Executed agile and meticulous research, complemented by extensive literature reviews, in order to fulfill the client’s needs and adhere to the established timeline
         <br>
         **Data Scientist** at 
         <a href="https://web.sas.upenn.edu/dive/" target="_blank">Penn Mind Sciences Diversity and Equity Initiative</a> (Mar 2022~):
         + Designed and administered online surveys (using *Qualtrics*) to assess participants’ experience with an outreach program that provides mentorship to underrepresented minority students in their careers in science
-        + Wrangled and analyzed pre- vs. post- event data, including qualitatively reviewing participants’ written feedback 
+        + Wrangled and analyzed pre- vs. post- event data, including qualitatively reviewing participants’ written feedback
         + Visualized event outcomes using *ggplot2*, *wordcloud*, and *R Markdown* and presented actionable insights and recommendations to the program organizers to improve the program
         <br>
         **Data Scientist** at 
@@ -223,17 +234,17 @@ editor_options:
         ![](/assets/img/air.png)
         <br>
         **UX Research Scientist** at Team QuantumLabs (April 2015 – Mar 2019):   
-        + Provided consulting services to a start-up company on the efficacy of their novel neurostimulation technology in enhancing cognitive functions, such as attention capacity 
+        + Provided consulting services to a start-up company on the efficacy of their novel neurostimulation technology in enhancing cognitive functions, such as attention capacity
         + Designed and conducted A/B tests and usability studies of their product, which led to the successful acquisition of $100K in funding
         + Led a team that presented findings to cross-functional stakeholders, including venture capital funders, designers, engineers, and clinicians, to inform and advocate the direction of product development
     </div>
 
-    <div id="fun" class="section" style="display:none;">
+    <div id="fun" class="section">
         <h1 class="h1" style="color: rgb(0,0,0)" id="funpersonalprojects">For Fun</h1>
         My Kaggle projects on predicting music (Billboard) chart positions and movie (box office) earnings are coming soon!
     </div>
 
-    <div id="contact" class="section" style="display:none;">
+    <div id="contact" class="section">
         <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact</h2>
         Richards Medical Research Laboratories, 3700 Hamilton Walk, 5F,
         Philadelphia, PA 19104
