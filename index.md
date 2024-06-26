@@ -38,6 +38,11 @@ As a health psychologist and neuroscientist, I strive to bridge the gap between 
 
 **Research Areas**: Social Connections, Loneliness, Mental Health, Health Persuasion, Behavioral Interventions, Behavior Change, Brain-as-Predictor, Brain-Behavior Relationships
 
+**Education**:
+- Ph.D. in Psychology, University of Pennsylvania (2024)
+- M.S. in Cognitive Science and Engineering, Yonsei University
+- B.A. in Psychology & B.S. in Brain and Cognitive Sciences, Korea University
+
 ---
 <h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> RESEARCH METHODS  </h1>
 
