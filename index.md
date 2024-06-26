@@ -310,8 +310,8 @@ Stay tuned for my upcoming Kaggle projects where I'll be predicting music chart 
 <p class="home-element">
 
 Email: jeesung@sas.upenn.edu
-<br>
-LinkedIn: [linkedin.com/in/jeesung-ahn/](https://linkedin.com/in/jeesung-ahn/){:target="_blank"}
+<br> 
+LinkedIn: linkedin.com/in/jeesung-ahn/
 
 </p>
 
