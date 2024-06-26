@@ -26,7 +26,7 @@ editor_options:
 }
 
 </style>
-<h1 class="h1" style="color: rgb(0,0,0)" id="about"> About Me </h1>
+<h1 class="h1" style="color: rgb(0,0,0)" id="about"> ABOUT ME </h1>
 
 Hi there! I’m Jeesung Ahn, a postdoctoral fellow at the [Annenberg School for Communication at the University of Pennsylvania](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab), working with [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd). I’m passionate about using data and science to make a positive impact on people’s lives!
 
@@ -39,7 +39,7 @@ As a health psychologist and neuroscientist, I strive to bridge the gap between 
 **Research Areas**: Social Connections, Loneliness, Mental Health, Health Persuasion, Behavioral Interventions, Behavior Change, Brain-as-Predictor, Brain-Behavior Relationships
 
 ---
-<h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> Research Methods  </h1>
+<h1 class="h1" style="color: rgb(0,0,0)" id="methods summary"> RESEARCH METHODS  </h1>
 
 Over the past 9+ years, I have led comprehensive psychology and neuroscience research projects, focusing on human behavioral and neuroimaging data.
 
@@ -198,7 +198,6 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 - **Ahn, J†**., Kim, H†., Park, J., Han, S. (2018). [Interactivity of Neural Representations for Perceiving Shared Social Memory](https://koreascience.kr/article/JAKO201836262560035.pdf){:target="_blank"}, *Science of Emotion and Sensibility*
 
 <br>
-<br>
 
 **Preprints**
 
@@ -208,7 +207,6 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 
 - Cosme, D., Kang, Y., Carreras Tartak, J., **Ahn J**., Corbani, F., Cooper, N., Doré, B., He, X., Helion, C., Jovanova, M., Lomax, S., Mahadevan, A., McGowan, A.L., Paul, A., Pei, R., Resnick, A., Stanoi, O., Zhang, Y., Bassett, D.S., Boyd, Z.M., Lydon-Staley, D.M., Mucha, P.J., Ochsner, K., Falk, E.B. (2022). [Study protocol: Social Health Impact of Network Effects (SHINE) Study](https://psyarxiv.com/cj2nx/){:target="_blank"}, *PsyArXiv*
 
-<br>
 <br>
 
 **Working Papers**
@@ -228,7 +226,7 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 
 ---
 
-<h1 class="h1" style="color: rgb(0,0,0)" id="presentations"> Conference Presentations </h1>
+<h1 class="h1" style="color: rgb(0,0,0)" id="presentations"> PRESENTATIONS </h1>
 
 **Invited Talks**  
 - **Ahn, J.**, Cooper, N., Kang, Y., O’Donnell, M., Green, M., Samanez-Larkin, G., & Falk, E.B. (May, 2022). [Brain responses to gain- and loss-framed messages differ, and interact with baseline physical activity, to predict later behaviors](https://drive.google.com/file/d/1NWRufaKayrImrfLKJRvITBEs7B3uJGM2/view?usp=share_link){:target="_blank"}, *Social and Affective Neuroscience Society 2022 Annual Conference, Virtual*. **Top poster award**
@@ -236,9 +234,8 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 - **Ahn, J.**, Richards, K., Ortiz, T. (April, 2021). [Recommendations for an intelligent diet](https://htmlpreview.github.io/?https://github.com/keanarichards/nutrients_project_stat571/blob/main/final_project.html){:target="_blank"}, *Wharton Data Science Live 2021, Virtual*
 
 <br>
-<br>
 
-**Poster Presentations**
+**Conference Posters**
 
 - **Ahn, J.**, Mwilambwe‑Tshilobo, L., Bassett, D., Boyd, Z., Lydon‑Staley, D., Mucha, P., Ochsner, K., & Falk, E.B. (2024, April). Brain networks as individual‑level predictors of longitudinal loneliness. *Social and Affective Neuroscience Society 2024 Annual Conference, Toronto, Ontario, Canada (Travel Award winner)*
 
@@ -273,7 +270,7 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 - **Ahn, J.**, Nah, Y., & Han, S. (April, 2016) [Patterns of Functional Connectivity during Preparation Periods Can Predict the Tendency to Give Up in Following Decision-Making](https://6d09de35-a4c2-4d69-8868-8eb5687990c4.filesusr.com/ugd/a6cdc2_336ac6dd6238442a8ee14c4dfaddd045.pdf){:target="_blank"}, *Cognitive Neuroscience Society 2016 Annual Conference, New York, NY, USA* 
 
 ---
-<h1 class="h1" style="color: rgb(0,0,0)" id="activities"> Volunteer Activities </h1>
+<h1 class="h1" style="color: rgb(0,0,0)" id="activities"> VOLUNTEER ACTIVITIES </h1>
 
 I'm passionate about using my research skills to turn scientific insights into practical solutions for complex decisions. To achieve this, I've actively engaged in various volunteer activities, working on projects that make a real difference in areas that matter to me.
 
@@ -314,7 +311,7 @@ Stay tuned for my upcoming Kaggle projects where I'll be predicting music chart 
 
 Email: jeesung@sas.upenn.edu
 <br>
-LinkedIn: linkedin.com/in/jeesung-ahn/
+LinkedIn: [linkedin.com/in/jeesung-ahn/](linkedin.com/in/jeesung-ahn/){:target="_blank"}
 
 </p>
 
