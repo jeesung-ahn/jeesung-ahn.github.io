@@ -37,6 +37,7 @@ Additionally, I build models to evaluate how behavioral interventions can promot
 As a health psychologist and neuroscientist, I strive to bridge the gap between data-driven insights and real-world applications, contributing to a healthier and more connected society.
 
 **Research Areas**: 
+
 Social Connections, Loneliness, Mental Health, Health Persuasion, Behavioral Interventions, Behavior Change, Brain-as-Predictor, Brain-Behavior Relationships
 
 **Education**:
@@ -58,7 +59,7 @@ My research methods are multi-disciplinary and include the followings:
 - Time-series analysis
 - Signal processing (e.g., denoising, despiking, temporal filtering of fMRI signals)
 - Computational network analysis (brain networks, social networks)
-- Machine learning (supervised and unsupervised)
+- Machine learning 
 - Meta-analysis of multidimensional datasets
 - Qualitative content analysis (including text analysis)
 
