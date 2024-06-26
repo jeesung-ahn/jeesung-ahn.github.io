@@ -178,7 +178,7 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
  </div>
 </div>
 ---
-<h1 class="h1" style="color: rgb(0,0,0)" id="publications"> Publications </h1>
+<h1 class="h1" style="color: rgb(0,0,0)" id="publications"> PUBLICATIONS </h1>
 
 **Peer-Reviewed Articles**
 
@@ -197,6 +197,8 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 
 - **Ahn, J†**., Kim, H†., Park, J., Han, S. (2018). [Interactivity of Neural Representations for Perceiving Shared Social Memory](https://koreascience.kr/article/JAKO201836262560035.pdf){:target="_blank"}, *Science of Emotion and Sensibility*
 
+<br>
+<br>
 
 **Preprints**
 
@@ -206,6 +208,8 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 
 - Cosme, D., Kang, Y., Carreras Tartak, J., **Ahn J**., Corbani, F., Cooper, N., Doré, B., He, X., Helion, C., Jovanova, M., Lomax, S., Mahadevan, A., McGowan, A.L., Paul, A., Pei, R., Resnick, A., Stanoi, O., Zhang, Y., Bassett, D.S., Boyd, Z.M., Lydon-Staley, D.M., Mucha, P.J., Ochsner, K., Falk, E.B. (2022). [Study protocol: Social Health Impact of Network Effects (SHINE) Study](https://psyarxiv.com/cj2nx/){:target="_blank"}, *PsyArXiv*
 
+<br>
+<br>
 
 **Working Papers**
 
@@ -231,6 +235,8 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 
 - **Ahn, J.**, Richards, K., Ortiz, T. (April, 2021). [Recommendations for an intelligent diet](https://htmlpreview.github.io/?https://github.com/keanarichards/nutrients_project_stat571/blob/main/final_project.html){:target="_blank"}, *Wharton Data Science Live 2021, Virtual*
 
+<br>
+<br>
 
 **Poster Presentations**
 
@@ -306,9 +312,9 @@ Stay tuned for my upcoming Kaggle projects where I'll be predicting music chart 
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me"> Contact </h2>
 <p class="home-element">
 
-**Email**: jeesung@sas.upenn.edu
+Email: jeesung@sas.upenn.edu
 <br>
-**LinkedIn**: linkedin.com/in/jeesung-ahn/
+LinkedIn: linkedin.com/in/jeesung-ahn/
 
 </p>
 
