@@ -105,6 +105,18 @@ My goal was to create a data-driven algorithm that provides personalized food re
 
 <h2 style="color:rgb(2, 61, 148)">Connecting Mental Well-Being with Networks in the Brain and Society</h2>
 
+<div align="center"><font size="+1"><strong> Self-Perception and Social Networks Shape Perceived Social Isolation </strong></font><br> <a href="https://www.proquest.com/docview/3068383271" target="_blank">Dissertation</a> </div>
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/diss_chap2.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+<div class="column" markdown="1">
+This study explored how internal self-perception and social networks relate to loneliness. We recruited 111 participants from various university social groups and used a round-robin design to measure social connectedness. Key variables included self-liking, bidirectional social connectedness, and structural characteristics of social networks, such as size and modularity.
+Using structural equation modeling, I found that higher self-liking significantly correlated with reduced loneliness, making it the most significant predictor. Larger social networks were also associated with lower levels of loneliness. Interestingly, perceived connectedness with peers and network modularity did not significantly predict loneliness levels. These findings highlight the importance of positive self-perception and extensive social networks in mitigating loneliness among younger adults, suggesting new directions for interventions.
+ </div>
+</div>
+<br>
+
 <div align="center"><font size="+1"><strong> Neural Responses to Peers’ Faces Predict Vulnerability to Loneliness during COVID-19 </strong></font><br> <a href="https://drive.google.com/file/d/1o2xFLkqAM6VyHFtK49yag864zYV92j2s/view?usp=sharing" target="_blank">SANS 2023 poster</a> </div>
 <div class="row">
   <div class="column">
