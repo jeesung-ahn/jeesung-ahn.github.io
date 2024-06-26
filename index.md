@@ -306,8 +306,9 @@ Stay tuned for my upcoming Kaggle projects where I'll be predicting music chart 
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me"> Contact </h2>
 <p class="home-element">
 
-Email: jeesung@sas.upenn.edu
-LinkedIn: linkedin.com/in/jeesung-ahn/
+**Email**: jeesung@sas.upenn.edu
+<br>
+**LinkedIn**: linkedin.com/in/jeesung-ahn/
 
 </p>
 
