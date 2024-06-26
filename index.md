@@ -138,7 +138,7 @@ I tested whether neural responses to peers' faces could predict changes in lonel
 </div>
 <br>
 
-<div align="center"><font size="+1"><strong>Self- vs. Peer- Evaluated Social Status, Mental Health and Social Brains</strong></font></div><br>
+<div align="center"><font size="+1"><strong>Self- vs. Peer- Evaluated Social Status, Mental Health and Social Brains</strong></font></div>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/evaluation_findings.png" style="height: 100%; width: 100%; object-fit: contain">
