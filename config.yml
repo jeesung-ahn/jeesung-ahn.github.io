@@ -55,8 +55,8 @@ menu:
     url:               /#presentations
   - title:             VOLUNTEER ACTIVITIES
     url:               /#activities
-  - title:             CV
-    url:               /assets/files/CV_JeesungAhn.pdf
+#  - title:             CV
+#    url:               /assets/files/CV_JeesungAhn.pdf
   - title:             CONTACT
     url:               /#contact-me
 # - title:             RESUMÉ
