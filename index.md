@@ -152,8 +152,8 @@ I conducted a qualitative review of literature examining the effects of interven
 <br>
 
 <div align="center"><font size="+1"><strong>Unraveling the Negative Loop of Perseverance Thoughts in Depression and Anxiety</strong></font></div>
-<div class="column" markdown="1">*(I was in charge of documenting, wrangling, and engineering behavioral and fMRI datasets.)*<br>
-Repetitive negative thoughts (perseverance thought, PT) are a prominent feature of many mental disorders and a robust predictor of poor clinical outcomes. Although the importance of PT as a source of impairment and an intervention target is well-recognized, it remains a difficult problem to treat. A major obstacle is our very limited understanding of what happens when people perseverate. In this study, we adopted the network control theory (NCT) analysis to examine whether clinical perseverators exhibit more temporally persistent brain states when they have to "turn off" negative thoughts in order to perform a basic cognitive task. 
+<div class="column" markdown="1">
+Repetitive negative thoughts, or perseverative thoughts (PT), are a significant feature of many mental disorders and a strong predictor of poor clinical outcomes. Despite their recognized importance as a source of impairment and an intervention target, PT remains challenging to treat. In this study, we used network control theory (NCT) analysis to investigate whether individuals with clinical levels of perseveration exhibit more temporally persistent brain states when they need to 'turn off' negative thoughts to perform a basic cognitive task. I was responsible for documenting, wrangling, and engineering the behavioral and fMRI dataset.
  </div> 
 
 <h2 style="color:rgb(2, 61, 148)">Other Neuroimaging Projects</h2>
@@ -164,17 +164,17 @@ Repetitive negative thoughts (perseverance thought, PT) are a prominent feature 
   <img class="proj-image" src="/assets/img/tdcs.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
 <div class="column" markdown="1">
-I conducted A/B testing of a novel neurostimulation device (transcranial direct current stimulation, tDCS) and examined its effects and safety on enhancing younger adults’ cognitive abilities, with a particular focus on attentional allocation abilities. More specifically, I examined whether an electric intensity lower than 0.5mA can influence the activity of the default mode network (DMN) in the brain. I applied a group independent component analysis (ICA) and found the low-intensity tDCS altered the intrinsic co-activation of brain regions within DMN.
+I conducted A/B testing on a novel neurostimulation device (transcranial direct current stimulation, tDCS) to examine its effects and safety in enhancing cognitive abilities in younger adults, particularly focusing on attentional allocation. Specifically, I explored whether an electric intensity lower than 0.5mA could influence the activity of the default mode network (DMN) in the brain. Using group independent component analysis (ICA), I found that low-intensity tDCS altered the intrinsic co-activation of brain regions within the DMN.
  </div>
 </div>
 
-<div align="center"><font size="+1"><strong>Deep Learning Approach to Enhance fMRI Data Resolution </strong></font><br> <i>Yonsei Interdisciplinary Research Award Winner (won $5K in research funding)</i></div>
+<div align="center"><font size="+1"><strong>Deep Learning Approach to Enhance fMRI Data Resolution </strong></font><br> <i>Yonsei Interdisciplinary Research Award Winner </i></div>
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/icons.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
 <div class="column" markdown="1">
-In collaboration with electrical engineers, we applied a deep-learning algorithm (convolutional neural network, CNN) to conventional low-resolution fMRI data (i.e., 3.75 × 3.75 × 4 mm voxel size) and successfully converted them into high-resolution (i.e., 1.5 mm isotropic voxel size) images.
+In collaboration with electrical engineers, I applied a deep-learning algorithm (convolutional neural network, CNN) to conventional low-resolution fMRI data (3.75 × 3.75 × 4 mm voxel size) and successfully converted them into high-resolution (1.5 mm isotropic voxel size) images.
  </div>
 </div>
 ---
