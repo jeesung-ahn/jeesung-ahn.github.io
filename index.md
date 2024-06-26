@@ -271,19 +271,19 @@ In collaboration with electrical engineers, we applied a deep-learning algorithm
 
 I'm passionate about using my research skills to turn scientific insights into practical solutions for complex decisions. To achieve this, I've actively engaged in various volunteer activities, working on projects that make a real difference in areas that matter to me.
 
-**Vice President of Consulting** at [Penn Graduate Consulting Club](https://www.penngradconsulting.com/){:target="_blank"} (May 2023 - Present):
+**Vice President of Consulting** at [Penn Graduate Consulting Club](https://www.penngradconsulting.com/){:target="_blank"} (May 2023 – Present):
 + Directed 6 project managers and 30+ analysts in the successful execution of pro bono consulting projects
 + Established strong relationships with 5+ industry clients within the first 2 months of joining the board, doubling the number of secured pro bono projects compared to the previous term
 + Revamped marketing strategies to recruit talented staff, increasing member applications by 300%
 + Initiated structured training sessions for 50+ project managers and analysts on client expectations, high-quality deliverables, and effective presentations
 
-**Consultant** at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/){:target="_blank"} (Sept.2022 - Jan.2023):
+**Consultant** at [Penn Biotech Group Healthcare Consulting](https://pennbiotechgroup.org/){:target="_blank"} (Sept.2022 – Jan.2023):
 + Presented weekly deliverables to the CEOs of a biotechnology start-up as part of an 11-person graduate research team
 + Evaluated 200+ company profiles and clinical trial data, identifying 4 partnership opportunities with the highest synergistic potential
 + Interviewed 10 key opinion leaders in healthcare (e.g., physicians), synthesizing their insights into clear recommendations for clinical trial design.
 + Recognized for exceptional contributions and subsequently recruited as Vice President of Consulting by the Penn Graduate Consulting Club
 
-**Data Scientist** at [Diversity and Equity Initiative in Mind Sciences](https://web.sas.upenn.edu/dive/){:target="_blank"} (Mar. 2022 - Mar.2023):
+**Data Scientist** at [Diversity and Equity Initiative in Mind Sciences](https://web.sas.upenn.edu/dive/){:target="_blank"} (Mar. 2022 – Mar.2023):
 + Designed online surveys to assess the effectiveness of education outreach programs
 + Visualized program outcomes using R (e.g., text-analyzed participant feedback) and delivered actionable insights to program organizers to enhance the overall participant experience
 
